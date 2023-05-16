@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UISpriteAtlas_Merge
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d6081a8d94dea7e46a77466a092c086f, type: 3}
+    - {fileID: 102900000, guid: eb2256636347dd2419f6b0668456a256, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bc248000bde964641ba6f4003f7cf258, type: 3}
+  - {fileID: 21300000, guid: b3f18720f8deb684a8290ddb2c65eb24, type: 3}
+  - {fileID: 21300000, guid: cc0131809c42141469edd7c16aeb079d, type: 3}
+  - {fileID: 21300000, guid: 7e52dad0c68914848a331bd210653e24, type: 3}
+  - {fileID: 21300000, guid: c5c204f07ac4df4448303d4970b2cbbc, type: 3}
+  - {fileID: 21300000, guid: 33da4c71a6f80f241bb504c257446053, type: 3}
+  - {fileID: 21300000, guid: 74a3d1b1fc781e242a5c591a882c0b81, type: 3}
+  - {fileID: 21300000, guid: 07c293d124fc3284d9418f648462f23c, type: 3}
+  - {fileID: 21300000, guid: 6d0cafe1b64a1a4468cf5b82d4832890, type: 3}
+  - {fileID: 21300000, guid: 47de98221055cb54db5fa9a448a7d97f, type: 3}
+  - {fileID: 21300000, guid: 75a42352766579942923070b39e6b370, type: 3}
+  - {fileID: 21300000, guid: db6149b2b8ada9043b4d08f65e4d29ae, type: 3}
+  - {fileID: 21300000, guid: e06c21d2d02ff594698bd3f624f20631, type: 3}
+  - {fileID: 21300000, guid: 90e8d523f356fec41a08bc4e7d95e12c, type: 3}
+  - {fileID: 21300000, guid: 1957fd7312fd4614b965f2ab6431453c, type: 3}
+  - {fileID: 21300000, guid: e0a139a31abcec54bbcf3c841334976f, type: 3}
+  - {fileID: 21300000, guid: f560a0744ea99184a9ea3348674bbc5f, type: 3}
+  - {fileID: 21300000, guid: 5175de2507b0dba428cb61342c04b39a, type: 3}
+  - {fileID: 21300000, guid: cf8dbc450e98eb54e836718bbcb96e95, type: 3}
+  - {fileID: 21300000, guid: 3f0c51a5b1660af4da5d986fbb456aaa, type: 3}
+  - {fileID: 21300000, guid: b0540ac5a8bb79c4ea500b1986d14351, type: 3}
+  - {fileID: 21300000, guid: 46a630f55dada3f49a201b8bcbff6743, type: 3}
+  - {fileID: 21300000, guid: 119bd926834c5064fb53ed99331b6d51, type: 3}
+  - {fileID: 21300000, guid: e6413066edc95b841a9d85839c5e8688, type: 3}
+  - {fileID: 21300000, guid: 5db976865cd0d094aae37b6cde989ce9, type: 3}
+  - {fileID: 21300000, guid: 80ee62a6f1448fb499ae5e94b54b0c30, type: 3}
+  - {fileID: 21300000, guid: f5c230e623b1a2443b5c87247ef47677, type: 3}
+  - {fileID: 21300000, guid: 2f0e8af6290fdf342bfcc10c88004c68, type: 3}
+  - {fileID: 21300000, guid: ce8a0e37df955914a861cd11bf8c5e7e, type: 3}
+  - {fileID: 21300000, guid: b346a8674b79d684c8148f524f3a6f28, type: 3}
+  - {fileID: 21300000, guid: 37f5a3b7a5dd3e44dad75f1f17572d8e, type: 3}
+  - {fileID: 21300000, guid: 4534bfb7fa38c794c93ac63c047cae7c, type: 3}
+  - {fileID: 21300000, guid: 13c851285db27fe488d3247e8c98996a, type: 3}
+  - {fileID: 21300000, guid: 31856b486e8331a41b49e8da18a80bbc, type: 3}
+  - {fileID: 21300000, guid: 800bb278866bbdb43aa8c2d1ed3996a2, type: 3}
+  - {fileID: 21300000, guid: ebddc0d8f228dd744bff8b11ad2f7b23, type: 3}
+  - {fileID: 21300000, guid: 4aae7a1949d548f4e850057895f38b23, type: 3}
+  - {fileID: 21300000, guid: c2985589f471ec94e8e8222605d31074, type: 3}
+  - {fileID: 21300000, guid: 4ba6f789460296446839d6b7c480dfc9, type: 3}
+  - {fileID: 21300000, guid: 79367dc92d3e8f34baf3b2941ca61744, type: 3}
+  - {fileID: 21300000, guid: a367d93ace003be4caee98408ed168fb, type: 3}
+  - {fileID: 21300000, guid: f44bc30bf1fd4434fac40fe41b6cc603, type: 3}
+  - {fileID: 21300000, guid: 5ce42b2b71e9ddd4b871d0e06f8291a7, type: 3}
+  - {fileID: 21300000, guid: 376ab2eb05861d24a8de9b9076e9437f, type: 3}
+  - {fileID: 21300000, guid: d26c481ce2e50b54d9609185277ddb96, type: 3}
+  - {fileID: 21300000, guid: 4efb94cc2959ab7469083e0040d32e28, type: 3}
+  - {fileID: 21300000, guid: 8c09e9dce3112e54c92d4161c64912e9, type: 3}
+  - {fileID: 21300000, guid: dc9dda3d3eb4a9c40a5d5900af15bd04, type: 3}
+  - {fileID: 21300000, guid: a2427a9d6f931ca4aab85c11726f102f, type: 3}
+  - {fileID: 21300000, guid: 465281ad8775e0042b04810f1ae8ee27, type: 3}
+  - {fileID: 21300000, guid: 6b8fb5dd51b03c8478b539e15e70dea9, type: 3}
+  - {fileID: 21300000, guid: 2f4e51aee437e7646a3828861a2c5309, type: 3}
+  - {fileID: 21300000, guid: 58f0b8ae3936d204f86404ff817b4ad0, type: 3}
+  - {fileID: 21300000, guid: 4cf6c71f060fd8b4fb45414b969900be, type: 3}
+  - {fileID: 21300000, guid: ad57da6fe2a65704c92b20ac96270966, type: 3}
+  - {fileID: 21300000, guid: fc8e41ff3411df94eb5c0f8579367740, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Daily5Bg
+  - BGMergeSpurLine6bg
+  - MailBG3
+  - Daily4Bg
+  - CampingBG3
+  - CopyPointPg2
+  - CopyPointIcon1
+  - CopyCardLine
+  - Dungeon2Background
+  - CampingBG2
+  - Floor_Time
+  - Bg_Table_1
+  - CampingBG1
+  - FloorOutline
+  - CopyPointCard2
+  - BGMergeSpurLine4
+  - Activity_Bg
+  - CopyPointFloor3
+  - CopyPointPg1
+  - BGMergeSpurLine5
+  - CopyPointDown
+  - BGMergeSpurLine6
+  - CopyPointCard1
+  - FloorTitle1
+  - MergeSpurLine4BG
+  - CopyPointTime
+  - CopyPointFloor2
+  - CopyPointUp
+  - Dungeon4Background
+  - WeddingBG3
+  - Dungeon1Background
+  - CopyPointIcon2
+  - WeddingBG1
+  - CopyPointFloor1
+  - FloorOutline_gold
+  - Strip
+  - Copycard
+  - CompleteTag
+  - Lighting
+  - LoveBg3
+  - Bg_Restaurant
+  - LoveBg1
+  - WeddingBG2
+  - MailBG1
+  - BGMergeSpurLine5bg
+  - MailBG2
+  - Daily3Bg
+  - Daily6Bg
+  - FloorTitle
+  - Dungeons_Activity_Bg
+  - Dungeon3Background
+  - Base
+  - Daily1Bg
+  - Floor_Goods
+  - Dungeon5Background
+  - LoveBg2
+  m_Tag: UISpriteAtlas_Merge
+  m_IsVariant: 0

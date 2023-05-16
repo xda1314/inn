@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RemoteAtlas_Lover
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c4f4e6fc1a524dc49aa59badcf378cae, type: 3}
+    - {fileID: 102900000, guid: 79a5df9c54b05944795a33dbb76cc04b, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9755330012079e74a9fcc6f950e8b544, type: 3}
+  - {fileID: 21300000, guid: e02c4720d6f256e41a7d41e19a711f01, type: 3}
+  - {fileID: 21300000, guid: d17ade204ccfff342b891a402ceab813, type: 3}
+  - {fileID: 21300000, guid: abdbec4076456c341b19318d1cecf562, type: 3}
+  - {fileID: 21300000, guid: 058e6470b0c661247b35a56795e50bc6, type: 3}
+  - {fileID: 21300000, guid: cb224d11d7bfdea4fa4cce3c2ffa6277, type: 3}
+  - {fileID: 21300000, guid: 9f2f2731e1660214385610b64efafb42, type: 3}
+  - {fileID: 21300000, guid: 29435eb114fca6642b5105851f95c2bd, type: 3}
+  - {fileID: 21300000, guid: 25102ac1dbdf9e146847929cbaf851d4, type: 3}
+  - {fileID: 21300000, guid: d9d631e1da0b7f448b7a4d57a0d15b24, type: 3}
+  - {fileID: 21300000, guid: 729551e130697ba4493b3b351bc40978, type: 3}
+  - {fileID: 21300000, guid: 3d6f4c0282514a1459da14354478ef0d, type: 3}
+  - {fileID: 21300000, guid: 059b3162599a83842b454efcad48f59a, type: 3}
+  - {fileID: 21300000, guid: 8edeaf622a4192b46945a7a8fd4c609e, type: 3}
+  - {fileID: 21300000, guid: 7510a192aa20cfd4495d654df1dad832, type: 3}
+  - {fileID: 21300000, guid: d4fe3fc265a2adf469fc781beb4cfb1c, type: 3}
+  - {fileID: 21300000, guid: 066a24e2a17d06045beb3bf75e05c80b, type: 3}
+  - {fileID: 21300000, guid: e8af12f2071d2d0459a67064ac466c94, type: 3}
+  - {fileID: 21300000, guid: ec8f76f21ffaf7349940851dc55baf01, type: 3}
+  - {fileID: 21300000, guid: 2e2f6af2f081c29468403d56d69a0212, type: 3}
+  - {fileID: 21300000, guid: 33a4bf2367719ed4685cfd5eb2637b00, type: 3}
+  - {fileID: 21300000, guid: a7a14643ea8df4c488c6c44c299149f6, type: 3}
+  - {fileID: 21300000, guid: e074b5d3c4c3e544b9a8e6bf7261e937, type: 3}
+  - {fileID: 21300000, guid: 0a08414415a83274abfc0367da3ff344, type: 3}
+  - {fileID: 21300000, guid: c6a3b954561c3c545bb9909377838d8b, type: 3}
+  - {fileID: 21300000, guid: cad4b3642d8fac4479970189ad467aca, type: 3}
+  - {fileID: 21300000, guid: d082baa4c3c804f4c97ab52f6698b9f7, type: 3}
+  - {fileID: 21300000, guid: 514985d451791dc42a1704e70b04e9f6, type: 3}
+  - {fileID: 21300000, guid: 3b9bb2e4337c7dd4d98223e7adf076b1, type: 3}
+  - {fileID: 21300000, guid: 125b7945128b0144f9aa6f7a70db5993, type: 3}
+  - {fileID: 21300000, guid: 1cf370a508e8acd4195fcdf5f22a977b, type: 3}
+  - {fileID: 21300000, guid: 432bd8a544105014fa1545b293d7e929, type: 3}
+  - {fileID: 21300000, guid: e0aba5c56f885ee40a9dae2912b6fc41, type: 3}
+  - {fileID: 21300000, guid: ef782016954368d4698650979893c14a, type: 3}
+  - {fileID: 21300000, guid: 0956b92653ad1404885156ee325c8a74, type: 3}
+  - {fileID: 21300000, guid: 0cf802369c678c4488109765870c87f0, type: 3}
+  - {fileID: 21300000, guid: 89d32236930b68c48bb37fee02296ea5, type: 3}
+  - {fileID: 21300000, guid: e67c6046602bf4246b6050dea416f5c2, type: 3}
+  - {fileID: 21300000, guid: 10a5c2562969ad746814c6fb4068c136, type: 3}
+  - {fileID: 21300000, guid: 707de756527cfd846a84c38a61108f06, type: 3}
+  - {fileID: 21300000, guid: c5989286aa524e5499df3e6cf9cc0ca0, type: 3}
+  - {fileID: 21300000, guid: 354936a629f1382409f291a553c86f7c, type: 3}
+  - {fileID: 21300000, guid: 87e868074392d3d43add3f62e27b16d4, type: 3}
+  - {fileID: 21300000, guid: e0789317745d5c74fbd3cc5128dbc19e, type: 3}
+  - {fileID: 21300000, guid: 5d46dd5725e46cb4288cd1430386f03c, type: 3}
+  - {fileID: 21300000, guid: 0a863c779167afa43a0c2d74c34e1359, type: 3}
+  - {fileID: 21300000, guid: b41635870427f5243af1c96b41829d74, type: 3}
+  - {fileID: 21300000, guid: 3908b9a71f6f0924ebb910765d6c9906, type: 3}
+  - {fileID: 21300000, guid: babe90b73c771024396be735c4411184, type: 3}
+  - {fileID: 21300000, guid: ef0a30080c32f184497f24bcbbca4d6c, type: 3}
+  - {fileID: 21300000, guid: 56609f08be517ce40ac3c6a6653fa384, type: 3}
+  - {fileID: 21300000, guid: c6e79968c9f293c449440ae6520482ef, type: 3}
+  - {fileID: 21300000, guid: cd17de7810c5d354085d2c2f47fd0f94, type: 3}
+  - {fileID: 21300000, guid: dd4eb388bd945824cbd6daf2cbc4ec63, type: 3}
+  - {fileID: 21300000, guid: 6b635ce8f3732934a94298ecfde06be5, type: 3}
+  - {fileID: 21300000, guid: 7e3e0c09013d8bc4992c7b8d4d5d2727, type: 3}
+  - {fileID: 21300000, guid: 75d7eb194dc5df54aba8371e28d4e4fd, type: 3}
+  - {fileID: 21300000, guid: 9bab7529602f6d34b942566db1227985, type: 3}
+  - {fileID: 21300000, guid: ab3e3729ff15c1941b56b394d093155d, type: 3}
+  - {fileID: 21300000, guid: 527df86986d5c9c438850a23dd111e49, type: 3}
+  - {fileID: 21300000, guid: 6765f6e9745fb6147a2da3dd2a6a78e6, type: 3}
+  - {fileID: 21300000, guid: 38dd2a1ac0f0e8a4e8dbcb92466f2d9f, type: 3}
+  - {fileID: 21300000, guid: ada4c55aff1952d4688230331c015554, type: 3}
+  - {fileID: 21300000, guid: 10facf6a367ac7248a028b459754dbeb, type: 3}
+  - {fileID: 21300000, guid: ac258b8a3843f4747a08d40520ac6578, type: 3}
+  - {fileID: 21300000, guid: f1bb1dfa14a520744bdb081fa37ff948, type: 3}
+  - {fileID: 21300000, guid: 132deffaa6bff3a4bb692dc729f52e0c, type: 3}
+  - {fileID: 21300000, guid: d973574c98eb82144b3d93befe77471a, type: 3}
+  - {fileID: 21300000, guid: b108aa6ccc4ddc84589f41db5d5a26cc, type: 3}
+  - {fileID: 21300000, guid: a858029c620b80943bf72af5804b7e51, type: 3}
+  - {fileID: 21300000, guid: be01a99c0c16e8b47b4b9220b8f06cf0, type: 3}
+  - {fileID: 21300000, guid: 17056bdc7b2314d4ca5b1a678e803677, type: 3}
+  - {fileID: 21300000, guid: 30054e3d454e8cd45976ecf47431738c, type: 3}
+  - {fileID: 21300000, guid: 82b5e44d6fc2e504a9d9af0605e45488, type: 3}
+  - {fileID: 21300000, guid: c44e141ee1ee4824da4008bd22a3a77e, type: 3}
+  - {fileID: 21300000, guid: 041eb68e21e7513429fb5c8744f54f9f, type: 3}
+  - {fileID: 21300000, guid: 7a2dab9ef064f604992fc336e1c51b98, type: 3}
+  - {fileID: 21300000, guid: 9c531ade7df497c4181f2e03a5b54827, type: 3}
+  - {fileID: 21300000, guid: d0947f5fe71c59d42ba6cf88f3b58448, type: 3}
+  - {fileID: 21300000, guid: bf710d6f94408e743ac4889ea458d4d1, type: 3}
+  - {fileID: 21300000, guid: 293aa9cf4ed591d4393bbc233a622d06, type: 3}
+  - {fileID: 21300000, guid: 0f716ecf274180e4c9159f08d708d2cf, type: 3}
+  - {fileID: 21300000, guid: 31d163df665471b448722f779449f410, type: 3}
+  - {fileID: 21300000, guid: 1af7f3ef2272b5946ab9d1673e94c705, type: 3}
+  - {fileID: 21300000, guid: f91a15efe65db014a92f668dacc36937, type: 3}
+  - {fileID: 21300000, guid: a3f6e8ff18b5f3845b840c6b74baeeea, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Cupid_4
+  - DiningTable_1
+  - ValentineCandles_4
+  - Cupid_3
+  - ValentineJewelry_2
+  - DatingItem_3
+  - ValentineChocolate_1
+  - Souvenir_3
+  - DatingPreparation_1
+  - Souvenir_4
+  - Cupid_2
+  - DatingPreparation_4
+  - EternalRose_1
+  - ValentineJewelry_4
+  - Line
+  - ConfessionBalloon_2
+  - Love
+  - ValentineJewelry_6
+  - Cup
+  - ValentinePresentCabinet_1
+  - ConfessionLetter_1
+  - DatingItem_4
+  - BG1
+  - ConfessionBalloon_1
+  - ValentineJewelry_1
+  - ValentineRose_2
+  - ConfessionBalloon_5
+  - ValentineChocolate_3
+  - LevelFloor_Lattice
+  - ValentineDinner_3
+  - ValentineChocolate_2
+  - ValentineCandles_5
+  - DatingItem_5
+  - ValentineDinner_8
+  - ValentineRose_4
+  - Dungeons_Activity_Bg3
+  - ValentinePresent_3
+  - ConfessionBalloon_7
+  - ValentineCandles_1
+  - Icon12
+  - ValentineDinner_5
+  - DatingItem_2
+  - ValentinesDay_Bg
+  - LevelFloor
+  - ValentineCandles_2
+  - ValentineCandles_3
+  - ValentineRose_1
+  - Souvenir_2
+  - ValentineChocolate_4
+  - Cupid_1
+  - ValentineDinner_1
+  - ValentineJewelry_5
+  - Bg
+  - Souvenir_6
+  - DatingPreparation_2
+  - ValentinePresent_1
+  - ValentinePresent_2
+  - Souvenir_5
+  - Cupid_5
+  - DatingBench_1
+  - ValentineCandles_7
+  - LevelFloor_Lattice1
+  - FloorTitle5
+  - ConfessionBalloon_3
+  - Qetal
+  - ValentineDinner_7
+  - ValentineDinner_6
+  - ValentineJewelry_3
+  - SouvenirBox_1
+  - ConfessionBalloon_4
+  - Rose
+  - DatingPreparation_5
+  - Cake
+  - ValentineChocolate_6
+  - DatingPreparation_3
+  - ValentineDinner_4
+  - ValentineDinner_2
+  - ConfessionBalloon_6
+  - Souvenir_1
+  - Souvenir_7
+  - DatingItem_1
+  - ValentineCandles_6
+  - ValentineRose_5
+  - ValentineRose_3
+  - ValentineChocolate_7
+  - ValentineChocolate_5
+  m_Tag: RemoteAtlas_Lover
+  m_IsVariant: 0

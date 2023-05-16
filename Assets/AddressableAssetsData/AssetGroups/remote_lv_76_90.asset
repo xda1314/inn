@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: remote_lv_76_90
+  m_EditorClassIdentifier: 
+  m_GroupName: remote_lv_76_90
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7accf2ae27489cb4fab376d4463964e8
+  m_SerializeEntries:
+  - m_GUID: 6fbb7c93dd7027347a464d218de58a25
+    m_Address: Butterfly_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f04b5f84deb64254695324cfce24dc2b
+    m_Address: Butterfly_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b0bec72a4c17984cb8b43205614f2d7
+    m_Address: Butterfly_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd2d3865b2fd01d41b3f375b0a32c7b6
+    m_Address: Butterfly_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddbc653e1635128409d8c69cc500c6e3
+    m_Address: Butterfly_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96bc63f27cc5b4c4185c450f95bca21c
+    m_Address: Butterfly_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd070ad9987fde24fa8d469a2dfc737c
+    m_Address: Loom_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 056dd4f946107d846834172ce8354478
+    m_Address: Loom_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7c39744b8b771e4bb00597f49c76114
+    m_Address: Loom_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3d5f1d73e60cfb42aa82d9c2a855eed
+    m_Address: Loom_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee47145a3a509b14ca32554e460ea35e
+    m_Address: Loom_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59143bef668b7d14b990f8aacb391f53
+    m_Address: Loom_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8735675cebcb9be4a8ec569c2a327cb3
+    m_Address: Yarn_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fcbcb56c66c4d54fb583d0b6b248688
+    m_Address: Yarn_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c59799ec85d1d594eaba759db37500e7
+    m_Address: Yarn_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6cd7085949d0e2498fe50d10c51c1f0
+    m_Address: Yarn_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fbc9beb2097bed4b82cdb03ae3a2704
+    m_Address: Yarn_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2226192e6e25feb4ab5c6474c9837fe2
+    m_Address: Yarn_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43f787b193d2bc5439fac7380bb16a3c
+    m_Address: Yarn_7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b005db26a951054f9c6fc802f65fcf3
+    m_Address: Yarn_8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbd40e55b8bc41545a15b008f6422112
+    m_Address: Yarn_9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd6677cb8f21df2449cb69827e0cb5f0
+    m_Address: cj07_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e44765286e5753e4cbe7b5dd4b161c54, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 11aa984a208f7a54cadaced7789506f8, type: 2}
+    - {fileID: 11400000, guid: 31599f0c66bb12846a603d99e83cabd9, type: 2}

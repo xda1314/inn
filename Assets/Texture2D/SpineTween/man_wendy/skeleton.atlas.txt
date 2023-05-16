@@ -1,0 +1,19 @@
+skeleton.png
+size:1024,256
+filter:Linear,Linear
+图层 10
+bounds:2,32,220,187
+offsets:3,0,223,187
+rotate:90
+图层 13 拷贝
+bounds:191,40,83,36
+offsets:4,3,88,40
+图层 2
+bounds:353,2,128,77
+offsets:9,0,137,77
+图层 3
+bounds:191,78,160,174
+图层 7
+bounds:353,81,171,162
+offsets:0,0,171,178
+rotate:90

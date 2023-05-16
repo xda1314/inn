@@ -1,0 +1,561 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UIPrefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: UIPrefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 77131b39faf005a499f00155f9969e8d
+  m_SerializeEntries:
+  - m_GUID: 3cfd031ccf6facc4c8df58f3d20ded4e
+    m_Address: UIPanel_BattlePass
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6cfb2f91dd2d1d345823f4887785913f
+    m_Address: UIPanel_BuyBattlePass
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f05eac2d26d6b64fab644e67f127a5b
+    m_Address: UIPanel_ChangeName
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73fb824fe9837ce4aa9ce66c047c821f
+    m_Address: UIPanel_ChooseLanguage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a132269ebecc1f43a51bd260e5c34e9
+    m_Address: UIPanel_DailyTask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba05bfaa62e916a4e866f35dc38657e5
+    m_Address: UIPanel_NewItemDiscovered
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eae4c1cdfed40994ea0ceac1e2dbe4c7
+    m_Address: UIPanel_ShowTip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cee1148bdfc054e428ef1003b13f6ab5
+    m_Address: UI_InternalShop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f6653ddbdb043c640925c7b7da136026
+    m_Address: UI_Shop_Daily
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df9071f0292bb3845b3ddfd329cca449
+    m_Address: UI_Shop_Discount
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b524ddad0823a944949294f4f1fdd1c
+    m_Address: UI_Shop_GemsOrCoins
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f8f38434f1604c45abce6fd54342675
+    m_Address: UI_Shop_MonthlyCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9845c30b3d4ab245b0bea7485985414
+    m_Address: UI_Shop_NormalItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a14c859889242574083a87ede3d0b7d9
+    m_Address: UI_Shop_Packages
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c53b931ae0606394ab8ed8bcf05b03cd
+    m_Address: UI_ShowTip_Item
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9fc277a7e9f7c145805162e5f0fd4ab
+    m_Address: UI_Spin_Item
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6c26d15bb245284091c5d55da914cbd
+    m_Address: UIPanel_TopPopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a7211b65ea2f4845a403150b5071bb7
+    m_Address: UIPanel_Task
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5aebcff0bdaf63449b66d6850b969da
+    m_Address: UIPanel_Store
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83b423fa09c16a74d906060a4d43f290
+    m_Address: UIPanel_StarRewards
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e001d619ced50d43a57baa830af334d
+    m_Address: UIPanel_SpinWheel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27c225f496f281b4596e79a5625df030
+    m_Address: UIPanel_ShowRewards
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb6d43d58bbf0304cbf29c241fbe433f
+    m_Address: UIPanel_NovicePackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2117f79f931c9644a2d92374e20fe65
+    m_Address: UIPanel_Merge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1acdd357cfffccf4a9dc26fe052a048a
+    m_Address: UIPanel_LevelRewards
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20472194e9fbbcb428e92448ff8f9c51
+    m_Address: UIPanel_Jigsaw
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 93b1fc0bb48983a4ab268787d3c83c48
+    m_Address: UIPanel_FixSell
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d6142ac00f931b045b15103598c01414
+    m_Address: UIPanel_ExitGame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea155ca833e2f4747a0b86076d8d0e9d
+    m_Address: UIPanel_DungeonTask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e681dd35505eb3478e82c6dab0ad990
+    m_Address: UIPanel_CompleteLevel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b2fbabd49f70034687379d86d1d6802
+    m_Address: UIPanel_BranchRedeem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4b93a19b356865649a9e1735374343c8
+    m_Address: UI_TaskItemBg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 29b70e8cb20bced46b7a48b0d8188841
+    m_Address: UI_TaskItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1060547eb5265ca40a5d10cf1d245e80
+    m_Address: UI_Shop_Personal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50d5a957445bc464c96afbf4cf6a1675
+    m_Address: UI_Nosignal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 275af7659527edb45b63eec95b9fb598
+    m_Address: UI_NewFiling
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c47ad902ed1266045a7f1dcaf6dd0965
+    m_Address: UI_DailyTaskItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9dcf39cd56f03148af61bf96240c3c5
+    m_Address: UI_CommomItemBg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fdd6ab2e3a55e744da88613883a20ec9
+    m_Address: UI_CollectionsItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90b2d6643bcaaf5459242a448362f8df
+    m_Address: UI_CollectionsFrame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e05b9eb9b180c4488b5f7387bd0f223
+    m_Address: UI_TextTip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b98bf2f9e388f0f4c99cb9f6759ba06e
+    m_Address: StoreItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aad06155c4fa1a546919bac5e9e4eec2
+    m_Address: ShowItemInfo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc7938cd027f9f149a51ed0828ce7c29
+    m_Address: RedPoint
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c115734804c75eb4cb1a3d4ee975227e
+    m_Address: ItemBG_Storage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca2f4b91835726c49bb5c1b2ec356ede
+    m_Address: Item_Task
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2887dae8ae937624db25e75cf28b47d5
+    m_Address: Item_Reward
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9727c408649c864d9cf20ccfb60aa74
+    m_Address: Item_GiftBag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa6b2c24cd1b29f479aff003348ad903
+    m_Address: exp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04a8cc66c5c1d004b8d12576af588f84
+    m_Address: Gems
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b70991e40e49a88488e4b0c96266426e
+    m_Address: DungeonTaskRewardItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f6d418763350c35469212fa0af92ae72
+    m_Address: BranchRedeemRewardItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31c4530efae306b4693e728f8f3477a6
+    m_Address: BattlePassRankRewardItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f6e2da8c58129f44da99517ed13b47b7
+    m_Address: UniversalPrefb_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ccb22c0a43021b4d9e3593917188895
+    m_Address: UniversalPrefb_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e9bcbcc8c000fb4caf54a13fc795537
+    m_Address: UniversalPrefb_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2770c548c29bb9148bf21efc2709b4de
+    m_Address: MagicWand
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f82a8c372d66ac243a86a8a6310938e1
+    m_Address: Icon_Reward_Points
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64a4a69a301882341ac1ac9aab24ce2d
+    m_Address: Icon_Reward_Stars
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f8bfa6c54f373524583ddce9368bc2ca
+    m_Address: Icon_Reward_Love
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 981cf5240b66fbb4fbee238b72e6ad36
+    m_Address: Icon_Reward_Gems
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1dd861a042814bb4d8f599e0e15ec60c
+    m_Address: Icon_Reward_Exp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21c00b357d72c284dbba6940e5b36966
+    m_Address: Icon_Reward_Energy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f797693961c8440498ac06b7768c72b3
+    m_Address: Icon_Reward_DunEnergy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e566f6233861c5246848ca62b0357c8e
+    m_Address: Icon_Reward_Coins
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 528f0138e1d36df4cae6489578f4ba5e
+    m_Address: GemsShop_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57591576671c48748ac6dfabe1ae68ab
+    m_Address: GemsShop_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56a7831d7987d0e4c9d58827b3e562c8
+    m_Address: GemsShop_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a07d930d179ecda48852b849df308754
+    m_Address: GemsShop_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23adb7588872a464092294d18de8ae1b
+    m_Address: GemsShop_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8a92fcfcc318b15449587c59c87fbc7a
+    m_Address: GemsShop_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3cff03f85d2cff949a056be3b2a9b046
+    m_Address: DailyTasks_Shop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ca6c426e1573164db6f75134c946b05
+    m_Address: DailyTasks_Order
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 243aaf401691b944eab82807cf612417
+    m_Address: DailyTasks_EnergyCost
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e4fdacad09665849b7bf658629c808a
+    m_Address: DailyTasks_Energy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 12456d3fcbbdad04b99e56f28a4556d8
+    m_Address: CoinsShop_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba047ffb3a0a01440bb3e07675817a03
+    m_Address: CoinsShop_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95f1c39c71165214398c7a391b185bb2
+    m_Address: CoinsShop_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 845be3811c48d1445add483fc1ecb6b1
+    m_Address: CoinsShop_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64f851d1742227949979cd482bfbb001
+    m_Address: CoinsShop_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e4288b72b521d545b0f8a7bab96cf77
+    m_Address: CoinsShop_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f7a75d423993414a956243ccc99a973
+    m_Address: Energy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37ce2f40f0c838245b918b32314d0073
+    m_Address: DunEnergy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e93e77604e6c704fa8dd333c2a4d4d4
+    m_Address: Coins
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8c8e04aefe0c284ebc182b16d1c7e80
+    m_Address: UIPanel_BranchTask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa6f7ca7d3a5ab44786b4e1b7d8ebac4
+    m_Address: UIPanel_Loading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b92eee14233b506418ef4dfb840a063b
+    m_Address: GameCoreUI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a8261cee8d39da4da6fc963af0eb624
+    m_Address: UIPanel_DressUpPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8096087ddbe14f546b5b918d8533b3ca
+    m_Address: UIPanel_GourmetPackage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aeeb426b5208a6d47a57bfe73235d742
+    m_Address: SwallowItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a63dbde24d0c6b341a05025e8da92cff
+    m_Address: UIPanel_General1Package
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 689a1a107f134df4e86e445010dab2d1
+    m_Address: UIPanel_General2Package
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d26239e22f87e99449f84a3a2a2f6933
+    m_Address: UIPanel_General3Package
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: de6bbad473c3d71459a0d7f1fe72e65d
+    m_Address: UIPanel_General4Package
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b34ed88e4024934c935b822fb0933eb
+    m_Address: UIPanel_MoreGame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a41c3e3cde8d05145baa27949298173f
+    m_Address: UIPanel_push1Package
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02bfc3bbc25248447b3966d3fd0a76ec
+    m_Address: UIPanel_Mail
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15cb0ba4c154e894a8a91b7a02eb4705
+    m_Address: Item_Mail
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51810f962360c9745928a73bed55dbb0
+    m_Address: UI_BannerItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b84deb5b132f8546a61f1a499b8d9c7
+    m_Address: UIPanel_Suggest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb2dc4489d0715044a4bf91b3fa3764f
+    m_Address: UIPanel_Evaluate
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c07af4b0e825d7c4b95edc7aa4e13693
+    m_Address: UIPanel_NovicePackage2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d083253a3d6ee5444ba10228b6fa43f3
+    m_Address: UIPanel_BlackBoard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 521f294bf22b1874689bfc44c890764c
+    m_Address: Icon_Reward_BPScore
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 090026a018c1c59429723f82347182dc
+    m_Address: UIPanel_Download
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f99d04ee4d0e9d4c85095a1ba884c07
+    m_Address: UIPanel_TutorBattlepass
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5565e6c845ca947479fab6d254ef98be
+    m_Address: UIPanel_TopNoticeBar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f04f43ab38c5d3347a8b3145a30c163b
+    m_Address: UIPanel_ChooseSkin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4fa09c273cf25e6469e7a94cf1a546d6
+    m_Address: Item_ChooseSkin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a50dde1e94796fa44a9003fa1dd05c23
+    m_Address: BranchItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 845c99dd8a599d64a8fd301060dc5422
+    m_Address: UIPanel_Tutorial_Merge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: add9920d9cfe81f469309c7b3544b263
+    m_Address: UIPanel_ShowCountTip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 35dffa0fc81f0c94f9898475c0814490
+    m_Address: UIPanel_ShowOutputTip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd3ddf42426dd934d90274cc4b358ffe
+    m_Address: UIPanel_ShowRareTip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe4615f4a0e1db644a8b4edeb0707c47
+    m_Address: UIPanel_ShowSpecialTip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be2d9ed163a45ac43812ecae6b23bc00
+    m_Address: mail_battlepass
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4cc3eec856eb363448b42ebf95ed7959
+    m_Address: mail_weeklyCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 043558d5b6385ba4eb7cf91ba092980a
+    m_Address: UIPanel_DownloadFail
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8aa88773359d97e4b8bfa114274c8cd4
+    m_Address: UIPanel_AccountLogin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60234dc9a6b669d42beea715408352a7
+    m_Address: UIPanel_EmailLogin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ad7e0371c6b1114b94b8a080cce190d
+    m_Address: UIPanel_LoginTip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f267b294efe87b45b2e234b94297a95
+    m_Address: Item_Storage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73dbe13af282aac4bb08ad90c11a289d
+    m_Address: Lv
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f54de0666acf7444989b85ee689f344c
+    m_Address: UI_Shop_OfferItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a7a29c03833ec24598c9ec977c47936
+    m_Address: UI_Shop_Offer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fabb93268692e0847bdb27e2994b552a
+    m_Address: UI_Shop_MoreOffer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e81afe3223f213b47a31133b9d96935f
+    m_Address: UIPanel_InAppMessage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e8d13b7040a223478268f31f7bd2ede
+    m_Address: UIPanel_RewardCode
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb10c2e76ffd8ab4c9dcd8d7ac93c8ee
+    m_Address: UIPanel_LoadingAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d901728252789a4291eb26ca309a47d
+    m_Address: UI_Shop_AD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c39730aa8879a24468eee1a8f426d597
+    m_Address: UIPanel_ADGift
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27acc4d178599d948a0658a134c34c99
+    m_Address: UIPanel_ActiveReward
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 86a4546d1b8203f40854060919b78713
+    m_Address: UI_Panel_Daily
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b362a9bf6087b434fa757c904aa559b6
+    m_Address: UIPanel_CrossPromotion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e44765286e5753e4cbe7b5dd4b161c54, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3d797050acaeeea478a4aac4a6c5aa00, type: 2}
+    - {fileID: 11400000, guid: 7e9f9cd3f769a3a46b64409bd12207ef, type: 2}

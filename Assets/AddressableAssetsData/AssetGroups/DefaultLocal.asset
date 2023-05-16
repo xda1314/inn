@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: DefaultLocal
+  m_EditorClassIdentifier: 
+  m_GroupName: DefaultLocal
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e3eb0dce1955b7f4d8eb6342d460210f
+  m_SerializeEntries:
+  - m_GUID: 368ceeb1e1c1d994785b6780733aeef3
+    m_Address: SO_AudioClip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: feb27f07ef9018940a3aab949c4c7655
+    m_Address: IVYData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 387de839dbcb0bc44819d302932ef6b4
+    m_Address: __UI__/TudorLayer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 016474f17492f494893716a0325311eb
+    m_Address: __UI__/__StencilTest__
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dc0381804c01b7a4aab7813f376492e3
+    m_Address: __UI__/__StencilWrite__
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c721de70e5f40f942a9ce095122aaa2c
+    m_Address: __UI__/StencilTest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 07129cdf696b4024e8ffbc41d24120c3
+    m_Address: __UI__/StencilWrite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e44765286e5753e4cbe7b5dd4b161c54, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 630181847231c7e489162574fdd2df25, type: 2}
+    - {fileID: 11400000, guid: 4c23a1917aed6324aa3235fa8efd6f49, type: 2}

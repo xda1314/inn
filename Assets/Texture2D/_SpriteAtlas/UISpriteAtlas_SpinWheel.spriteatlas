@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UISpriteAtlas_SpinWheel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e17e36cb1ed51d14d975cd525c926b32, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ea4781704a1a2aa40b9dcf9906195f6f, type: 3}
+  - {fileID: 21300000, guid: 181a37716de251d4fa981f5ee8d2618e, type: 3}
+  - {fileID: 21300000, guid: 9d217262765ee3d4ca332b8d9f9e2e07, type: 3}
+  - {fileID: 21300000, guid: 9fbac905de28bda41a21105509aafa31, type: 3}
+  - {fileID: 21300000, guid: a8189908f924bee4aa8ac14613455bdd, type: 3}
+  - {fileID: 21300000, guid: 67556b38d5106f0408f2a25513197b7b, type: 3}
+  - {fileID: 21300000, guid: d10d4c697c7a51340ba7e70c8d0cbb6e, type: 3}
+  - {fileID: 21300000, guid: e6c7f32a7a015ca4b8cc1d74a43ede94, type: 3}
+  - {fileID: 21300000, guid: b416e86b0f1ef3e4b94356bc48d85ab5, type: 3}
+  - {fileID: 21300000, guid: 1c18765ced64a69438048c214d26cc99, type: 3}
+  - {fileID: 21300000, guid: 32254f4f1efc6674eac19c687b366e64, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - LuckDrawBg4
+  - LuckDrawBg2
+  - LuckDrawClose
+  - LuckDrawPointer
+  - LuckDrawBg3
+  - LuckDrawBg1
+  - BtnPerple1
+  - LuckDrawPointer2
+  - piaodai
+  - LuckDrawLamp2
+  - LuckDrawLamp1
+  m_Tag: UISpriteAtlas_SpinWheel
+  m_IsVariant: 0

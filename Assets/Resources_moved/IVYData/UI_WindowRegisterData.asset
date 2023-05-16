@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 770a391e105e188429ff2f02b4da5b6f, type: 3}
+  m_Name: UI_WindowRegisterData
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  dataList_:
+  - registName_: Main
+    windowPrefab_: {fileID: 1972491371317082, guid: 9d77a5ce1f3cabc41afcbbab83040e77,
+      type: 3}
+    description_: 
+  - registName_: PopUp_LevelWin
+    windowPrefab_: {fileID: 1212648293293466, guid: 10880b7316c5db74b881ee36f41afd5d,
+      type: 3}
+    description_: "\u5173\u5361\u80DC\u5229\u5F39\u51FA\u754C\u9762"
+  - registName_: PopUp_MainOption
+    windowPrefab_: {fileID: 1616425966405366, guid: c2c17e8be5bf2324085dfbc6294171ff,
+      type: 3}
+    description_: "\u4E3B\u754C\u9762\u8BBE\u7F6E"
+  - registName_: PopUp_Shop
+    windowPrefab_: {fileID: 1192925371598652, guid: ce121c2bfde206941b03883da6df9642,
+      type: 3}
+    description_: "\u5546\u5E97\u754C\u9762"
+  - registName_: PopUp_ShowLevel
+    windowPrefab_: {fileID: 1084949259665344, guid: b9bfd1f5c7605434c803476f84b4ee49,
+      type: 3}
+    description_: "\u5C55\u793A\u5173\u5361\u754C\u9762"
+  - registName_: PopUp_Energy
+    windowPrefab_: {fileID: 1043369207739788, guid: 1f60ae6a849648749b7775d74e04207c,
+      type: 3}
+    description_: "\u8D2D\u4E70\u4F53\u529B\u754C\u9762"
+  - registName_: Editor_PopUp_MessageBox
+    windowPrefab_: {fileID: 1960996095796680, guid: 8e2bb64fdb812a641b6aea55bd746dfe,
+      type: 3}
+    description_: "\u901A\u7528\u5173\u5361\u7F16\u8F91\u5668\u5F39\u51FA\u4FE1\u606F\u6846"
+  - registName_: Editor_PopUp_InputString
+    windowPrefab_: {fileID: 1440049267809216, guid: 7e5854de3e7237640af9dbfe7cf0f954,
+      type: 3}
+    description_: "\u901A\u7528\u5173\u5361\u7F16\u8F91\u5668\u5904\u7406\u5B57\u7B26\u8F93\u5165\u5F39\u51FA\u6846"
+  - registName_: PropBuyBox
+    windowPrefab_: {fileID: 2, guid: 4265d442747d49c4e9b8286465e983ad, type: 2}
+    description_: "\u9053\u5177\u8D2D\u4E70\u5F39\u7A97"
+  - registName_: PopUp_AddFiveStep
+    windowPrefab_: {fileID: 10, guid: db62fe4c808e7f94292614416ab77127, type: 2}
+    description_: "\u589E\u52A0\u6B65\u6570\u5F39\u7A97"
+  - registName_: Editor_ItemGeneratorManagerConfig
+    windowPrefab_: {fileID: 1092841241270870, guid: f53721c7ae024e84a9324aa20a5a2c0c,
+      type: 3}
+    description_: 
+  - registName_: Editor_PopUp_LevelTarget
+    windowPrefab_: {fileID: 1593786276525144, guid: 6070f0409ede4cf428d0c89f2f958ddf,
+      type: 3}
+    description_: 
+  - registName_: Editor_PopUp_SelectSpineGraphicItem
+    windowPrefab_: {fileID: 1589307568108838, guid: 435e365db70f6f048a8e6af8114e0ae9,
+      type: 3}
+    description_: 
+  - registName_: Popup_AwardStar
+    windowPrefab_: {fileID: 1346095259686102, guid: e1b194fc62cf2464db587a1048252b04,
+      type: 3}
+    description_: "\u661F\u661F\u6536\u96C6\u5956\u52B1\u754C\u9762"
+  - registName_: Editor_PopUp_EditorGrid
+    windowPrefab_: {fileID: 1323075937003984, guid: f34a91140650a2e4ab909437a809d73e,
+      type: 3}
+    description_: "\u7F16\u8F91\u7F16\u8F91\u5668\u7F51\u683C"
+  - registName_: PopUp_Tips
+    windowPrefab_: {fileID: 1228149233372478, guid: b2f81dcc2d724ce4287940febaa67fe5,
+      type: 3}
+    description_: "\u63D0\u793A\u754C\u9762"
+  - registName_: Editor_PopUp_TutorEditor
+    windowPrefab_: {fileID: 1831452194584346, guid: 3421306a48046614a8bc9f0162cdc597,
+      type: 3}
+    description_: "\u7F16\u8F91\u5668\u6559\u5B66\u7F16\u8F91\u754C\u9762"
+  - registName_: Popup_ExtraAward
+    windowPrefab_: {fileID: 1735959733309794, guid: 976adc41a66759a4ab60c26884fca098,
+      type: 3}
+    description_: "\u989D\u5916\u7684\u5173\u5361\u5956\u52B1"
+  - registName_: PopUp_Award
+    windowPrefab_: {fileID: 1249200197186468, guid: 93eff3c6fe992dd4389f52c7ea67b52f,
+      type: 3}
+    description_: "\u5956\u52B1\u8868\u73B0"
+  - registName_: PopUp_QiutGame
+    windowPrefab_: {fileID: 1908885448718382, guid: b06ec6ca2628dbf4ea1b25f6d5b32948,
+      type: 3}
+    description_: "\u6E38\u620F\u8FDB\u884C\u65F6\u9000\u51FA\u6E38\u620F\u7684\u4E8C\u6B21\u786E\u8BA4\u5F39\u6846"
+  - registName_: Editor_Area_AreaEditor
+    windowPrefab_: {fileID: 1563229211944624, guid: 411d021264b2865479d9b63b6d2f89fe,
+      type: 3}
+    description_: "\u5EFA\u9020-\u5730\u56FE\u7F16\u8F91"
+  - registName_: Editor_Area_TaskEditor
+    windowPrefab_: {fileID: 1461511676610156, guid: c2a7785d5dead6048a12012568242788,
+      type: 3}
+    description_: "\u5EFA\u9020-\u4EFB\u52A1\u7F16\u8F91"
+  - registName_: Editor_AreaPopup_editList
+    windowPrefab_: {fileID: 1693443292069752, guid: 93c286d063312a844854a334ed3971da,
+      type: 3}
+    description_: "\u5217\u8868\u7F16\u8F91\u5F39\u6846"
+  - registName_: Editor_Area_LangEditor
+    windowPrefab_: {fileID: 1393467141503066, guid: 8d9f480ba74434c4194740a3e23d9829,
+      type: 3}
+    description_: "\u8BED\u8A00\u6587\u672C\u7F16\u8F91\u5668"
+  - registName_: Editor_Area_CharacterEditor
+    windowPrefab_: {fileID: 1391365987434040, guid: d5a500b96b648e046a4409c719ececbf,
+      type: 3}
+    description_: "\u89D2\u8272\u4FE1\u606F\u7F16\u8F91\u5668"
+  - registName_: Editor_Area_FunFactsEditor
+    windowPrefab_: {fileID: 1319104752098066, guid: d2e3f45a726dcce4c8a7746276e2c1da,
+      type: 3}
+    description_: "\u89D2\u8272\u8DA3\u95FB\u7F16\u8F91\u5668"
+  - registName_: Editor_Area_CloseupEditor
+    windowPrefab_: {fileID: 1135595806562648, guid: bc062b46d4d5e684ab0c3069adbe5805,
+      type: 3}
+    description_: "\u60C5\u666F\u5BF9\u767D\u7F16\u8F91"
+  - registName_: UIPanel_Merge
+    windowPrefab_: {fileID: 8832521726150741547, guid: 104f88f0c334de2498535ed0ada6f4e7,
+      type: 3}
+    description_: 
+  - registName_: PopUp_MergeEnergy
+    windowPrefab_: {fileID: 2257297186467177972, guid: 4fd3d1575a7d1c249aae9ac8e32cb37a,
+      type: 3}
+    description_: "GrandInn\u4F53\u529B\u8D2D\u4E70\u9875\u9762"
+  - registName_: UIPanel_Store
+    windowPrefab_: {fileID: 3801814180079966063, guid: f5aebcff0bdaf63449b66d6850b969da,
+      type: 3}
+    description_: "\u5E95\u90E8\u80CC\u5305\u754C\u9762"
+  - registName_: UIPanel_SpinWheel
+    windowPrefab_: {fileID: 3801814180079966063, guid: 3e001d619ced50d43a57baa830af334d,
+      type: 3}
+    description_: "\u8F6C\u76D8\u754C\u9762"

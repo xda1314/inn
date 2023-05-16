@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RemoteAtlas_Halloween
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 18093edcf8e874640af3b743fca39ce8, type: 3}
+    - {fileID: 102900000, guid: 66eae5c9cf2ab1a40b8aa593844c65f0, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9cc6061061996dd44bec248c1d2f9edb, type: 3}
+  - {fileID: 21300000, guid: 77e637209f43e0d4fa9f44af5c6726ec, type: 3}
+  - {fileID: 21300000, guid: 7aee8c404217140429904bc645fab2b8, type: 3}
+  - {fileID: 21300000, guid: d65ca6e0302d034428524221edcc3e9f, type: 3}
+  - {fileID: 21300000, guid: 537f3e014b94b704e9d51dda865f769c, type: 3}
+  - {fileID: 21300000, guid: 7b15e53176a51aa44b1d571cf32461ed, type: 3}
+  - {fileID: 21300000, guid: 842add3109eb90f47b42edcf0c7b912a, type: 3}
+  - {fileID: 21300000, guid: 65fa1b41114a83146bf999f60d8f4d83, type: 3}
+  - {fileID: 21300000, guid: ee6da951ba744d641b0e25efca250a00, type: 3}
+  - {fileID: 21300000, guid: 8c605ea1b7fef8642b84be6092dd1f13, type: 3}
+  - {fileID: 21300000, guid: 15c1b26230ba5f04fbf718245f8f996a, type: 3}
+  - {fileID: 21300000, guid: ece03082be6d63545b778bb1eba2598a, type: 3}
+  - {fileID: 21300000, guid: 830638b28f3dece4186fe5abdf59ddf1, type: 3}
+  - {fileID: 21300000, guid: 3d6fd52441599e34786f976bb40db8d5, type: 3}
+  - {fileID: 21300000, guid: cc5c76246b0a4db42bda49b3cbf8dfcb, type: 3}
+  - {fileID: 21300000, guid: 22265f44e88ba0444a8e5cf54dd2153f, type: 3}
+  - {fileID: 21300000, guid: d44b2a743f8f074428647ab84e72e95c, type: 3}
+  - {fileID: 21300000, guid: 047489945e7978d41a2b66b48ee3db3e, type: 3}
+  - {fileID: 21300000, guid: bd669994a23d8094893dabbcb3226dea, type: 3}
+  - {fileID: 21300000, guid: de423ca4b106f4e4386d4871ca973f9b, type: 3}
+  - {fileID: 21300000, guid: 731999156dbbd9640820f02335eecf86, type: 3}
+  - {fileID: 21300000, guid: 2e43da35746560042a06da0d29b87d10, type: 3}
+  - {fileID: 21300000, guid: e828c2455d1047248af95fd8c6375cc5, type: 3}
+  - {fileID: 21300000, guid: 60ee00c52834ec14ebebfad79d9ee01a, type: 3}
+  - {fileID: 21300000, guid: 6f349ec59e7fce944b2c8716c237bb47, type: 3}
+  - {fileID: 21300000, guid: b14c11160e5a2c042ae696616fabe5c3, type: 3}
+  - {fileID: 21300000, guid: 71e92b76c96adcb4ca7e53f2c01a1230, type: 3}
+  - {fileID: 21300000, guid: f4c9ec7612008ad4c8256dc9b1bd3814, type: 3}
+  - {fileID: 21300000, guid: f02a66d6ef9980943b7f22acb63b384f, type: 3}
+  - {fileID: 21300000, guid: c449526727a82b543acafb9739c89ec5, type: 3}
+  - {fileID: 21300000, guid: 43bb3d97bfa4a7a4bb428190aa09a124, type: 3}
+  - {fileID: 21300000, guid: 1bcfbdc7cdfca6e4583b47772dc72dca, type: 3}
+  - {fileID: 21300000, guid: d5c86138de5a6ff44b14bb0a58adc6c5, type: 3}
+  - {fileID: 21300000, guid: b15e1d6847aca6d42bea2603ac6bad06, type: 3}
+  - {fileID: 21300000, guid: 915c3dd8329c59b44ab078e0764e6160, type: 3}
+  - {fileID: 21300000, guid: ed40894912bfd2c4e8a449ee860c37cc, type: 3}
+  - {fileID: 21300000, guid: 3217ef49a7357224d8147bb5ae3cb5b0, type: 3}
+  - {fileID: 21300000, guid: 07a9aa79d183ed9419090a5014525a7b, type: 3}
+  - {fileID: 21300000, guid: 32235c79d9d256241a74fccb9a1173bd, type: 3}
+  - {fileID: 21300000, guid: a43646c9ac0cb244a86a6888f2e6f2a8, type: 3}
+  - {fileID: 21300000, guid: 8f6ee43ad82af6546a4e473e157246d7, type: 3}
+  - {fileID: 21300000, guid: acf2eadadfad809428d14c612758dc3d, type: 3}
+  - {fileID: 21300000, guid: d558c9eacdf049b4c92fbfff76b7495f, type: 3}
+  - {fileID: 21300000, guid: 20b4561b1e4e0944ba030476dbcfdf14, type: 3}
+  - {fileID: 21300000, guid: 2429663bd9a6b0446809b7cd3b43c973, type: 3}
+  - {fileID: 21300000, guid: dd806b5b539e0474b9c39ab712834205, type: 3}
+  - {fileID: 21300000, guid: 58f5ce6b34c6a5a4cb1c28772829ab93, type: 3}
+  - {fileID: 21300000, guid: da62597b0b5bc5d4c87a2c7d45ba92d5, type: 3}
+  - {fileID: 21300000, guid: d4d502dbd7db9604db95a8fc18197ad8, type: 3}
+  - {fileID: 21300000, guid: 9ae9b52c0e573f14c9bea2a54b0805ab, type: 3}
+  - {fileID: 21300000, guid: c0826d5c4acc4944f8d38361c746712a, type: 3}
+  - {fileID: 21300000, guid: 9e17f39c25ab81a418a44f83d6d8e973, type: 3}
+  - {fileID: 21300000, guid: 9c1b811dc92c7bd41b4dc8770ee83379, type: 3}
+  - {fileID: 21300000, guid: bc85333d876961c4d974b24ee7246e6d, type: 3}
+  - {fileID: 21300000, guid: 6c58d18d3c004c94bb2251bcb367422d, type: 3}
+  - {fileID: 21300000, guid: 209d939d173f47943830a157f6f76945, type: 3}
+  - {fileID: 21300000, guid: 921a125f15f6f8b449983e8a8c7fcb67, type: 3}
+  - {fileID: 21300000, guid: 57b73d6f77fe2964bab01b5f6da30771, type: 3}
+  - {fileID: 21300000, guid: 34ee97ff79abc734d93bc9d1b62df7d4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - HalloweenParty_3
+  - CandyBag_1
+  - Adornment1
+  - HalloweenCandy_5
+  - HalloweenDoll_1
+  - HalloweenSign_1
+  - HalloweenCandy_3
+  - HalloweenParty_4
+  - Cosplay_1
+  - Cosplay_2
+  - Cobweb
+  - HalloweenDoll_3
+  - Tombstone_4
+  - HalloweenParty_5
+  - Candle_1
+  - HalloweenBg1
+  - Tombstone_2
+  - CandyBag_2
+  - HalloweenParty_2
+  - MainBG_F01
+  - CandyBag_3
+  - PumpkinCarriage_1
+  - Cosplay_4
+  - Tombstone_3
+  - PumpkinLantern_4
+  - Icon10_Halloween
+  - LevelFloor_Halloween_Lattice
+  - HalloweenSign_5
+  - Dungeons_Activity_Bg1
+  - Cosplay_6
+  - PumpkinLantern_1
+  - HalloweenSign_2
+  - PumpkinLantern_2
+  - Adornment
+  - HalloweenCandy_1
+  - Skeleton_2
+  - Tombstone_1
+  - HalloweenCandy_2
+  - PumpkinLantern_3
+  - LevelFloor_Halloween_Lattice1
+  - HalloweenSign_4
+  - Cosplay_3
+  - PumpkinLantern_5
+  - Cellar_1
+  - Skeleton_1
+  - Tombstone_5
+  - FloorTitle3
+  - HalloweenDoll_4
+  - HalloweenDoll_2
+  - HalloweenSign_3
+  - HalloweenSign_6
+  - HalloweenBg3
+  - HalloweenDoll_5
+  - HalloweenCandy_4
+  - HalloweenBg2
+  - HalloweenParty_1
+  - Skeleton_3
+  - PumpkinLantern_6
+  - Cosplay_5
+  m_Tag: RemoteAtlas_Halloween
+  m_IsVariant: 0

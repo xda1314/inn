@@ -1,0 +1,6894 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea82e1b80628e644a3033e52c0825c1, type: 3}
+  m_Name: UI_TutorData
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: 94aead6d9fdb527469346b7fd815f82e, type: 3}
+    - {fileID: 4233102576002121740, guid: 60f4668e48550fc40aab783abccbc592, type: 3}
+    - {fileID: 21300000, guid: 68b5938a11ac5d44baeeb78b70468592, type: 3}
+    - {fileID: 21300000, guid: e34c4e188942fb4438f76c5a85a29ca4, type: 3}
+    - {fileID: 21300000, guid: 9ad7a37877ee0664088dc5b341f18c7e, type: 3}
+    - {fileID: 8285072213520822863, guid: dc2c97dadc2300943bb8116a6318eee9, type: 3}
+    - {fileID: 21300000, guid: e1b39e93c8d5f404faba65385043695c, type: 3}
+    - {fileID: 21300000, guid: 557965e1d22e65e45bc96bc41c9838b2, type: 3}
+    - {fileID: 21300000, guid: 1986b1741a604fd439d9133d91840151, type: 3}
+    - {fileID: 21300000, guid: fb811eb0bee9f1042ab1b065bba108bf, type: 3}
+    - {fileID: 21300000, guid: d4037455d49629d499985329b5ad08e5, type: 3}
+    - {fileID: 21300000, guid: 70e468cea0a7fe644bc5736dbf160e18, type: 3}
+    - {fileID: 21300000, guid: d61c665fe8790c64da3744adc99b9068, type: 3}
+    - {fileID: 21300000, guid: 9c79ec7c260908543be9348f7b9cc1e9, type: 3}
+    - {fileID: 4233102576002121740, guid: 1851a97fe633c0e44bf0959ab431b465, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: dataList_
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomData, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 18
+    - Name: 
+      Entry: 7
+      Data: 1|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: MergeUseEnergy
+    - Name: Description
+      Entry: 1
+      Data: 
+    - Name: dataList_
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: 3|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|IvyCore.UI_TutorTouchMenuBtnObjet, Assembly-CSharp
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/GameObject/UIPanel_Energy/MainGroup/ItemArea/CostGems/Button
+    - Name: MenuIndex_
+      Entry: 3
+      Data: 0
+    - Name: MaskImage_
+      Entry: 10
+      Data: 0
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: true
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 120
+    - Name: 
+      Entry: 4
+      Data: 180
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 5|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 6|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 7|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Desc/BeginnerGuide/Text19
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0.35
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|IvyCore.UI_TutorMergeDrag, Assembly-CSharp
+    - Name: DragToBag
+      Entry: 5
+      Data: false
+    - Name: DragStartPos
+      Entry: 7
+      Data: UnityEngine.Vector2Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: DragEndPos
+      Entry: 7
+      Data: UnityEngine.Vector2Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BagControlName
+      Entry: 6
+      Data: 
+    - Name: MaskImage_
+      Entry: 6
+      Data: 
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: MaskAddUp
+      Entry: 3
+      Data: 0
+    - Name: MaskAddDown
+      Entry: 3
+      Data: 0
+    - Name: MaskAddLeft
+      Entry: 3
+      Data: 0
+    - Name: MaskAddRight
+      Entry: 3
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: BagMaskImage_
+      Entry: 6
+      Data: 
+    - Name: BagMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: BagMaskSacle_
+      Entry: 4
+      Data: 1
+    - Name: BagMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: prefabShowObject_
+      Entry: 6
+      Data: 
+    - Name: DialogInfo
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 10|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: MergeBoxSpeed
+    - Name: Description
+      Entry: 1
+      Data: 
+    - Name: dataList_
+      Entry: 7
+      Data: 11|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 12|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 13|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_Merge
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/MapRoot/TopTips/BtnLayout/Btn_ClearCD
+    - Name: MaskImage_
+      Entry: 6
+      Data: 
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 14|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 15|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 16|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: true
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 17|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: false
+    - Name: StrContent
+      Entry: 1
+      Data: "\u514D\u8D39\u52A0\u901F"
+    - Name: StrLanguageKey
+      Entry: 6
+      Data: 
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 18|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 19|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: MergeOpenBox
+    - Name: Description
+      Entry: 1
+      Data: 
+    - Name: dataList_
+      Entry: 7
+      Data: 20|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 6
+    - Name: 
+      Entry: 7
+      Data: 21|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 22|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 23|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_Merge
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/vertical_layout/TopTipRoot/CommonInfoRoot/BtnLayout/Btn_OpenBox
+    - Name: MaskImage_
+      Entry: 10
+      Data: 2
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 24|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 25|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 26|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: true
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 27|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 1
+      Data: "\u6253\u5F00\u5B9D\u7BB1"
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/FirstOpenBox_Text1
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: true
+    - Name: FocusMaskImage_
+      Entry: 10
+      Data: 3
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 180
+    - Name: 
+      Entry: 4
+      Data: 180
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 7
+      Data: 28|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 29|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 30|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 31|IvyCore.UI_TutorDelayTime, Assembly-CSharp
+    - Name: DelayTime_
+      Entry: 4
+      Data: 0.5
+    - Name: DialogInfo
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 32|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_Merge
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/vertical_layout/TopTipRoot/ClreaCDRoot/Image/Btn_GemClearCD
+    - Name: MaskImage_
+      Entry: 10
+      Data: 4
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 180
+    - Name: 
+      Entry: 4
+      Data: 210
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 33|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 34|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 35|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 36|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 1
+      Data: "\u9886\u53D6\u514D\u8D39\u4F53\u529B"
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/FirstOpenBox_Text2
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: -0.083
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 37|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 38|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: InnGuide
+    - Name: Description
+      Entry: 1
+      Data: "\u5408\u6210\u6559\u5B66+\u4EA7\u51FA\u6559\u5B66+\u70B9\u51FA\u8BA2\u5355"
+    - Name: dataList_
+      Entry: 7
+      Data: 39|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 8
+    - Name: 
+      Entry: 7
+      Data: 40|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 41|IvyCore.UI_TutorMergeDrag, Assembly-CSharp
+    - Name: DragToBag
+      Entry: 5
+      Data: false
+    - Name: DragStartPos
+      Entry: 7
+      Data: UnityEngine.Vector2Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: DragEndPos
+      Entry: 7
+      Data: UnityEngine.Vector2Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BagControlName
+      Entry: 6
+      Data: 
+    - Name: MaskImage_
+      Entry: 10
+      Data: 0
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: MaskAddUp
+      Entry: 3
+      Data: 1
+    - Name: MaskAddDown
+      Entry: 3
+      Data: 1
+    - Name: MaskAddLeft
+      Entry: 3
+      Data: 1
+    - Name: MaskAddRight
+      Entry: 3
+      Data: 1
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 42|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 43|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 44|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.5
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: BagMaskImage_
+      Entry: 6
+      Data: 
+    - Name: BagMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: BagMaskSacle_
+      Entry: 4
+      Data: 1
+    - Name: BagMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 5
+    - Name: DialogInfo
+      Entry: 7
+      Data: 45|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe2
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0.3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 46|IvyCore.UI_TutorMergeDrag, Assembly-CSharp
+    - Name: DragToBag
+      Entry: 5
+      Data: false
+    - Name: DragStartPos
+      Entry: 7
+      Data: UnityEngine.Vector2Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: DragEndPos
+      Entry: 7
+      Data: UnityEngine.Vector2Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 3
+      Data: 6
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BagControlName
+      Entry: 6
+      Data: 
+    - Name: MaskImage_
+      Entry: 10
+      Data: 0
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: MaskAddUp
+      Entry: 3
+      Data: 1
+    - Name: MaskAddDown
+      Entry: 3
+      Data: 0
+    - Name: MaskAddLeft
+      Entry: 3
+      Data: 3
+    - Name: MaskAddRight
+      Entry: 3
+      Data: 1
+    - Name: MaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: BagMaskImage_
+      Entry: 6
+      Data: 
+    - Name: BagMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: BagMaskSacle_
+      Entry: 4
+      Data: 1
+    - Name: BagMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 5
+    - Name: DialogInfo
+      Entry: 7
+      Data: 47|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe5
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0.3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 48|IvyCore.UI_TutorDelayTime, Assembly-CSharp
+    - Name: DelayTime_
+      Entry: 4
+      Data: 0.3
+    - Name: DialogInfo
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 49|IvyCore.UI_TutorMergeClick, Assembly-CSharp
+    - Name: ClickMapPos
+      Entry: 7
+      Data: UnityEngine.Vector2Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 3
+      Data: 6
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: ClickTimes
+      Entry: 3
+      Data: 3
+    - Name: MaskImage_
+      Entry: 10
+      Data: 0
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: MaskAddUp
+      Entry: 3
+      Data: 2
+    - Name: MaskAddDown
+      Entry: 3
+      Data: 0
+    - Name: MaskAddLeft
+      Entry: 3
+      Data: 3
+    - Name: MaskAddRight
+      Entry: 3
+      Data: 1
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 50|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 51|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 52|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: DialogInfo
+      Entry: 7
+      Data: 53|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe6
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0.3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 54|IvyCore.UI_TutorMergeDrag, Assembly-CSharp
+    - Name: DragToBag
+      Entry: 5
+      Data: false
+    - Name: DragStartPos
+      Entry: 7
+      Data: UnityEngine.Vector2Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 4
+    - Name: 
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: DragEndPos
+      Entry: 7
+      Data: UnityEngine.Vector2Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BagControlName
+      Entry: 6
+      Data: 
+    - Name: MaskImage_
+      Entry: 10
+      Data: 0
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: MaskAddUp
+      Entry: 3
+      Data: 1
+    - Name: MaskAddDown
+      Entry: 3
+      Data: 1
+    - Name: MaskAddLeft
+      Entry: 3
+      Data: 1
+    - Name: MaskAddRight
+      Entry: 3
+      Data: 1
+    - Name: MaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: BagMaskImage_
+      Entry: 6
+      Data: 
+    - Name: BagMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: BagMaskSacle_
+      Entry: 4
+      Data: 1
+    - Name: BagMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 5
+    - Name: DialogInfo
+      Entry: 7
+      Data: 55|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe7
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0.3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 56|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_Merge
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 1
+      Data: GameCoreUI/UIPanel_Merge/MainGroup/MapRoot/TopTaskRoot/Scroll View/Viewport/Content/UI_TaskItem/MainGroup/Background/CompleteBg
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/TopTaskRoot/MainLineRoot/Scroll View/Viewport/Content/UI_TaskItem/MainGroup/MainLineRoot/breathRoot/Btn_OpenTask1
+    - Name: MaskImage_
+      Entry: 10
+      Data: 6
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 57|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 58|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 59|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 60|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe8
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 61|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 62|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: InnTask
+    - Name: Description
+      Entry: 1
+      Data: "\u5355\u4E2A\u8BA2\u5355\u5B8C\u6210\u6559\u5B66"
+    - Name: dataList_
+      Entry: 7
+      Data: 63|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: 64|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 65|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_Task
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/TaskBg/Scroll View/Viewport/Content/Item_Task/MainGroup/TaskItemBg/MainLineRightRoot/CompleteBtn
+    - Name: MaskImage_
+      Entry: 10
+      Data: 7
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 66|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 67|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 68|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 69|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe9
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 70|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_Task
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/TaskBg/CloseBtn
+    - Name: MaskImage_
+      Entry: 10
+      Data: 0
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: true
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 71|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 72|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 73|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 74|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe10
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 75|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 76|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: InnGetReward
+    - Name: Description
+      Entry: 1
+      Data: "\u9886\u53D6\u5956\u52B1\u6559\u5B66"
+    - Name: dataList_
+      Entry: 7
+      Data: 77|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 78|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 79|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_Merge
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/TopTaskRoot/MainLineRoot/Scroll View/Btn_Spawn
+    - Name: MaskImage_
+      Entry: 10
+      Data: 0
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: true
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 200
+    - Name: 
+      Entry: 4
+      Data: 200
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 80|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 81|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 82|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 83|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 6
+      Data: 
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 84|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 85|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: InnBackPack
+    - Name: Description
+      Entry: 1
+      Data: "\u79FB\u5230\u4ED3\u5E93\u6559\u5B66"
+    - Name: dataList_
+      Entry: 7
+      Data: 86|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 87|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.2
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 88|IvyCore.UI_TutorMergeDrag, Assembly-CSharp
+    - Name: DragToBag
+      Entry: 5
+      Data: true
+    - Name: DragStartPos
+      Entry: 7
+      Data: UnityEngine.Vector2Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 4
+    - Name: 
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: DragEndPos
+      Entry: 7
+      Data: UnityEngine.Vector2Int, UnityEngine.CoreModule
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: BagControlName
+      Entry: 1
+      Data: StoreBg
+    - Name: MaskImage_
+      Entry: 10
+      Data: 0
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: MaskAddUp
+      Entry: 3
+      Data: 0
+    - Name: MaskAddDown
+      Entry: 3
+      Data: 0
+    - Name: MaskAddLeft
+      Entry: 3
+      Data: 0
+    - Name: MaskAddRight
+      Entry: 3
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 89|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 90|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 91|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: BagMaskImage_
+      Entry: 10
+      Data: 8
+    - Name: BagMaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: BagMaskSacle_
+      Entry: 4
+      Data: 1
+    - Name: BagMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 5
+    - Name: DialogInfo
+      Entry: 7
+      Data: 92|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe11
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe11
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 93|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 94|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: InnEndLevel
+    - Name: Description
+      Entry: 1
+      Data: "\u7ED3\u675F\u7B2C\u4E00\u5173"
+    - Name: dataList_
+      Entry: 7
+      Data: 95|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: 96|IvyCore.UI_TutorDelayTime, Assembly-CSharp
+    - Name: DelayTime_
+      Entry: 4
+      Data: 0.5
+    - Name: DialogInfo
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 97|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 98|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_Task
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/TaskBg/CompleteBtn
+    - Name: MaskImage_
+      Entry: 10
+      Data: 7
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 99|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 100|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 101|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 102|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe13
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 103|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 104|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: InnLevelChest1
+    - Name: Description
+      Entry: 1
+      Data: "\u7B49\u7EA7\u5B9D\u7BB1"
+    - Name: dataList_
+      Entry: 7
+      Data: 105|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 106|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 107|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UI_MainMenu
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 1
+      Data: HVScrollView/Viewport/Content/Page_Play/BtnBox1
+    - Name: ControlPath_
+      Entry: 1
+      Data: HVScrollView/Viewport/Content/Page_Play/vertical/go_box/BtnBox1
+    - Name: MaskImage_
+      Entry: 10
+      Data: 9
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 108|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 109|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 110|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 111|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe16
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 112|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 113|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: InnLevelChest2
+    - Name: Description
+      Entry: 1
+      Data: 
+    - Name: dataList_
+      Entry: 7
+      Data: 114|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 115|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 116|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_LevelRewards
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 1
+      Data: TopPopup/UIPanel_LevelRewards/MainGroup/baseObj/btnOpen
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/baseObj/btnOpen
+    - Name: MaskImage_
+      Entry: 10
+      Data: 2
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 117|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 118|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 119|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 120|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe17
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0.3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 121|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 122|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: InnStarChest1
+    - Name: Description
+      Entry: 1
+      Data: "\u661F\u661F\u5B9D\u7BB1\u6559\u5B66"
+    - Name: dataList_
+      Entry: 7
+      Data: 123|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 124|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 125|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UI_MainMenu
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: HVScrollView/Viewport/Content/Page_Play/vertical/go_box/BtnBox2
+    - Name: MaskImage_
+      Entry: 10
+      Data: 9
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 126|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 127|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 128|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 129|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe18
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 130|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 131|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: InnStarChest2
+    - Name: Description
+      Entry: 1
+      Data: 
+    - Name: dataList_
+      Entry: 7
+      Data: 132|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 133|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 134|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_StarRewards
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/baseObj/btnOpen
+    - Name: MaskImage_
+      Entry: 10
+      Data: 7
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 135|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 136|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 137|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 138|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe19
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0.3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 139|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 140|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: InnLevelReward1
+    - Name: Description
+      Entry: 1
+      Data: "\u7B49\u7EA7\u5956\u52B1"
+    - Name: dataList_
+      Entry: 7
+      Data: 141|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 142|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 143|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UI_TopResource
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: Resource_Experience
+    - Name: MaskImage_
+      Entry: 10
+      Data: 10
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 144|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 145|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 146|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 147|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe20
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 148|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 149|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: InnLevelReward2
+    - Name: Description
+      Entry: 1
+      Data: 
+    - Name: dataList_
+      Entry: 7
+      Data: 150|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 151|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 152|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_TopPopup
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/GameObject/UIPanel_Experience/MainGroup/Btn/Btn_Claim
+    - Name: MaskImage_
+      Entry: 10
+      Data: 7
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 153|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 154|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 155|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 156|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe21
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0.3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 157|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 158|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: InnUseEnergy
+    - Name: Description
+      Entry: 1
+      Data: 
+    - Name: dataList_
+      Entry: 7
+      Data: 159|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 160|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 161|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_TopPopup
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/GameObject/UIPanel_Energy/MainGroup/ItemArea/CostGems/Button
+    - Name: MaskImage_
+      Entry: 10
+      Data: 11
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 162|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 163|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 164|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 165|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 1
+      Data: "\u9886\u53D6\u514D\u8D39\u4F53\u529B"
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/NewbieGuideDescribe22
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0.35
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 166|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 167|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: InnAdventure1
+    - Name: Description
+      Entry: 1
+      Data: 
+    - Name: dataList_
+      Entry: 7
+      Data: 168|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 10
+    - Name: 
+      Entry: 7
+      Data: 169|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 170|IvyCore.UI_TutorTouchMenuBtnObjet, Assembly-CSharp
+    - Name: ControlPath_
+      Entry: 1
+      Data: HVScrollView/Tabbar/IconGroup/Icon_Talent/IconTalentBg
+    - Name: MenuIndex_
+      Entry: 3
+      Data: 3
+    - Name: MaskImage_
+      Entry: 10
+      Data: 0
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: true
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 180
+    - Name: 
+      Entry: 4
+      Data: 210
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 171|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 172|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 173|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 6
+      Data: 
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 174|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 1
+      Data: Obj/Dungeon/Guide
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Dungeon/Guide
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: -0.083
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 175|IvyCore.UI_TutorDelayTime, Assembly-CSharp
+    - Name: DelayTime_
+      Entry: 4
+      Data: 0.5
+    - Name: DialogInfo
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 176|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UI_MainMenu
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 1
+      Data: HVScrollView/Viewport/Content/Page_Play/BtnBox1
+    - Name: ControlPath_
+      Entry: 1
+      Data: HVScrollView/Viewport/Content/Page_Dungeon/Scroll View/Viewport/Layout/DailyGoItem/btn_enter
+    - Name: MaskImage_
+      Entry: 10
+      Data: 9
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 177|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 178|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 179|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 180|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Dungeon/Guide1
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 181|IvyCore.UI_TutorDelayTime, Assembly-CSharp
+    - Name: DelayTime_
+      Entry: 4
+      Data: 1
+    - Name: DialogInfo
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 182|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 183|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_Merge
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/TopTaskRoot/DungeonRoot/ItemParent/UI_TaskItem/MainGroup/MainLineRoot/breathRoot/Btn_OpenTask1
+    - Name: MaskImage_
+      Entry: 10
+      Data: 12
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 184|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Dungeon/Guide3
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: 0.35
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 185|IvyCore.UI_TutorDelayTime, Assembly-CSharp
+    - Name: DelayTime_
+      Entry: 4
+      Data: 0.5
+    - Name: DialogInfo
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 186|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_DungeonTask
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/UI_CommomBG/Top/btn_close
+    - Name: MaskImage_
+      Entry: 10
+      Data: 13
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 187|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 188|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 189|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 14
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 190|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 6
+      Data: 
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Dungeon/Guide4
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: -0.575
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 191|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 192|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: InnFreeClearCd
+    - Name: Description
+      Entry: 1
+      Data: 
+    - Name: dataList_
+      Entry: 7
+      Data: 193|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 194|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.5
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.8
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 195|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_Merge
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/vertical_layout/TopTipRoot/ClreaCDRoot/Image/Btn_GemClearCD
+    - Name: MaskImage_
+      Entry: 10
+      Data: 4
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: false
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 180
+    - Name: 
+      Entry: 4
+      Data: 210
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 196|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 197|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 198|IvyCore.ActionScale, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: scale_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 7
+      Data: 199|IvyCore.UI_TutorDialog, Assembly-CSharp
+    - Name: UseTranslate
+      Entry: 5
+      Data: true
+    - Name: StrContent
+      Entry: 1
+      Data: "\u9886\u53D6\u514D\u8D39\u4F53\u529B"
+    - Name: StrLanguageKey
+      Entry: 1
+      Data: Obj/Chain/WatchVideo_Text2
+    - Name: ShowPosYRatio
+      Entry: 4
+      Data: -0.083
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 200|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.3
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 201|IvyCore.UI_TutorAtomData, Assembly-CSharp
+    - Name: Name
+      Entry: 1
+      Data: MegreGetRewardTip
+    - Name: Description
+      Entry: 1
+      Data: 
+    - Name: dataList_
+      Entry: 7
+      Data: 202|System.Collections.Generic.List`1[[IvyCore.UI_TutorAtomBaseData,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 203|IvyCore.UI_TutorStart, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.2
+    - Name: KeepStartAlpha_
+      Entry: 5
+      Data: false
+    - Name: StartAlpha_
+      Entry: 4
+      Data: 0
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0
+    - Name: GoNextTutorTime_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 204|IvyCore.UI_TutorTouchUIObjet, Assembly-CSharp
+    - Name: WindowName_
+      Entry: 1
+      Data: UIPanel_Merge
+    - Name: mControlFindType_
+      Entry: 3
+      Data: 1
+    - Name: ControlName_
+      Entry: 6
+      Data: 
+    - Name: ControlPath_
+      Entry: 1
+      Data: MainGroup/TopTaskRoot/MainLineRoot/Scroll View/Btn_Spawn
+    - Name: MaskImage_
+      Entry: 10
+      Data: 0
+    - Name: MaskImageType_
+      Entry: 3
+      Data: 1
+    - Name: CustomizeSize
+      Entry: 5
+      Data: true
+    - Name: MaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 200
+    - Name: 
+      Entry: 4
+      Data: 200
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: mDelayTouchVaildTime_
+      Entry: 4
+      Data: 0
+    - Name: MaskImageEnterAction_
+      Entry: 7
+      Data: 205|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 206|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: MaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: prefabShowObject_
+      Entry: 10
+      Data: 1
+    - Name: FlipprefabShowX
+      Entry: 5
+      Data: false
+    - Name: FlipprefabShowY
+      Entry: 5
+      Data: false
+    - Name: prefabShowObjectAutoDestory_
+      Entry: 5
+      Data: true
+    - Name: DialogInfo
+      Entry: 6
+      Data: 
+    - Name: FocusMergeSelectedItem
+      Entry: 5
+      Data: false
+    - Name: FocusMaskImage_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageType_
+      Entry: 3
+      Data: 0
+    - Name: FocusMaskImageSize_
+      Entry: 7
+      Data: UnityEngine.Vector2, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 4
+      Data: 100
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FocusMaskImageEnterAction_
+      Entry: 6
+      Data: 
+    - Name: FocusMaskImageOutAction_
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 207|IvyCore.UI_TutorEnd, Assembly-CSharp
+    - Name: FadeInTime_
+      Entry: 4
+      Data: 0.2
+    - Name: EndAlpha_
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: dataDic_
+      Entry: 7
+      Data: 208|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[IvyCore.UI_TutorAtomData,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 209|System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 18
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: MergeUseEnergy
+    - Name: $v
+      Entry: 9
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: MergeBoxSpeed
+    - Name: $v
+      Entry: 9
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: MergeOpenBox
+    - Name: $v
+      Entry: 9
+      Data: 19
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: InnGuide
+    - Name: $v
+      Entry: 9
+      Data: 38
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: InnTask
+    - Name: $v
+      Entry: 9
+      Data: 62
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: InnGetReward
+    - Name: $v
+      Entry: 9
+      Data: 76
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: InnBackPack
+    - Name: $v
+      Entry: 9
+      Data: 85
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: InnEndLevel
+    - Name: $v
+      Entry: 9
+      Data: 94
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: InnLevelChest1
+    - Name: $v
+      Entry: 9
+      Data: 104
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: InnLevelChest2
+    - Name: $v
+      Entry: 9
+      Data: 113
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: InnStarChest1
+    - Name: $v
+      Entry: 9
+      Data: 122
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: InnStarChest2
+    - Name: $v
+      Entry: 9
+      Data: 131
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: InnLevelReward1
+    - Name: $v
+      Entry: 9
+      Data: 140
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: InnLevelReward2
+    - Name: $v
+      Entry: 9
+      Data: 149
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: InnUseEnergy
+    - Name: $v
+      Entry: 9
+      Data: 158
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: InnAdventure1
+    - Name: $v
+      Entry: 9
+      Data: 167
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: InnFreeClearCd
+    - Name: $v
+      Entry: 9
+      Data: 192
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: MegreGetRewardTip
+    - Name: $v
+      Entry: 9
+      Data: 201
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

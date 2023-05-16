@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HeadIconAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 65
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6c37f76bf47c78f43ae32fad5f51a558, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c78d55308a5f0fb46a21421dfb42e853, type: 3}
+  - {fileID: 21300000, guid: 5b1b81915d7b45247886e36d1e5a38f9, type: 3}
+  - {fileID: 21300000, guid: dc248f32b9a719a4db22e4f7f0c99f6b, type: 3}
+  - {fileID: 21300000, guid: a496db928d4748a47926b52435a80a53, type: 3}
+  - {fileID: 21300000, guid: b272e075a7a8a4c47ab445dc2722fef4, type: 3}
+  - {fileID: 21300000, guid: 6f55c88783600cf49841d86f005733cf, type: 3}
+  - {fileID: 21300000, guid: 60a9dc383424840489b40f1dae64327a, type: 3}
+  - {fileID: 21300000, guid: a672369826ade984b87bfe95dc36a0d7, type: 3}
+  - {fileID: 21300000, guid: d73008a82c9ce7d4bb07e733f3c6c359, type: 3}
+  - {fileID: 21300000, guid: f9cbc45ad95de704bab355201ad77da7, type: 3}
+  - {fileID: 21300000, guid: 59e2abba7ba648d4ca20be3fff851ddc, type: 3}
+  - {fileID: 21300000, guid: 17f3e28b54b6eb04e84015ad81b5c5f6, type: 3}
+  - {fileID: 21300000, guid: b25d67bd5a37f234eb7117e903ca4db5, type: 3}
+  - {fileID: 21300000, guid: 566cce3e81ec6884d9a2449e0d83a804, type: 3}
+  - {fileID: 21300000, guid: 41c2b12ffc693e248b52a463f5a6abca, type: 3}
+  - {fileID: 21300000, guid: 65bf534f903e1f246917cb1c25745f2c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - PopupHeadPortrait8_Round
+  - PopupHeadPortrait5
+  - PopupHeadPortrait8
+  - PopupHeadPortrait2_Round
+  - PopupHeadPortrait3_Round
+  - PopupHeadPortrait6_Round
+  - PopupHeadPortrait7
+  - PopupHeadPortrait6
+  - PopupHeadPortrait1_Round
+  - PopupHeadPortrait1
+  - PopupHeadPortrait7_Round
+  - PopupHeadPortrait2
+  - PopupHeadPortrait3
+  - PopupHeadPortrait5_Round
+  - PopupHeadPortrait4_Round
+  - PopupHeadPortrait4
+  m_Tag: HeadIconAtlas
+  m_IsVariant: 0

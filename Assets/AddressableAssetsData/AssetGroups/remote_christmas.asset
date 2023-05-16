@@ -1,0 +1,403 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: remote_christmas
+  m_EditorClassIdentifier: 
+  m_GroupName: remote_christmas
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 01ae85d2349562a4cbfc36db2563ef4a
+  m_SerializeEntries:
+  - m_GUID: d8f28a7d288d7734687c9dfcc0bc3768
+    m_Address: ChristmasCard_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da93cb3a5c4dd4f41bad65cb75cfe909
+    m_Address: ChristmasCard_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2f76f276be0a6c4ea87547de60fe6a7
+    m_Address: ChristmasCard_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8978a005d146e144cb9237a56bce5d23
+    m_Address: ChristmasCard_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c8d20922184cec40ae82ff45c572131
+    m_Address: ChristmasCrystalBall_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e68dea0f894a24142b92465baa8713cf
+    m_Address: ChristmasCrystalBall_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f3a67a8d70bb0d4597affde830c66e1
+    m_Address: ChristmasCrystalBall_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30edb75d873df4b4b9310b73f3c3ef6b
+    m_Address: ChristmasCrystalBall_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bccd6bd2f43014a4d975ba852f93c278
+    m_Address: ChristmasDecoration_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d064b5af97179de4dbd04d9e4ef081c8
+    m_Address: ChristmasDecoration_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2369553b0ade2049af4853c829ac36b
+    m_Address: ChristmasDecoration_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fe9a49d2d1bf484488bb588e5293d39
+    m_Address: ChristmasDecoration_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13dd59d2f11475b47ada0346296c7164
+    m_Address: ChristmasDecorationTool_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa9fb2505c303904ebefc1dec5fb4427
+    m_Address: ChristmasDecorationTool_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a98f998c79924b44925379f1ed1821b
+    m_Address: ChristmasDecorationTool_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae33d38b4d9b24b4ea6a0d7afd92ce85
+    m_Address: ChristmasDecorationToolbox_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f651a6ac80568a4a8fef2e4a424a44f
+    m_Address: ChristmasDessert_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d400c37ed6982a48ba0981a866edc9e
+    m_Address: ChristmasDessert_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d7bc7f1f6b900a4e92376859ce9ae95
+    m_Address: ChristmasDessert_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af602efbd88e27040aa6ad4cedf7cda5
+    m_Address: ChristmasElk_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c1ddec48c6017b428f9f05ea6be504d
+    m_Address: ChristmasElk_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1759391b19e170546b4aa931162f5f35
+    m_Address: ChristmasElk_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f92bcaa4b1adf64ea4de2369c6171bc
+    m_Address: ChristmasElk_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c5c0236151053745bd454c5c3db7c9f
+    m_Address: ChristmasElk_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 736402ac8c65cc64c9e029dc94bacae0
+    m_Address: ChristmasElk_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 219541bd53190fa4aa2bf37acf5c3a3f
+    m_Address: ChristmasIceSculpture_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0960486ac7cfbc24b95bfbfa74216a99
+    m_Address: ChristmasIceSculpture_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e24878cf3de6d042bdad114e2309b2d
+    m_Address: ChristmasIceSculpture_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ea9c8f34f7b4e840a27198094b0ff23
+    m_Address: ChristmasIceSculpture_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72388d096cb9ee14985d3018204f97e9
+    m_Address: ChristmasIceSculpture_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7467e512a16fe0a4ebe2226b5de4753f
+    m_Address: ChristmasMeal_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b18d4629acc5344aba3f4a5d2652ff8
+    m_Address: ChristmasMeal_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88d821b6895d2114a827df2ba6e116dd
+    m_Address: ChristmasMeal_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 188f2a87623e5dc489692c99124033d3
+    m_Address: ChristmasMeal_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36ee1768b3906174cb46961966daa831
+    m_Address: ChristmasMealToolbox_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b17e8d193f2f2c45a622ab7b542db36
+    m_Address: ChristmasMusicBox_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3879497e6928d4f4eb783bf83e820a98
+    m_Address: ChristmasMusicBox_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fad77a9e18f510b4c9a7e92c7e554c43
+    m_Address: ChristmasMusicBox_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b20f617b32e4a02499e337d0fe00330e
+    m_Address: ChristmasSnowman_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 969643a76424c85429e294adaabd695f
+    m_Address: ChristmasSnowman_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 909765ef7f89c2f4d90eede9b53d47c0
+    m_Address: ChristmasSnowman_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4099461c2f6821244b93479c246b18ed
+    m_Address: ChristmasSnowman_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5340cfb975ce8a4fad1b41c56d8fa3c
+    m_Address: ChristmasSnowman_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a2aad016f320ee4ba592f1a71162d53
+    m_Address: ChristmasSnowman_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e798fa0b1c899c44fa02966f8886adde
+    m_Address: ChristmasSnowman_7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82f6d7aea2ef33c4bb0ceef4ac88e6f3
+    m_Address: ChristmasSock_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e26dc2a470538145b8554797f651955
+    m_Address: ChristmasSock_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b97d20dbece73a40b7da3c37682d068
+    m_Address: ChristmasTableware_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ab5f87592db89148bed1ae2d52bcca9
+    m_Address: ChristmasTableware_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e27880b0396a7e346b38083a5e21aa24
+    m_Address: ChristmasTree_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 465d0da0ae5f45c44ae1a689141c9cd0
+    m_Address: ChristmasTree_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 377fba2eef3f8bd478f6b831ec98edb9
+    m_Address: ChristmasTree_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80c1231cc9375dc48b6a309ebcd7c75f
+    m_Address: ChristmasTree_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9ed32439e8d6f7498c33b6bf3ed1963
+    m_Address: ChristmasTree_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c6fdea6d3518b643983c84add05a95c
+    m_Address: ChristmasTree_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9608b68ec27d02429e093c0d1c451b2
+    m_Address: ChristmasTree_7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9fcb319bbdd41349b7913e8292a40c4
+    m_Address: ChristmasTreeToolbox_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e95642cc0f5e2ae41adaacf475217c6d
+    m_Address: SantaClaus_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 075e7840ac0a36b479c7f85c1a4a93fa
+    m_Address: SantaClaus_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3128c29705999014e8f759b389a464a7
+    m_Address: SantaClaus_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 122e576c429d72f49a7ce1fa2be37e9b
+    m_Address: SantaClaus_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e70b10108b1fe847a3d6eed9069917c
+    m_Address: christmas_Spine
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7518d83715ad28346a0b00a305d25d71
+    m_Address: RemoteTaskBG_Christmas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e44765286e5753e4cbe7b5dd4b161c54, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d868d3eb7294b34478a0f2acd3be173b, type: 2}
+    - {fileID: 11400000, guid: 81bcd2b806f15374681cac207e874c53, type: 2}

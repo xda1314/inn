@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Effects
+  m_EditorClassIdentifier: 
+  m_GroupName: Effects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0dae8534f281de2428e969ec5a215a43
+  m_SerializeEntries:
+  - m_GUID: 8deeb7ba68f8e0849b66a4208def537d
+    m_Address: Daojuchanchu_effect_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30181ee20d7a3f941a5fe4fa05deb3b2
+    m_Address: Daojuend_effect_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf8435e015bb1c2489293736514c4447
+    m_Address: Xiangziposui
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04f3160745e8de84cb6f43a649438a56
+    m_Address: Hecheng_effect_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e6cca4ac36ace54985de04f59046fd2
+    m_Address: ItemSpine_BoxParticle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e2f22d2ba6880d4ca1c7083dadc5a87
+    m_Address: Paopao_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0025c59618f428a478746103f7e8f822
+    m_Address: Paopao_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c25e68c3fb344ee44831b9888d61715a
+    m_Address: Chongnengqi_1_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b440a9d6bf47d34ab2dd6467a4a37bf
+    m_Address: Chongnengqi_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80ed65dd06554d641bd59e205cd032e0
+    m_Address: Shijianshalou
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2603a2ab5e68bc4cabdb2902f55a64d
+    m_Address: Quchutexia_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6473f389e9d9ea4d96a7650d437f909
+    m_Address: FX_CD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 70d0fe21b70e47f41a97fa04699c36bd
+    m_Address: Effect_Boom
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4252bbfd730c9ac47ad9796b4ea929e6
+    m_Address: Effect_Boom_Small
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fae75104327274498d8f12975f7e211
+    m_Address: Effect_MergeAboveOther
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e44765286e5753e4cbe7b5dd4b161c54, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 94b6470e8e91ad84a9fe2d6afda82248, type: 2}
+    - {fileID: 11400000, guid: 4bb74e63a77dce247a42a0fdb7d725ac, type: 2}

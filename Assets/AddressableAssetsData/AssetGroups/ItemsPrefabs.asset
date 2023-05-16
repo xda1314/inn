@@ -1,0 +1,3065 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ItemsPrefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: ItemsPrefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5dcd5019261b3ac4ca00f1d364807bed
+  m_SerializeEntries:
+  - m_GUID: d88314676c8703e4abed4d12bfdbb354
+    m_Address: RewardTulipBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ad39357406ca10478599b3e738d5642
+    m_Address: RewardToolBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a176b32ef9c0324399aa7154addbba0
+    m_Address: RewardPaintCanBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 93c7ad5a7cf64824d86885be95c20616
+    m_Address: RewardLupinBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d166cf6828fa1e4e8f89b1b60379ba7
+    m_Address: RewardLampBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e47ceafadc9ed54ca5e3b8b01f47161
+    m_Address: CoinChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: edd321c0656ea3441ae16e27e61043af
+    m_Address: BrownChest_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f0e5c5a89b75b642b141a1f36ee8c7b
+    m_Address: BrownChest_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d6926fa97033ddb46bdadeab903ddd65
+    m_Address: BrownChest_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6d6fa817bca5614cba4134a484d5e34
+    m_Address: RewardGardenBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 830e6df8d34d6bc4bbbe200d00400457
+    m_Address: PiggyBank_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa1ba2f79da9f6143b60d7c8dc021467
+    m_Address: EnergyChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2dd4ea07b95e7504e9e0106f475bc068
+    m_Address: RewardDessertBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ae1a598ddee0a242992b7d189d62288
+    m_Address: RewardJewelrBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51076d718b79d284f9f30f329ea3c624
+    m_Address: FancyChest_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d4423c308b058c459a84ab00df6e95a
+    m_Address: RewardChest_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf443e14a3d0a8143bf8e0c0e57b877d
+    m_Address: PiggyBank_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 47413369aa1989744821c12c9e35dbb0
+    m_Address: RewardChest_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4aea8650739e67047a0562f834c73379
+    m_Address: PiggyBank_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 476bc8cbf7de16644bd32bf413275e9b
+    m_Address: RewardCleaningBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5994d78f5dcb55043b5eb1fc5a67665f
+    m_Address: RewardBenchBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03765d542ccc61048b99e245b5d4cf05
+    m_Address: FancyChest_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 195e88b841437344297a18bc3a4bedf1
+    m_Address: FancyChest_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 98a38699f45d9a6478806a8856da0fe4
+    m_Address: RewardDetergentBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7fca161c919837749b76bdecd40ffd70
+    m_Address: RewardAuxiliaryToolBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 171404d51033eaf4f973620be6bc4f6a
+    m_Address: RewardCobwebbedScrewBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3058e62952de3134b9ad6aee2d6a2b9b
+    m_Address: RewardChest_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 443e3578b377e7f4da7687b091711ba8
+    m_Address: BubbleDandelion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ec9396e82913854f8f65d7bff96f5bb
+    m_Address: BubbleMaker_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a553b762b8b1e234c8a1f967e096bfcd
+    m_Address: BubbleMaker_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ac6599db2eb7c054e9ed75f969aed3f0
+    m_Address: CandyJar_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5084b34034f25b4429ef8a666761a7d7
+    m_Address: CandyJar_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8195122da98aa214790bd366151b80e7
+    m_Address: CandyJar_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1eda5d5e02e674b4faf1ce5b456d0bbd
+    m_Address: CandyJar_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a807c0e55184b74f918f1b407780f47
+    m_Address: CandyMachine_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df99a7d1e1395e345ae09cf4b3d99913
+    m_Address: CandyMachine_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c9c0f723a39ff80468ed61874bc17893
+    m_Address: CandyMachine_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95229a81589d3c84c83377bf0c481f5b
+    m_Address: CandyMachine_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1534e3c0e2fdc3141945092750a99ab0
+    m_Address: CandyMachine_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32200f22c1034a6468665d66b79f6473
+    m_Address: Cat_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18b6d5a4aa2291c409a6ab3e57deaced
+    m_Address: Cat_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 253ddc3b11d5f4e4face877f027d1a0a
+    m_Address: Cat_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb27b8f7fbff47f4b920f27486c4bf73
+    m_Address: Cat_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e02397d50830fb468c5566c365f32ff
+    m_Address: Cat_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f9fe7f9d5a844241bf11f57282d8d64
+    m_Address: Cat_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af78b1abc9499c04096321fba809d1d3
+    m_Address: Cat_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fcbeb410e446bee4a8fd47c0947e0f6c
+    m_Address: Cat_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 043e91a32d18a294580e23c3d4c1d209
+    m_Address: Cat_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c65149d393163c84d9d21ae33d27f1c5
+    m_Address: CatHospital_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3fb2f67a0b765d45a3e3714f8f94f99
+    m_Address: CatHospital_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15ad214de4e49ed40ae725a8c800c772
+    m_Address: CatHospital_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 94ba567b9fc02fb4dac27cd4bb5e020a
+    m_Address: CatHospital_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 28fd2c21f4d3e324abadd5a5711a4d4e
+    m_Address: CatHospital_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0cdf06169da0c44b836bae67b3039b2
+    m_Address: CatNest_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe1e4dec08a78884b85e01a52f37dc80
+    m_Address: CatNest_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7e923310415e644aa96de5f230d9fed
+    m_Address: CatNest_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e1d06d90e67f3a640a64e8e1f5d58efd
+    m_Address: CatNest_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f24cad45d44a0384db980f61da40536e
+    m_Address: CatNest_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d490774a10b2e44ba473407f2880a3c
+    m_Address: CatNest_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f54d3e30db007442873c787daefbef8
+    m_Address: CatNest_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a05d5e12fb32434f8ea524e3e64fccf
+    m_Address: CatNest_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d81db75d09b689a47adefd92a058be6e
+    m_Address: CatNest_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e53d7da06b7a6594c93010bafe2ad1c6
+    m_Address: CatNest_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ab5f2668064381448a9d431a377e771
+    m_Address: CatNest_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c6ba64592c8ff9d47aec3dc9fc77d669
+    m_Address: CatNest_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 673ade0b0d684064ea9b86db1a27d6c9
+    m_Address: CatProducts_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0e670ffc9e2de741b51a2da6d4ede79
+    m_Address: CatProducts_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d22cdf3b0b07f754194aa8a19e40ed27
+    m_Address: CatProducts_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82ee22eca9b72fd46bacc7c9927b303f
+    m_Address: CatProducts_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ae8ab636f6069e4283fa48b4b11ec47
+    m_Address: CatProducts_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31ba76b9e4ffa8e4ca5dd5f83be6dd77
+    m_Address: CatProducts_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 400d310a7758ce3409d9720359048de1
+    m_Address: CatProducts_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 561f9c14a3994ee4ca3bb7bb281d0444
+    m_Address: CatProducts_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 049671404ce1caf40aeefacf64b1bf4c
+    m_Address: CatProducts_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 931de62dbf63d8b4bae219a533cb828b
+    m_Address: CatToy_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c12f701fdacfc3e4089f05ed5ca9a059
+    m_Address: CatToy_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ee987cc944d9c8040877cf9bf8226320
+    m_Address: CatToy_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d48109655d9d977488c5286d318b6f89
+    m_Address: CatToy_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3447b843953058a498de8c67fc41eb26
+    m_Address: CatToy_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 747ac08856bda9d47ae8939709ffc193
+    m_Address: CatToy_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 920b88ff4093ffd4a94492567e21457b
+    m_Address: CatToy_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a324659441bd874a8c9e1301bb734cc
+    m_Address: CatToy_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e38c93430380ad1479c029b6c83ace15
+    m_Address: CatToyBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d068cc99b034e347a4d6b29715dc20d
+    m_Address: CatToyShop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d855425b31a52a64b94c62299961711e
+    m_Address: DandelionGrowing_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c672500d5d689be498990e4f45936cb1
+    m_Address: DandelionGrowing_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 25f71ebc855ee624790e559312323aa1
+    m_Address: DandelionGrowing_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1137bdfe5457aa74f88cfce3daee4ca5
+    m_Address: DandelionGrowing_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 684c3841d01e7c84c846a1fb1d08f5e9
+    m_Address: Fountain_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8273950155e78814593a74bf2a4cc59b
+    m_Address: Fountain_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60aa75d7d5c9b154b81b3e857ed8d59f
+    m_Address: Fountain_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 40b8b26fd49c06b43a18fa232561b498
+    m_Address: LollipopJar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0043a7cd5a96a594bb056046a6aa4fb5
+    m_Address: SpaceBag_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc6d2485cfab97445974dcf089efe3f8
+    m_Address: SpaceBag_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 194ecdb2748b3ad42881504e07c757cb
+    m_Address: SpaceBag_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8a6cb0d41a95a0438e04dac7f2f348b
+    m_Address: SpaceBag_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe459da0daf8d6e469d71fa84e7bc7d0
+    m_Address: SpaceBag_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f6a848a62bd716742bab0e7f8a655fb8
+    m_Address: WishingNote_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae3e188a33c47fe40bf584fcba8a06aa
+    m_Address: WishingNote_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1cd98bf9dba441643892514054cb03f8
+    m_Address: WishingNote_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb32c901c1946204f9807d583045715f
+    m_Address: WishingNote_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e137e8475dfbe5b4f9da20c62cdf59a8
+    m_Address: WishingNote_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 473dc3fadeca9164c88b5e6b6d7d3d4b
+    m_Address: WishingNote_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 557ae45c0f6a97c478677d5fb166b617
+    m_Address: WishingNote_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe4056c3387463b4c9ab9fa6056f868c
+    m_Address: WishingNote_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2080daff582c64040a601f15f52ae7eb
+    m_Address: WishingNote_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 637b24b262d16f44991f56e44415860c
+    m_Address: CatProducts_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a4fdaf3aa7d5b3d45ad6df3d5e85c8e8
+    m_Address: GardeningToolBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a4079bdf0e8401468a98ca8e0c48c87
+    m_Address: DessertsBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37f93c535cfdd544888f5ae7c364d8c8
+    m_Address: JewelrBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa8946c17fa1e1a4bab6d95e0537161c
+    m_Address: LupinBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c7e83e3bd1b882445b26167e9d092734
+    m_Address: ToolBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5726ffabbb990744b2c98c868d2589b
+    m_Address: TulipBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9014ba71ae7e5e6469277b60e0a2b7d8
+    m_Address: CandyBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd64488a70d22be40859e3256502234c
+    m_Address: VaseBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b7f2c0887ee86ab40830b4624574810a
+    m_Address: CleaningToolBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a265f1441314c4b459cc83b46accb090
+    m_Address: LampBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1650cd680dd4c7d45ad397e30c8f9865
+    m_Address: RewardAuxiliaryToolChest 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a82c4fce83e1f04ca061fef3471f64c
+    m_Address: RewardBenchChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3c8475a10e3ba8f418681cdd03ce327a
+    m_Address: RewardCleaningChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05c4046e5a99c4f478485749bf26adce
+    m_Address: RewardCobwebbedScrewChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa1435336ca52a840a9a8f5031aaeedf
+    m_Address: RewardDessertChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23ff6453163bd1e479352661b7952a6a
+    m_Address: RewardDetergentChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce4e18e7184540e4085535546c80edd9
+    m_Address: RewardGardenChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2923733e3afa9ce429650a4664f29afb
+    m_Address: RewardJewelrChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59e5c5f13eced454fbb23e5d9d6d1ab6
+    m_Address: RewardLampChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74826c4c180ba4c4b8b85f0283786a6d
+    m_Address: RewardLupinChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b5a3b205b2e9d4439421aeba5821e59
+    m_Address: RewardPaintCanChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23cbc0aa709a5e64a8182e6999c800c8
+    m_Address: RewardToolChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 277748e0238cbef42bef7968e2e3c41d
+    m_Address: RewardTulipChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd8a5a8f85018c342908ace556333575
+    m_Address: RewardCandyBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b18ac6f86daa29d40b512314f5b2448d
+    m_Address: RewardCandyChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb639a46f4980be429bdf151a0b5f810
+    m_Address: CandyBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aacb0719936a8374288167a0741971c0
+    m_Address: BubbleItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc6f0d8deade57d448a899ab2350d78d
+    m_Address: ItemState_Task
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d0981359bdd51d941a7eb75f0f6dc191
+    m_Address: ItemState_Locked
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84430db98c691eb4390a37d8cfcf3aa2
+    m_Address: ItemState_DailyTask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 16016294de9b08341998832c6cac2b51
+    m_Address: ItemState_Clock
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ffb5c1b1e750b0b4c9a549175bfa31b5
+    m_Address: ItemState_Charge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08edd2ba6572c7d44a30d4dc1aa26223
+    m_Address: ItemState_Bubble
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8afbaf59580d25b4286f82eda9548aaf
+    m_Address: ItemState_Box3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a38bfd04802b4074eb8314e29ca2e91a
+    m_Address: ItemState_Box2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 61b1e31d417bac14385ae87aa202f4f2
+    m_Address: ItemState_Box1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ea4ffc575f918d4d9773b63070c4a2b
+    m_Address: ItemState_MaxLevel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c0d5a7578dcb464b889f002650dd09a
+    m_Address: Love
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df7a903bca5a1bb41b68517e04d59dae
+    m_Address: Floor_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b6896751196778409581b13078e7adc
+    m_Address: Floor_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e983cc3d02a5814a9d1d8539759796e
+    m_Address: FirstEncounter_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 929f342e33f354e4b869cee36d987f62
+    m_Address: FirstEncounter_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71760a0ce2bcd1b46a56d23401ad4dca
+    m_Address: FirstEncounter_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21e9e6e445acf5a49a99d752ea1f072d
+    m_Address: FirstEncounter_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 41a3ae0386138804d8102ac282be5b53
+    m_Address: FirstEncounter_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05587ba4c5c19eb48abcad49878e5148
+    m_Address: FirstEncounter_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 976a286d77b8e8e4586538e1e0657906
+    m_Address: FirstEncounter_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fd222d57fecd2c4a8d026572147814c
+    m_Address: FirstEncounter_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 00ae0dffd14bda44e8da3b31e436dea6
+    m_Address: FirstEncounter_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f8ef5bb225bc6174d8586b246162c133
+    m_Address: FirstEncounter_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44ad9368a62e09746b60a5bae3a75f25
+    m_Address: FirstEncounter_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b8059f9d9517314ca8602c71f6dd518
+    m_Address: FirstEncounter_13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ea914eab4ba50f4bb64f997656d2dd6
+    m_Address: Phonograph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3eeebd155abb8114c89a5961200eff59
+    m_Address: Stone_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a767d37bd7dd8af4085b9786eab078d4
+    m_Address: Stone_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 69798f71ccf85614996fc74dcb4f0c5d
+    m_Address: Stone_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87884d740ca062740b77a4e0fe1e295b
+    m_Address: Stone_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d9f4265bd5adafe498de7a463251ae7e
+    m_Address: Stone_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85d53bfcc79256b489502ffacea9b85b
+    m_Address: Quarries_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 096b1d6af51e42c4faf1102e0d4d1688
+    m_Address: loggingFarm_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a13f4c0e74a3eb44c805acffa7ca8c52
+    m_Address: Log_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c7021553f655c1458aabd5a11d40e99
+    m_Address: Log_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a92beb178f5af6428c7d07880572e13
+    m_Address: Log_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14a1ea461a2f12b4aaae8785f5e5cab9
+    m_Address: Log_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8d99ffb4e4842e4bbf9f0bbe23ad58b
+    m_Address: Log_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9b37f1fcc3aad349bcb782a300315df
+    m_Address: GourmetShopFactory_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ee599736b77cd64eb8758b4f8d745fa
+    m_Address: GourmetShop_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d5c5bbc273258143b3b759035522815
+    m_Address: GourmetShop_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 911a3ab1a6104ca45ab6d79edbe962e5
+    m_Address: GourmetShop_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a8d9cf7abb57f04387996eeb88cd8a4
+    m_Address: GourmetShop_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8123591e3dfdf94cbe4059670da64ac
+    m_Address: GourmetShop_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01237c1375c81f54f8cc44b1cd5fc1ed
+    m_Address: Gourmet_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ebeb883cc8dcfde47a0d3bce904ec463
+    m_Address: Gourmet_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1aaf80b346c2a24ea613e4790f54f01
+    m_Address: Gourmet_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9b4ae714ae0ccf48b1f073c3e03d4d3
+    m_Address: Gourmet_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dbc3c8a88015f2b479f50d43811fa876
+    m_Address: Gourmet_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1015b57523aa6084bbb8c9cbee9e2163
+    m_Address: Gourmet_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ffc95b2b6b5e3c47a66235bef88ee32
+    m_Address: CoffeeShopFactory_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e622639154073f40b409a00ad52263c
+    m_Address: CoffeeShop_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 326f6c08f393b824f983ced95c3203a3
+    m_Address: CoffeeShop_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 053d92678ff7e6e439aa43fe08ede5f4
+    m_Address: CoffeeShop_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc3f9fe6c1bbf594182d749377f27c51
+    m_Address: CoffeeShop_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f8e4c9c729ba70040bc9232b9c526027
+    m_Address: CoffeeShop_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f27c955d37ac6e24c8de54ba9c6e9f77
+    m_Address: CoffeeShop_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7017e053cc5a06a4f923331fb595ca35
+    m_Address: Coffee_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d72a7f7a7f244e449f8bc1f249c1804
+    m_Address: Coffee_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 58e6ee1fe27531b44b52dcbe3d746a7b
+    m_Address: Coffee_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04221e23e482f0247b483a0db2aada55
+    m_Address: Coffee_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d11e09b2b0a24e141bc2646ea37c6a41
+    m_Address: Coffee_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b2f13c2ab0491ed4daf1f5defd07e700
+    m_Address: Coffee_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b20e93c90021e174588c1f953b403354
+    m_Address: Coffee_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89ce06f4841967440b8e1c73b2c5a1a8
+    m_Address: BakingBook_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 490e65c6edc2ac242a509c64d74e5a58
+    m_Address: BakingBook_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 339e4c2ee2173704c95d990e4baca934
+    m_Address: BakingBook_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49d79312a0bf3eb489f66fd662c1ccfe
+    m_Address: BakingBook_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 93352f6fe9184144bb243e4bb247e7ad
+    m_Address: BakingBook_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8fc0d1ebfaca5594aafbe7bf3b2beace
+    m_Address: BakingBook_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 25c7ad86a403fdd48a737909057185f7
+    m_Address: FlowerChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6beaa891e8d221b49be0d0b597742d3a
+    m_Address: WishingTree_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 547135cca6d43c74f99c8c484505cefe
+    m_Address: WishingTree_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13eb7bdd7f9d96e49beabdafa3ed9cc2
+    m_Address: WishingTree_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3447bb4e65b9cf24f92cded4db33ca6b
+    m_Address: WishingTree_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 253baf1495ff3a1479725204903796e3
+    m_Address: WishingTree_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13f24c9a10b4744419b0569d7e420d2d
+    m_Address: WishingTree_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c65dbf24048848499b6f05d814007a0
+    m_Address: WishingTree_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ea206ca486347248af264e046056bbb
+    m_Address: WishingTree_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8331d1faab4d06c4b88050205f50a289
+    m_Address: WishingTree_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7057ee58d719da0488d0bb77a8937859
+    m_Address: WishingTree_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d886a0850e2cbd449a982ad03b9f84cd
+    m_Address: WishingTree_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb4e1a00f532fc9488b0ab179ae7ab04
+    m_Address: WishingTree_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8eda3aee53ee5948b4ae55f68d848d1
+    m_Address: Love_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67826fca84e10e34f85fa9cf02b56090
+    m_Address: Love_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21e34d99d476c78468b0e935724f77c5
+    m_Address: Love_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe5ae7d032208a24dbb127245169e046
+    m_Address: Love_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b52e581c14b06bc4181ab0f3fe07ddc7
+    m_Address: Love_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 106093f93ece6d247af260b1c530f529
+    m_Address: Letter_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e4a3f5ccae68d244aab0f2e165b5b89
+    m_Address: Letter_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cef9fe8036ee59a4ab95917a2a9af060
+    m_Address: Letter_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2c3b5ac39efa9c46ba238235df0433b
+    m_Address: Letter_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9e811aae5f3f5db409dac44fca02f9e7
+    m_Address: Letter_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2615475eafee2874fbf3c72d4139e147
+    m_Address: Letter_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56a7babac28c09d4f8b5f7287e2b6bd9
+    m_Address: Letter_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 358f5c407bb94414d9ce7f2171d325ed
+    m_Address: Letter_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abe9e9becc79b3c4bb75dc463d1ea285
+    m_Address: Letter_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c48f6e356f9d5b4b9e2c1072da18186
+    m_Address: Letter_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 81ff295066ee58d4cbc8dc16a049cd25
+    m_Address: Letter_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44d699f884439ae4e9949615180237ed
+    m_Address: Letter_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f0987a2384db594e87103655e7ef556
+    m_Address: Mailbox_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03b7014107f22cb4c9496f0d23efcb0a
+    m_Address: Mailbox_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7dfa0982f98e0740a9a54a8bcd5079c
+    m_Address: Mailbox_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f600a6591129b84293e1e0ff9ef802a
+    m_Address: Mailbox_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eaf3f80cb9f54954b9ac74ffc2821d6e
+    m_Address: Mailbox_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8018104529ba4c546a9333720fb7b764
+    m_Address: Mailbox_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c62e52fc42325b49adb56e659fcfc58
+    m_Address: Mailbox_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a7055984d980524c9524f58fed057ed
+    m_Address: Mailbox_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c225448d6c67714e8065a7a08368ecc
+    m_Address: CarrierPigeon_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b8748417ce045a349ac40b797536da04
+    m_Address: CarrierPigeon_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 992a24a5bf4f9a94f80a53d90d0ab650
+    m_Address: CarrierPigeon_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f9c0f2727a2d2244a7b1f332c22f545
+    m_Address: CarrierPigeon_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce3148ff487accd49bbb3bea75f68844
+    m_Address: Picnic_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4040be8aead33064db0496af39d690c1
+    m_Address: Picnic_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ebf2c54205840df409ab7ab98ec22a8d
+    m_Address: Picnic_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 39559ead1df40964f9f2b70a745c48d3
+    m_Address: Picnic_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f55a4bf6c4310434eb13ae46d5f580a0
+    m_Address: Picnic_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b0b000d8669c73143849d9de8e8f567b
+    m_Address: Picnic_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8759cb1c135e02444a67164b7f0220ef
+    m_Address: Picnic_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3c6fe928c7bd5884182328f5e95020e7
+    m_Address: LotusPond_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca09e1dc439a8d44d8567cfa1007769f
+    m_Address: LotusPond_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 54de77cbc0a4c6b4d8d1a5fcfb6a6957
+    m_Address: LotusPond_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 590374c0821ed0e4bad9b1386f547fcc
+    m_Address: LotusBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b3f8d16de5d0ca843b1f23d1b7a89ef1
+    m_Address: Lotus_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb41ff515c265de4abda3a5cc680ff4e
+    m_Address: Lotus_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a60a48cf1a577b449a5399b8cfd5d20b
+    m_Address: Lotus_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 347e5b3af5f1e0140a2806da95a597ed
+    m_Address: FoodTruck
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3473455105272264a82db8e477f14165
+    m_Address: Wedding_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0944384bfb9fc804bb58db47a9ec0b08
+    m_Address: Wedding_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2091fb7509417864fbe37215b4c2a8b7
+    m_Address: Wedding_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6d8ad15cc8322044866e9d66e214fd8
+    m_Address: Wedding_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 829098a6a7143a445bf22d63019eb473
+    m_Address: Wedding_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3389b074499de844b903faf7b30bc9c9
+    m_Address: Wedding_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc5e46c8fabd4fc4fb16aa3b22f94622
+    m_Address: Wedding_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45e00ee9e54c4a94a8c5891314d49809
+    m_Address: Wedding_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2923f511ce6ccf44e91bd6f6d6e8965f
+    m_Address: Wedding_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c34e8b820a6212443a49006fa5a1b2a8
+    m_Address: Wedding_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e04bebbbfb94a948b2be55d168b1f2b
+    m_Address: Wedding_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 687651323350c424e9a9e0d36cfdb657
+    m_Address: Wedding_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f42df91ca589584ab3220138738fcc1
+    m_Address: LoveTree_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c6f34ccd022064b4f9e2c1c107e0bdb2
+    m_Address: LoveTree_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 925e329d386c0da4196102b440792091
+    m_Address: LoveTree_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17071c5f55f6dee4e854f7d6a2c002f0
+    m_Address: LoveTree_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8b42ff13dd5ea1488c779f430ef008d
+    m_Address: FigureStatue_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da32c9a0a8eda7e4682a1ee257f3ad29
+    m_Address: FigureStatue_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76e3ab7ede2a93d4e8f953b79e2a3d9e
+    m_Address: FigureStatue_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13be61cb16d1b7d4385e418e29d5ede8
+    m_Address: FigureStatue_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73b3edfa84136cb428d700e9aa0baed2
+    m_Address: Needle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a1d3770dfe99bd84aa30744bed423e10
+    m_Address: Bench_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49ab54d987b26df4e84985a282cf8a5d
+    m_Address: Bench_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 70aa1f3e8cad44b4dadca75d0da346e4
+    m_Address: Bench_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e77d24eb8fa385e488d2d528ba363244
+    m_Address: Bench_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af76a9d2cce2f304f8457dffa0f90d64
+    m_Address: Bench_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f05c0b57731561049ac329759755ab9f
+    m_Address: Bench_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88b18c530e029fc4c821144958ea9165
+    m_Address: Bench_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b17e3f942275232498e6cab74a7de2c5
+    m_Address: Bench_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65354e6ebdb62e646b3ee48c2cfcf8b3
+    m_Address: Bench_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 107b5d07f017d034dbb603f39a3a00c1
+    m_Address: Blender_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5cc95f62defbdf479e7c04c541ec492
+    m_Address: Blender_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6db78f8e27d84c48b1853ff479fb32e
+    m_Address: Blender_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce2a92d6b502e4146aeb44aa3a174ba9
+    m_Address: Blender_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e1aed543707ad84cb857cd227e479d8
+    m_Address: Blender_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3da2ef15030fff94bb3e3c872312e039
+    m_Address: Blender_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a58670190a02a1c4ab958dfdeafb8ff3
+    m_Address: Blender_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 206fe8fb69e5675488dbcf5a39105349
+    m_Address: Blender_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 55b35b8917d83ac4397c0312e7e9b715
+    m_Address: Blender_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59fb056d982fd774db6c0db43a696dee
+    m_Address: Blender_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2acf7317923d475489b7a38f9fbdf5fd
+    m_Address: Booster_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64f101f899287324e9a3f389ea4d8565
+    m_Address: Booster_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a87b6f6d0bd2ea74e948210a3a7268b9
+    m_Address: Booster_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 184f3f889c7173a4fa9da800dd4c942f
+    m_Address: Booster_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca3a2ccc25d437841a328b6027cc6407
+    m_Address: Booster_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e18ea606163d4a458203e3c82cfb520
+    m_Address: Booster_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 42e4267f1c2f52b4ea37c9393004e449
+    m_Address: BroomCabinet_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: adf3be21d841d694885248c52cdff54c
+    m_Address: BroomCabinet_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efd0b5fc6efab9b47ba080b2192145dc
+    m_Address: BroomCabinet_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37a9dc279f645074d8251ccd24f71fbe
+    m_Address: BroomCabinet_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4c4ff41542ee564f9635059e205c90b
+    m_Address: BroomCabinet_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9702287de7fddf94899d0d9be97c6d99
+    m_Address: BroomCabinet_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8875023defac21f4fb1badd245aab1c5
+    m_Address: BroomCabinet_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db5c7abcd0a9fbd4c8c918bb44a6597d
+    m_Address: BroomCabinet_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f4bb34564439ed74b8e84a78b0dd73c1
+    m_Address: BroomCabinet_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8fdf421500e30cc44bf297978a038731
+    m_Address: BroomCabinet_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11b011fec2645e04c972c083bc54ae1e
+    m_Address: Candy_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24e835c8947a31e42a50baa040000519
+    m_Address: Candy_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: beb473d03536a1944a9e52c07c782163
+    m_Address: Candy_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d6e4ec7e5c1dd14fa43617ea4db771a
+    m_Address: Candy_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d6d59d1d658ff84a952f49c21f5327a
+    m_Address: Candy_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65002eba7e0e4024a996a6c0c8f4748f
+    m_Address: Candy_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15f07472910cf6844bffecac00c0cf6a
+    m_Address: Candy_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 806acc32a33d57a4289f2f4fb605b508
+    m_Address: Candy_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 142ee2bf149fe3843ac8ae5e7804daff
+    m_Address: Candy_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bdae2187e6aaf8546aecfc7afddf6391
+    m_Address: Candy_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91af34a6a4b158b4aab503592811168b
+    m_Address: Candy_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97689e3ea7e8c5f4ea093a27a1b4a84f
+    m_Address: Candy_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b61721dd683bc254089a66defb677d14
+    m_Address: CleaningTool_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 35ec40d224912ea4db20871cd1c8e2fb
+    m_Address: CleaningTool_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e43d1d0474d954e49a813af910a1df68
+    m_Address: CleaningTool_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0b77a49ab8c082e41b02f10c9f64d5f8
+    m_Address: CleaningTool_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed73e9f1b9295974e84570efe83ef31f
+    m_Address: CleaningTool_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 39ca51b18ac9d7c4ab22044a44e016d4
+    m_Address: CleaningTool_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ecf4049a16412284c90578b36e06d81b
+    m_Address: CleaningTool_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f61532ce0bffa442bd470448878e841
+    m_Address: CleaningTool_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 46e4e51a4f1c07a4090743a10efa8108
+    m_Address: CleaningTool_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a64cf9f64334eda4aa4ab9684a34d806
+    m_Address: CleaningTool_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e71cd9b1fa8a174989875d923dd1053
+    m_Address: CleaningTool_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5a8c8eefbd0462c4aa8794bee3479ff9
+    m_Address: Cobblestone_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38baafeba48b1934ab10470f3b81f807
+    m_Address: Cobblestone_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2964b8d95b802a743846b2cf6c0580ce
+    m_Address: Cobblestone_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d8d6a0c1df4eac448c62a146cf22860
+    m_Address: Cobblestone_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 54a9f414a25d6e6439fadf11be5da09c
+    m_Address: Cobblestone_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7563a3f1b72aeec439f14456da418d9f
+    m_Address: Cobblestone_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f8c118f93b2ffa540afc34f2a5a8f15b
+    m_Address: CobwebbedScrew_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3320a1c2f091525469437da1b7f44767
+    m_Address: CobwebbedScrew_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8647d487254a4df42a2e406a6db8123c
+    m_Address: CobwebbedScrew_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d908ffa1cf5c7414aa2f87ae203319b8
+    m_Address: CobwebbedScrew_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2f0c076512e4c345918227e70ef446e
+    m_Address: CobwebbedScrew_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f8f32def51d4f24db12895096a2925a
+    m_Address: CoffeeCup_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a852dbcdfabf8b478abc78ac30df060
+    m_Address: CoffeeCup_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f40a9b929b7b48b429e543fc11433099
+    m_Address: CoffeeCup_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e6088285c907a440acb31bdd3fb7e12
+    m_Address: CoffeeCup_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ad4278b49d3a6f459e7f18aaa250265
+    m_Address: CoffeeCup_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 488ed8b4ac9debf4da410e562a1b4d23
+    m_Address: CoffeeCup_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c2093e984069dd4692390ac907f995d
+    m_Address: CoffeeCup_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6573d78f076fbbe488d8858c8e9ce102
+    m_Address: CoffeeCup_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 12cd061249cf79b4393c66a4b6666ec3
+    m_Address: CoffeeCup_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67baa570ac0254f438a49fb70f166b31
+    m_Address: CoffeeCup_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cdc9819e430c7e84a8ee927f01f5b65d
+    m_Address: Coins_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1bb3352c8e6fd946a8b3bbe8ddcef1a
+    m_Address: Coins_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7be1f53b3754ca4584ad371d5f7ffa4
+    m_Address: Coins_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87094de7dafd2674ea296aa644e6b5db
+    m_Address: Coins_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc49932669bc6204ba52d016eee44561
+    m_Address: Coins_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b32c598229602b141a460a082b84f74f
+    m_Address: Coins_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 54ab3687c8c46ab4b9ad3552b847ab4a
+    m_Address: Collections_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e7d1c7e239172640832a546f54abc4c
+    m_Address: Collections_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 821d3e1dab2997b418c2deb4359e2306
+    m_Address: Collections_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ede89201464e88f42a42ef7f05fd0933
+    m_Address: Collections_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3096981837186724186f317796b807fa
+    m_Address: Collections_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23f8aa07f52aafe4ea205d23cd9b864e
+    m_Address: Collections_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3c5e82d6cefd5bc438131fd72f8a82aa
+    m_Address: Desserts_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 170ab62dbbf99a04e972ba9d5fe2f314
+    m_Address: Desserts_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01ac815187db96a4ca71c919cbc897d5
+    m_Address: Desserts_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9ea56f2020579d49bfc823465e4cf30
+    m_Address: Desserts_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b857d4312c2a99848a4bf173c1d0cc10
+    m_Address: Desserts_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57684bad690bfad4cbfed2400ec29f1c
+    m_Address: Desserts_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20ac9573846091c4a9d09f92ee3371bc
+    m_Address: Desserts_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 989167053ac778849b443164f6f145eb
+    m_Address: Desserts_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bcfd0e5eddc6d0943a8bb695c8c19380
+    m_Address: Desserts_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be26a87fe1d9e3e4ba0f06f144b55c36
+    m_Address: Desserts_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a0d8cebc31b57ea4f8bd977b6dd2cc27
+    m_Address: Desserts_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d9964d0aae9b8d498f30361715053bd
+    m_Address: Desserts_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e76cffb54924f04aa2a34ce362d8755
+    m_Address: Detergent_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b1765cad646ad04b9c4e9d8e4c42587
+    m_Address: Detergent_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 765881ad00b173044ab3b2536fc4b13b
+    m_Address: Detergent_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c047f4efa12b44647b3e17c35db5f473
+    m_Address: Detergent_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1b4319b291255cf4b8de87f4ac0ad8c5
+    m_Address: Detergent_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7617d25764e6b8446b276b8230b6339c
+    m_Address: Detergent_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c7a94e16fa412fb4385b68936de6ab09
+    m_Address: Detergent_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd14e5ef4d5bb384b90dcfe33005ddfe
+    m_Address: Diamonds_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4fa90e97ec3f0b24eafb56cf5619efac
+    m_Address: Diamonds_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 450e8f8ea16e7d64d8a9d401908b2b15
+    m_Address: Diamonds_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 165866d5d2ec64a48a7b9389e25b5a9c
+    m_Address: Diamonds_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 459261f2188587443b6c8ccbe054a4b9
+    m_Address: Drawer_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 180ade56a913881458f675365e46b4f6
+    m_Address: Drawer_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: afae7694cfde3ba41997f70d52e3db36
+    m_Address: Drawer_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a826445d34d05445bf57335b6212c92
+    m_Address: Drawer_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f67cd6d3236150541a8bb62cd366865b
+    m_Address: Drawer_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c49398a459739a4ab38caba3303e797
+    m_Address: Drawer_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f4c6b00d3627b124aaaecf2d7fd22d33
+    m_Address: Drawer_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7771962643bb5934895ea97ed6b99db6
+    m_Address: Drawer_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd9a71ac8ba82294db1f10970f16490e
+    m_Address: Drawer_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d7cbd194fdec9414ba9573aba7716ffb
+    m_Address: Energy_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60c96813099bdf240ac3ccf94efc316e
+    m_Address: Energy_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5809098b5d1985642ada9a89a32fba2b
+    m_Address: Energy_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ebea1a00d786aaf4a863d48d353de3aa
+    m_Address: Energy_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 828aef4933867fa45a9b8a891ceb1c6d
+    m_Address: Energy_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82e76737db50777479d530f42d366142
+    m_Address: EXP_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7783f692d5f21474abb6da61b9868a9b
+    m_Address: EXP_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 597e1f6b5329ef543904625ebc91d93e
+    m_Address: EXP_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e685cfdd9f20ded4bb2c27589c365b71
+    m_Address: EXP_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca7033f3958abcc499bf64d1c15d0a2c
+    m_Address: EXP_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b73f173a5b6491f47ae273cb92523075
+    m_Address: FlowerPot_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f54e4c670012d554eb1c81d04a56e361
+    m_Address: FlowerPot_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 70c6a24dddb826c4e89485f94abe5d64
+    m_Address: FlowerPot_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b7aab4d46517b8448b0e328892f0f1f
+    m_Address: FlowerPot_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af51d45ebeb86ab4ab7b84d8c5083186
+    m_Address: FlowerPot_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2dbd39aa15ae07d4fbc0f068e76ef923
+    m_Address: FlowerPot_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ddc6a4a0008fe7641940cbaa0fad9933
+    m_Address: FlowerPot_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 356d4f715ff50fd4db44a2bdac366bc6
+    m_Address: FlowerPot_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7e1a9082f2e3b541a65595a57833f00
+    m_Address: FlowerPot_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8fd496bd1ba9a7f478c1edc336a0a689
+    m_Address: FlowerPot_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da549ec65c6f2b2458bb36c69fe0aa12
+    m_Address: GardeningTool_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91dbb9e91c602a04da38b6a365b83c4b
+    m_Address: GardeningTool_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 35470f6a42d2c7141a373ffaa2200785
+    m_Address: GardeningTool_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7150174308288fd458b6f7f3a85a7a30
+    m_Address: GardeningTool_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0b945632f6217e4eb7403e1912ea366
+    m_Address: GardeningTool_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 960e668747663694bbed183d1fc9dfac
+    m_Address: GardeningTool_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f97a895ebb6c2441be26f816493612a
+    m_Address: GardeningTool_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18b738b510ee4264a892f75de768f1ba
+    m_Address: GardeningTool_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d9b05493704a2f845949bb1c3c978b3f
+    m_Address: GardeningTool_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0cd72f4f3f78fb44bf3873361c8dabb
+    m_Address: GardeningTool_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 159472985cf89684a8b954dc7956c068
+    m_Address: GardeningToolBox_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd134e1724bc94643a0a965ca6cb2f80
+    m_Address: GardeningToolBox_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 119c3dda3deb45b4a8ff3d147f3b123e
+    m_Address: GardeningToolBox_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e29b99456f66084480bf533bcd9dd79
+    m_Address: GardeningToolBox_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 667fff57f1799ed4a8bc9620b5ae3ee4
+    m_Address: GardeningToolBox_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 33655befc0a58eb4c97c27cac7594517
+    m_Address: GardeningToolBox_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9afaaf466f7b8294e8039de6c993a0e2
+    m_Address: GardeningToolBox_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 518244aeb0f509f4986cfc4e8c3859ec
+    m_Address: GardeningToolBox_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 973c6a95b308f07429c8951cdd3d6a7b
+    m_Address: GardeningToolBox_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 832a9753dfd3db0418874a3eb1694135
+    m_Address: GardeningToolBox_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 864dde375d03a2d46aa6e300bf9fca49
+    m_Address: Jewelry_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e56812e1430cd954ba5f8ac4f43db0ec
+    m_Address: Jewelry_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d0fe573f3d873034c8b40b788def8c68
+    m_Address: Jewelry_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bce52e58c553d1041bd2d7e70d6907cf
+    m_Address: Jewelry_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5e883ed1dcab7194798f44b51e492085
+    m_Address: Jewelry_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b051ba0fd15839e459591263389e187c
+    m_Address: Jewelry_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3c72810787004244b969e903e7fec2de
+    m_Address: Jewelry_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 075678c0c1a519043a7c3e73989cbbc3
+    m_Address: Jewelry_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6f4a84ab1b648e49978741a62c8064f
+    m_Address: Jewelry_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b3d2c638ca4debb41931aad3671ba0ba
+    m_Address: Jewelry_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9f8b049246aff04a99e72e01b169ea6
+    m_Address: Jewelry_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aed0b93f3ff43a9468f263f8692bd6b6
+    m_Address: Jewelry_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a2ed41bfa45d57489d836bfe55e44dd
+    m_Address: Lamp_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a166a43187c48045a9bb0f5c0924965
+    m_Address: Lamp_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4eda7ca34acc50e4186809ad66d96791
+    m_Address: Lamp_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 79e82c817de984c4d8f819767e52f245
+    m_Address: Lamp_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db70d6c55e0a08d4d8bf28f15a6ae59c
+    m_Address: Lamp_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 767ab5b7a67b5544bba8e058935d5af3
+    m_Address: Lamp_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4fa58482562fe9f49a32cb1daf143c60
+    m_Address: Lamp_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30b35f026eec0a24bbed40e8bb6dd9db
+    m_Address: Loom_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9489d52991ad944eaba98f3a3b29054
+    m_Address: Loom_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b13fe156e7bbc824c9c1ca5c29ab70bc
+    m_Address: Loom_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67eccfd78c9f90f4eaf4c15101dbf446
+    m_Address: Loom_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6c19a9e3529ed5147b4f0d6c1dd07919
+    m_Address: Loom_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad8d7de9920e1da45accb7a0b7a2d7ee
+    m_Address: Loom_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4099170c39fcda144a7c8f55650ebee1
+    m_Address: Loom_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9e18b8adb09bd74fa6fc027170ab46d
+    m_Address: Lupin_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4f46429851458647bfa0898805a9876
+    m_Address: Lupin_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15fa0a7b3b7c7c44bb298f5b350c8143
+    m_Address: Lupin_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 158b3f939a9d5034a86ce7afb00fa608
+    m_Address: Lupin_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f105c845d96f9c045bc7bab01a12a3ea
+    m_Address: Lupin_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c6dcd0598759e8048ac08fab352dd523
+    m_Address: Lupin_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b20c23a0cc153ed4ebd8d528a2ea7234
+    m_Address: PaintCan_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 811e72a97e5e6de469e8b9466af9bfe2
+    m_Address: PaintCan_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95d58af5b812a6b49bf3ab0d28449120
+    m_Address: PaintCan_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d7c5109379ea1174f908a303ada53f99
+    m_Address: PaintCan_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30e21659ab92b9541b5a67e7b5ff2630
+    m_Address: RewardYarnBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be51f8e6b521c6e4791bac1e0a7b80fd
+    m_Address: RewardYarnChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c4d15471711cb554b9ff1aa0cb1998c3
+    m_Address: Shrapnel_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d15bf54c7ae861646a616816788d6283
+    m_Address: TimeBooster_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03e261485a530444f860760be9254619
+    m_Address: TimeBooster_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 98432726932157245b7a6c6165a33683
+    m_Address: TimeBooster_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e4ba97df172ab8e4f917c0bff4dd5195
+    m_Address: TimeBooster_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 78d62ef155e13604caca4da579d05496
+    m_Address: TimeBooster_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e3d78eca2d9f6049bc66978cff3c12e
+    m_Address: TimeBooster_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 202213597cd1b1e48b33814ce3a3e653
+    m_Address: Tool_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf1f2f75af691f34a8e948ae3c4657ba
+    m_Address: Tool_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e0210ca38059514cbfb321ed09db63c
+    m_Address: Tool_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 99a8837e203178e45aaa11e20f9ad484
+    m_Address: Tool_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17ca4447a372dcd4c8a5cbc840ac7d2d
+    m_Address: Tool_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ddc16e8e73a11f499445fe31e1d99cd
+    m_Address: Tool_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d3b114909e2ade40ba343c08986c44d
+    m_Address: Tool_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c8a1bd6654cebd4f88f95bc7195405b
+    m_Address: Tool_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 158085d5e98f6db4f8976f038c2bf1c6
+    m_Address: Tool_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 33baa305a3014b64ba565f52a5f69d4a
+    m_Address: Tool_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91dc6537599e5fb4a818372ddbe91755
+    m_Address: ToolBox_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96cc3ec32a3e99047966ceefc59c9dbd
+    m_Address: ToolBox_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 464b4d0ca05294743b010b60745cbc59
+    m_Address: ToolBox_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a11a3266699990a45ad41afbf5cf41c0
+    m_Address: ToolBox_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63088bfc44b78494ebfc3b87282e18d7
+    m_Address: ToolBox_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95e8657a0666ff34faf5ddd8d47a7dd5
+    m_Address: ToolBox_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 879c477022159844682671ef7a2e6f14
+    m_Address: ToolBox_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e4a2f047499bd3408d999b81f062457
+    m_Address: ToolBox_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e28a214e6353aa418b4dac041cd8e14
+    m_Address: ToolBox_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd3a4a3309f2ea1409b00bfcf5447f50
+    m_Address: Tree_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c7605acff8fe6647b13d9b9ade0b823
+    m_Address: Tree_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e742a49286cb69d4cb9c2f703173ea52
+    m_Address: Tree_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d04860b4f8f6c1741a0ed30513debc76
+    m_Address: Tree_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad60bb7a68fb70542a9d31d102466c89
+    m_Address: Tree_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd0d143c4a2a51f428ea127f8a7b3ce1
+    m_Address: Tree_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ce4719d25055064694dbee624af6b34
+    m_Address: Tree_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a476f78ef429f594591347d8ff03d440
+    m_Address: Tree_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 373d7ad7bdc2c704da8995122c8ee6dc
+    m_Address: Tree_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59241ef8411264943a96fac15ad78cef
+    m_Address: Tulip_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3acc286e9a8cb9946a06b4dea27a7882
+    m_Address: Tulip_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11da7c6077a81044f928075fe363d590
+    m_Address: Tulip_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62737059dbb2e8245a364063cc7acc0b
+    m_Address: Tulip_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ffb373a2697629d49baa63927ceb98c8
+    m_Address: Tulip_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e8a56cdf87f2314d9c0a92fe4375b18
+    m_Address: Tulip_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d399f4443436d54fb9eda63e78af4b4
+    m_Address: Tulip_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1799b1f4b60cb5a4f8676f5b230583a6
+    m_Address: Tulip_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aea17f50e669c5a49a9e4cb5a2b25a6b
+    m_Address: Tulip_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9aef92eecb02f2a48a4df2dbc88c6e6d
+    m_Address: Vase_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a59c7c4e7e96a7443aa5b2462f4c0e90
+    m_Address: Vase_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 98d001ff9fa635c4786b23faa188ef14
+    m_Address: Vase_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d9ee6deb39255f4baca9ab8c6c015c5
+    m_Address: Vase_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c7ac8fbf290d97c4db5b33b5445883c6
+    m_Address: Vase_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ade59d47ebf21b541b3547c78952edf9
+    m_Address: Vase_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85537877ac0caf346a6b848dd38d65cb
+    m_Address: Vase_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fee7ae41c7770c848a2742d9e78f258a
+    m_Address: Vase_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4db6cc20c0eaa404594e0cdd875e125e
+    m_Address: Vase_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a3ff59410b1bb1a4486dffcaab9cc4f3
+    m_Address: Vase_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df229e860a430374e83b33f549d338dd
+    m_Address: Wood_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d0024dd8821c6744a3034dde1391611
+    m_Address: Wood_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: faefd38369a223a4289d2d79868dcabd
+    m_Address: Wood_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5a77ffb931a999d479ad7c157003aabe
+    m_Address: Wood_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 22ce57629d510864cabe68d30918e42d
+    m_Address: Wood_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eabda184c57dba74b803bd98d7d2e37b
+    m_Address: Wood_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb4b1d455f656d44aac8e6a5950c6625
+    m_Address: Wood_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c5e80a8f797fa554dba38b8d43b31377
+    m_Address: Yarn_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ff084f30e48fd34098bcc4901436aba
+    m_Address: Yarn_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a7ce531b65e88041b23d43069e217a7
+    m_Address: Yarn_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e85f4fdd2cf15a14689b96bc1190f1ea
+    m_Address: Yarn_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af8baa66248e11942b1bd39a8e88aa47
+    m_Address: Yarn_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a97079f55fa4f3942b3e4b7a69ccef55
+    m_Address: Yarn_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7634244f46587df4098048c5f0c3a220
+    m_Address: Yarn_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 35ef481c1f0ad4a4cbc815ee4a99aa90
+    m_Address: Yarn_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 55081a762982ef942b741f95ce132fbf
+    m_Address: Yarn_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b103981d457eeb4691ce9168a3f091e
+    m_Address: YarnBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fb9e251a0114c04fa2f45d3764de40c
+    m_Address: SeedBag_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6aa47e45aa7f46044ab606597b56711f
+    m_Address: SeedBag_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 912772a217a081341abfd238b3f1af2f
+    m_Address: SeedBag_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 200959b587430ee43ac7b65253430788
+    m_Address: SeedBag_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0adc2e4824f2da48b8ad4796bddf067
+    m_Address: Loom_1_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e04d85f53bfae5d47a65ef0d009e37b0
+    m_Address: Loom_2_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27c71b8d20eba414fb4d7de986b60ae6
+    m_Address: Loom_3_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03629372e1fe4784d935e805fc43c72e
+    m_Address: Loom_4_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8d531e4b26b5fb40badaf6424c8bd37
+    m_Address: Loom_5_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3ee47c3da90236849b346fd4939af3a1
+    m_Address: Loom_6_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76013c4057c1e57459df18fef55a7de6
+    m_Address: Loom_7_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9129f3c908c93c148932971e6065a92b
+    m_Address: Tulip_1_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b70804aa6df7e1b4c84c9f98b438c269
+    m_Address: Tulip_2_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1b8983da7c2878b439201289b3a5f392
+    m_Address: Tulip_3_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab422091030bd7e49adcc6dbe96bb18a
+    m_Address: Tulip_4_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d885d27be11b5842ab6d3237d067e0e
+    m_Address: Tulip_5_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d3a392a068c05b49a0a1871b4b69e7e
+    m_Address: Tulip_6_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff8b2015392921040b13ccb505946111
+    m_Address: Tulip_7_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5881c8c948bf8c439d333234795dc3a
+    m_Address: Tulip_8_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f75bd4be070bd4c4bb074a900fc609f1
+    m_Address: Tulip_9_new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db6a9f871fcbfc2469dd381798fb334d
+    m_Address: Rose_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44828a355f7dbaf4c875270c105ba3e8
+    m_Address: Rose_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a031d5c2faab698438d3ca04aefb874e
+    m_Address: Rose_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88022a1ff1bbf9a449e2a5296107a854
+    m_Address: Rose_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2cd85d1cc8a780488898af32ebd92d6
+    m_Address: Rose_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 633ac868681f5a844ada7e5f3174f6da
+    m_Address: RewardAuxiliaryToolChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f205e45fb544b2f4b9df26e03440b366
+    m_Address: Dairy_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fdea794aecd24f5469361eb3c1c73a39
+    m_Address: Dairy_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3cfbb7b0ad46d24b8a82aeb54ef580e
+    m_Address: Dairy_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 865420078f1ce2e458112061ca6fffd4
+    m_Address: Dairy_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 805a2b219b5f0bc45a13bc4b69ac3a9c
+    m_Address: Dairy_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 39d6c92a9c5b21e459db59e766cb5aab
+    m_Address: Dairy_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1571fbb808027a648b70918bcee44f72
+    m_Address: Dairy_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85a4fc7fe4fcb9f40bd4301cae6e54d2
+    m_Address: Dairy_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d171d2118a8aced4e93a2e461294ae61
+    m_Address: Dairy_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abfc71751644a394c915a303d743ed4f
+    m_Address: Dairy_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed95f57b24db8344088d3c5924c1177a
+    m_Address: Dairy_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 19f004fd24abd7f4d94ca85c9ab698b9
+    m_Address: Dairy_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7b1f0afb7a731f48ba88b466e5172a2
+    m_Address: Fridge_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb42f04f5dc0cbf48984010d65ece4e7
+    m_Address: Fridge_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32a989fe44effff47a4ad3beb2de7f7c
+    m_Address: Fridge_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15b1742b948fc0b4795351dff51301e2
+    m_Address: Fridge_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 35845be9af38d1048857ef5f0b9ad4a5
+    m_Address: Fridge_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bdb23aeb10512f24f8806b91af7db091
+    m_Address: Fridge_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa27a1b3eb92e3b49b6a4c416f08155f
+    m_Address: Fridge_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9583d4a7cb2957a41a6d21bf64111cfd
+    m_Address: Fridge_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18bda7bca77388a4f9a175159b4facdc
+    m_Address: Fridge_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b80fccce376272c49a3b1533647e28b1
+    m_Address: Fridge_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a29aa8cfbbf6fd4e9be3c0df1c6a73a
+    m_Address: Fridge_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1178ca149a3c2074d8dd50ceeca017c1
+    m_Address: Meat_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15e01654c48a20247a9eb9a8bf1b6abe
+    m_Address: Meat_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95d2ee8487f18d9479e3d0aedfd64721
+    m_Address: Meat_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 634c1277e92406549973bd2a39cdb52d
+    m_Address: Meat_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb3725516572d56469f382e84a831dee
+    m_Address: Meat_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1fe2a2bafe21aed418f3ccb526f21c39
+    m_Address: Meat_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3d87bdc1361b1f44bd5f16b3b2bbbc7
+    m_Address: Meat_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a253f849ca14ef64e894c1f6a1962290
+    m_Address: Meat_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e8ad3a31987c8c468a4761556bfa58b
+    m_Address: Meat_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6030b4c27d1e14a4c920d0986c71962d
+    m_Address: Meat_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f3633b5f2ab6ec46bbc1890b7f3329a
+    m_Address: Meat_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 406efd28b0fe28b4a86f953d19895f0b
+    m_Address: Meat_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38284d77163c3254fadb94022211d005
+    m_Address: MeatBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba32317031781b549a4c969a44eae6f0
+    m_Address: DairyBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 07c739dacb0f8064485f68b580df82f1
+    m_Address: RewardMeatBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1edb906b5d6a4e44ba10562215549d4
+    m_Address: RewardDairyBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: acd07342205156b4c92b099cbeecf389
+    m_Address: RewardMeatChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f88e226cb6d8d94f94c0416178caadf
+    m_Address: RewardDairyChest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05121f9313ee68847ad90558b02c5e96
+    m_Address: Cake_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9aae1952438c1524d85a940c2e71df69
+    m_Address: Cake_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c271f55a18fb4f349a1f13f8e5c2b766
+    m_Address: Cake_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96cc078fd5ec1cc4286e6fba0424fc8b
+    m_Address: Cake_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9bb2ebfe5e99f1a49a679bbf98b4c2d9
+    m_Address: Cake_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3ffc727b80f2c845ab68695344e2b77
+    m_Address: Cake_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 46c3d1da3ebe03742a1952813a9c7d03
+    m_Address: Cake_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7918692dbb8794f4fbc2f5052c940cf1
+    m_Address: CapacitorBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60cb821cb80a9ce40b1e63a7d0c3a072
+    m_Address: Dandelion_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ded0b382cedfb445bdfbc2896d3b91d
+    m_Address: Dandelion_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 47728ce8790541942ae390284e2132e9
+    m_Address: Dandelion_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 28276dbdce1674f469d9eae40b899940
+    m_Address: Dandelion_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f15b1062018e8514aa573c2080cf5a02
+    m_Address: Dandelion_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9d2eedab20c6f84fbf4d3f61631d5ce
+    m_Address: Dandelion_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 41bdf7f573c0130468d66e7c532de572
+    m_Address: Dandelion_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d6912ccd3a2cef4cafba00a417dcf92
+    m_Address: DandelionBag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d707f1686b684554b8da7bcfac708609
+    m_Address: Fishing
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5e052bc4012c3145b519ea98f9782ed
+    m_Address: Flower_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17a094efde169ea42b6870a538f1e590
+    m_Address: Flower_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3dfb04286c4d4a44b07f9e19c0c2c7d
+    m_Address: Flower_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 33e1b9b4eda22f844bcb8e66a69b93f2
+    m_Address: Flower_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ade02df2bf3edc442b87d9cd3a28fff7
+    m_Address: Flower_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b9879dfb08741243a5ac61f0b0ceeb1
+    m_Address: Flower_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 47d1388cdf37d304e9c6f091747f2605
+    m_Address: Instrument_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5782ba245eff8fa4cb1afda365f7e598
+    m_Address: Instrument_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aedd173f8f0b57f40bb7f3da517b174c
+    m_Address: Instrument_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2aeff32f71384c44aa4a7eac32a483c9
+    m_Address: Instrument_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ce405aca8917e84a8b592383c378ebb
+    m_Address: Instrument_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: add89e6b5dd729c43892bf4b09dd108f
+    m_Address: Instrument_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e1bd7796ee703914aaff4f3ea188054a
+    m_Address: Makeup_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8437e3551eb57ed47a1742170d9bbf07
+    m_Address: Makeup_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52235ee842bb2804cb4eecf50a5387e7
+    m_Address: Makeup_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5da3fa8ca4e37f54db9e480de9b708d6
+    m_Address: Makeup_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17c5f7189365dec49ac3d8e6519b64c6
+    m_Address: Makeup_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fdf46a9026377e428e028461a546f9e
+    m_Address: Makeup_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ac441db9584206d40aee2d6c154c7cd1
+    m_Address: Makeup_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 840a323d42168314aa5a7e0671052f02
+    m_Address: MakeupTable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb4aa8f7518412848b325142b239ec80
+    m_Address: Microphone_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1220960f8c6d5964da4c88d54b1bbf26
+    m_Address: Microphone_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6ba1b3b2a2bca54dbb9eaea70656e29
+    m_Address: Microphone_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f85a071369d2c1945ba6f0ff4e3c9e2a
+    m_Address: Microphone_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0bd90b6aaef90ac448e8feebc884a282
+    m_Address: Microphone_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f502bb307749294fbc05f97929d2639
+    m_Address: Microphone_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da61d5b64ff598945961ebe86554ac76
+    m_Address: MusicBox
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: de90e65feb2c22e46998c1fb61c54ad1
+    m_Address: Recipe_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32ceafe299a19e94e95db8771f6f0877
+    m_Address: SeedBag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68e5373c501fc884b80b0f5190c89314
+    m_Address: DailyGoItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 257c17669f87b274e959dfac8194eb06
+    m_Address: TravelBox_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a025e12930038a49b4855c11eefe4d6
+    m_Address: TravelBox_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 35e7843eba3af4c46b29eb0e5b22fb46
+    m_Address: Holiday_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53f2b30a0ec9a3045ab92defc344ce51
+    m_Address: Holiday_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fdba8063be756a48bf1d96cbee826c7
+    m_Address: Holiday_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 98b973037025f714fb7562e98ef1d434
+    m_Address: Holiday_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c7f71d926ccab304d992aa4fe4f97860
+    m_Address: Holiday_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ad8de0fe2375f34abd4d3772c744be8
+    m_Address: Seaside_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ec02436a20cd6e4abc0a2f6931088fe
+    m_Address: Seaside_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72b4db8e72857d84ba9f205f5fe922f0
+    m_Address: Seaside_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08ec0c19640e54f4abfb0fb578395cc0
+    m_Address: Seaside_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f294bf728aad2c47a3b42c15aac19b6
+    m_Address: Seaside_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0866ec5962895b54280de510b529774c
+    m_Address: Seaside_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5574631c876b2e4092a3caac9c49b05
+    m_Address: Seaside_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 039b2cacfc18ce94b994a29a832d412e
+    m_Address: Seaside_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 715baf266dd88d54bb09cbaacc973836
+    m_Address: Seaside_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 410dca5bb9746a14aad11ac1f423507c
+    m_Address: Seaside_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ac92f42e98c1a941b3a98f277b67c43
+    m_Address: Seaside_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9867ec334e52a5e48821a9140e288b59
+    m_Address: Seaside_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 39b194e31292b014d99b13e834993fbf
+    m_Address: Letters_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 47f0dc46b0e602347a7be685abfc761c
+    m_Address: Letters_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0874a8158aeb01e4683711f2d2d1dd7b
+    m_Address: Letters_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bebdae7bd15c4484d9fbd8284867c609
+    m_Address: Letters_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a1f14b12a76299e40865ab2e6124a64e
+    m_Address: Letters_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b1834994302bc5b4397be3c079537bd2
+    m_Address: Letters_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 783613fb7e1ad774e947a570f1223d12
+    m_Address: Letters_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c81f22857516a6d459f3f15c08ea10dd
+    m_Address: Letters_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a254b4eba6c5b4e45bf7e01356e4b8cf
+    m_Address: Letters_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 392127b3304ebbc4588c21cfcaf829e1
+    m_Address: Letters_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d0f4acfaf6b6e2b419862ed4cd38f251
+    m_Address: Mailboxes_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5565d146c631db4d8d907025a7fccff
+    m_Address: Mailboxes_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ef5fc8da8105cc4eb5cb19a8327b56b
+    m_Address: Mailboxes_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6fb516b6a44e170479ceb78a1cad498d
+    m_Address: Mailboxes_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e03a74d3e50bd449a1dec626ae876ce
+    m_Address: Mailboxes_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7277bfafed6905a4d98bafbe2859d24b
+    m_Address: Mailboxes_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ac34ea26b0cfc0a4cab7d6ccc22c0243
+    m_Address: Mailboxes_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 673ccbd50bc995043a265d67813f566e
+    m_Address: Mailboxes_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d9b403c69319b9a4e9020752b8741e29
+    m_Address: SubEXP_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9d24c09ead58fe418a9d3b01158896a
+    m_Address: SubEXP_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d20ba863c36f3b94996c8294a3237ffc
+    m_Address: SubEXP_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d71872a8541701847a8c8755b3e62f3f
+    m_Address: SubEXP_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d44bed948d0e1948bba8ea4acf0b2f8
+    m_Address: SubEXP_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d68b52aa85ca654a9a4c4b81c3238fb
+    m_Address: SubEXP
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 181c0812a12abe840ae663874bc9194c
+    m_Address: Envelements_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4db53e765a1b0f949b4c9be0ecf16539
+    m_Address: Envelements_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f3dbd7191ba3b940824d697fd78aeda
+    m_Address: Envelements_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c61a0290f5cb4b641ab43f1c1b8d54fc
+    m_Address: Envelements_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb4cf1d6d75c99b49a2786fc67e60aa1
+    m_Address: Envelements_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f497c7ef42a4377459809b2e338b0594
+    m_Address: Envelements_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d0232f089105c3b408a94e8d59db2eee
+    m_Address: Pollution_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7f0f3ce924095e4eb4c1ae6b237465f
+    m_Address: Pollution_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18d286831059dc942aa365475523908a
+    m_Address: Pollution_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a5c5651fc00fdb4aa3343fcd8dff531
+    m_Address: Pollution_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba239954ba4cf6e45bc97f04bcb98b97
+    m_Address: Factory
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7272dc32d311e17429ad46f969387a16
+    m_Address: Garbage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ce32f97b20d5d846bbd34bbfb9728ae
+    m_Address: Sewingmachine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d31affc46ad5a82468603b619fd7d384
+    m_Address: Sewingtools_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f9ecb52df4e7b4489d2fb474bd91f4f
+    m_Address: Sewingtools_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c1fd2eba89f0d24eb6ecfa079535b31
+    m_Address: Sewingtools_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e1f5df7805ed134190b7c63c4509586
+    m_Address: Sewingtools_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ad75c098a1d9db4ba89f322e01e8047
+    m_Address: Sewingtools_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb516fbd7b1900b42bbb4133c7c8197a
+    m_Address: Sewingtools_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb65850e190d9fe48abc998dc7bbdd76
+    m_Address: Sewingtools_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5f505ad608b2dd4ba9738729059def4
+    m_Address: Accessories_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb45a70e03e343543b9768df19c456d6
+    m_Address: Accessories_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6449de10db0faf44fb184b8aa2939c87
+    m_Address: Accessories_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c7f3d95ebbed8144caef8e819aa2b362
+    m_Address: Accessories_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d5cd909c2e0cdd4ab786753f4d8ccb6
+    m_Address: Accessories_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6490d495177c3ec459e3cede491b7593
+    m_Address: Accessories_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 015aa4510a56d3d4aadf84c3069db39f
+    m_Address: Clothes_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38a4926636669854abf91e468be638f4
+    m_Address: Clothes_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae9a08fbd6a60ae49b173748ff97bf4f
+    m_Address: Clothes_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23c4b0dce81f3a1479e98ee2162a1dac
+    m_Address: Clothes_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66753c70193cede4588e5368a104743c
+    m_Address: Clothes_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 787b592c476f667469603888fdbece3b
+    m_Address: Clothes_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 287ffb9bf1db2b14c9090240ca462be5
+    m_Address: Clothes_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae13ebd2687f62d4dbc44a92fb25b046
+    m_Address: Clothes_8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e18d4752598d4ae4ab9c856eff7bc89b
+    m_Address: Clothes_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56da74b66d9971947b24054790409653
+    m_Address: Clothes_10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ac83219f1743084286fc29891d5b9d1
+    m_Address: PartyDessert_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d30f8a1cb12c7b341939241fd4e9289f
+    m_Address: PartyDessert_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0b4ca1446a7a45d448d43c6b671cf8b1
+    m_Address: PartyDessert_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 179e7230c067ecf4f8d922bd11acd6eb
+    m_Address: PartyDessert_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30cc66faa77c0f3429a2329503ab4856
+    m_Address: PartyDessert_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 205865fea07a0dc40a747c3d21f318ce
+    m_Address: PartyDessert_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 896985de6fa62b44da771836c75dd171
+    m_Address: Photos_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2f1955eab38e8941a9d57c48d98844c
+    m_Address: Photos_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d95815cf388f13146b0acd13dff9cf7d
+    m_Address: Photos_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b0b822507d76a84783d4c915fc3dc2d
+    m_Address: Photos_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd65e2f8f3ee4a643906c8b167d9a571
+    m_Address: Photos_5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 798784869bb38734386bede5c446644c
+    m_Address: Photos_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ace8fa5bf5437724db99f50074603e9b
+    m_Address: JewelryBoxes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e44765286e5753e4cbe7b5dd4b161c54, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 959e493b2ffcd0a4bad2233f3fb14ef9, type: 2}
+    - {fileID: 11400000, guid: 9d48f0f8b0e0c5649935438eca033b1f, type: 2}

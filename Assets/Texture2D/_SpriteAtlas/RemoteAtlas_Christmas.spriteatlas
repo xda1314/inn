@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RemoteAtlas_Christmas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 847088515ba1cad40b0ccfca3456b330, type: 3}
+    - {fileID: 102900000, guid: e26903fae4f432a41b75c76e1345a1ef, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4a51b310ba82a5a4c8376eafacf0f7e3, type: 3}
+  - {fileID: 21300000, guid: c4591570e79fbcc47a9caffab22c3c58, type: 3}
+  - {fileID: 21300000, guid: 7d16e780f2f95f248a776123c08bbfe8, type: 3}
+  - {fileID: 21300000, guid: 4e35e090a73c8994c975b6dd1dfdf414, type: 3}
+  - {fileID: 21300000, guid: 24fc83d00e4e1164e9a855bb4c49b34c, type: 3}
+  - {fileID: 21300000, guid: e87aaed0866d8bd4a99a76ac9d9a33bf, type: 3}
+  - {fileID: 21300000, guid: f8e820517a502bc4182c20ad5aeb915b, type: 3}
+  - {fileID: 21300000, guid: 3381436169474fb439eae769809ad770, type: 3}
+  - {fileID: 21300000, guid: 8f5612e1cc08d994994e32699f5b3243, type: 3}
+  - {fileID: 21300000, guid: a8b8c1f1b1c6d664aade2c93392dcf21, type: 3}
+  - {fileID: 21300000, guid: c90065f12c9f8c1418167d78e9b58fba, type: 3}
+  - {fileID: 21300000, guid: 119fb6f1db03cba47a396ecdbf7a6320, type: 3}
+  - {fileID: 21300000, guid: 8d6f9a22a668b8f40acd97eecbd0d4ee, type: 3}
+  - {fileID: 21300000, guid: 47e41da209840ca44a040bb7e8a70742, type: 3}
+  - {fileID: 21300000, guid: 7f9450c2b34fb744b8669d6ebda1f3da, type: 3}
+  - {fileID: 21300000, guid: 308077f2182005a4b9020a49f359eb4f, type: 3}
+  - {fileID: 21300000, guid: bcf97233751d7b34ab59d211cafaa8be, type: 3}
+  - {fileID: 21300000, guid: 3f99a273e622a8d498920944e10988af, type: 3}
+  - {fileID: 21300000, guid: 95745db3d5981174bb574018b536711d, type: 3}
+  - {fileID: 21300000, guid: 83b979c328b39b543906775b67f09279, type: 3}
+  - {fileID: 21300000, guid: 404e08e3ee692c14dad2acf5ee958dbe, type: 3}
+  - {fileID: 21300000, guid: db524e14416d5fe4ea8e87f6a863efc8, type: 3}
+  - {fileID: 21300000, guid: 536ac0648f7533c458fb472042cdbe15, type: 3}
+  - {fileID: 21300000, guid: 61cc2255b107ea74bbc7e7a4caeac3b1, type: 3}
+  - {fileID: 21300000, guid: ef0674650ef0ba94fb5315b627a2ea77, type: 3}
+  - {fileID: 21300000, guid: 5c8fe39508dc9ca42a5acbde7053d2fb, type: 3}
+  - {fileID: 21300000, guid: f7ff6a2667774d34a8954257e5ad2379, type: 3}
+  - {fileID: 21300000, guid: 730fcd76e0f5b8145ad4b58961f10d7f, type: 3}
+  - {fileID: 21300000, guid: 9f634da668cdbbe4a9f49e34c5a145ee, type: 3}
+  - {fileID: 21300000, guid: e265a8f6fea6e4949baf12611116e388, type: 3}
+  - {fileID: 21300000, guid: 90ed0af6936460047b0baaf7ad14a5f6, type: 3}
+  - {fileID: 21300000, guid: 5bf13cf6c385de140b531b12dc13b4cd, type: 3}
+  - {fileID: 21300000, guid: 1ce8592733871cc4e8c920519b7c39a7, type: 3}
+  - {fileID: 21300000, guid: ca63d947719bc49459dbc33eb516c20e, type: 3}
+  - {fileID: 21300000, guid: 04043b77f6fb27745be62971568a3eb6, type: 3}
+  - {fileID: 21300000, guid: 7fa28797255bcd64cbb7258e82b8f998, type: 3}
+  - {fileID: 21300000, guid: b594cdd7937ebda4aa41908c876f71a3, type: 3}
+  - {fileID: 21300000, guid: 17b3c3f7383d32644ac4cfec7d2200a6, type: 3}
+  - {fileID: 21300000, guid: 58fa7af7d592f0d4b89364214e94e433, type: 3}
+  - {fileID: 21300000, guid: 102e7508a72ec464784adfdd3e34b3d8, type: 3}
+  - {fileID: 21300000, guid: 8fe621488bdc7834aa2addeb0351776f, type: 3}
+  - {fileID: 21300000, guid: e32b2668628a98b4785b0ab3865a2e2c, type: 3}
+  - {fileID: 21300000, guid: b786cc6884ec2b44ea4a99a628383e97, type: 3}
+  - {fileID: 21300000, guid: 68f24b696989fa6449249bf805d4c09a, type: 3}
+  - {fileID: 21300000, guid: 60299189d882ce147bc6b8b0164c90f5, type: 3}
+  - {fileID: 21300000, guid: d1596a99afbc6864e8cf6105eb2f13ba, type: 3}
+  - {fileID: 21300000, guid: aa2f17b9b51e92d4f86de3901d901251, type: 3}
+  - {fileID: 21300000, guid: 4602f7f97a3dc584bafcde4749d3b4ec, type: 3}
+  - {fileID: 21300000, guid: a29be9f93140632498b9068632298f72, type: 3}
+  - {fileID: 21300000, guid: 4dbbe20ad0186b04490aadb095222ff6, type: 3}
+  - {fileID: 21300000, guid: 8026ae2af952e204080d8d254a06f82a, type: 3}
+  - {fileID: 21300000, guid: d32ae89a178333e41acdb1d02b621b09, type: 3}
+  - {fileID: 21300000, guid: 53f1d6ca196b9f5439823281fa223a01, type: 3}
+  - {fileID: 21300000, guid: 213617ea4dd1eaf45a46d7197c5072ee, type: 3}
+  - {fileID: 21300000, guid: 595e861bdf49e044aa937b6dc36d1887, type: 3}
+  - {fileID: 21300000, guid: 3e0dde2b17cc5ba46a3becd9f8580eea, type: 3}
+  - {fileID: 21300000, guid: f96bda7bcb863404a90b23b42df41483, type: 3}
+  - {fileID: 21300000, guid: 37f1871c59065e047a6cff0fec7b1001, type: 3}
+  - {fileID: 21300000, guid: fda22c1c7518f6b408c0f17485885c4f, type: 3}
+  - {fileID: 21300000, guid: 5912694c8e9e9ba41b34f27fcc5d97cf, type: 3}
+  - {fileID: 21300000, guid: c9c3695c5e9b27245816b4577c31d549, type: 3}
+  - {fileID: 21300000, guid: d6a3172d77856dc488249db536b34649, type: 3}
+  - {fileID: 21300000, guid: 80d8315d703665d4fae1733d1d7236c2, type: 3}
+  - {fileID: 21300000, guid: aa5c38ddd47699a439c64a309e307ea3, type: 3}
+  - {fileID: 21300000, guid: 6cb4c0fd0cc22a14db78547d78cd0191, type: 3}
+  - {fileID: 21300000, guid: fadf160e421ac704eb98af853c420449, type: 3}
+  - {fileID: 21300000, guid: 9408c53e835efd74b9cac2230c5bed47, type: 3}
+  - {fileID: 21300000, guid: f85130ae42c4c9347a69a914063544a4, type: 3}
+  - {fileID: 21300000, guid: 9e7602be42fb57b42a69244316710565, type: 3}
+  - {fileID: 21300000, guid: 389504ce3191541469a42c87d53273e4, type: 3}
+  - {fileID: 21300000, guid: 37d2f86fc4ed0994cbe4182076a79784, type: 3}
+  - {fileID: 21300000, guid: 8cef299fe1bf35449bafd76f2c05c7bd, type: 3}
+  - {fileID: 21300000, guid: b90711bffeaf9d84a9ee25b8492f89ff, type: 3}
+  - {fileID: 21300000, guid: 922f62cffbd6f8046a6ecbc5db2885b8, type: 3}
+  - {fileID: 21300000, guid: 53143dcfc7476b7468b70fd9f373d4ae, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ChristmasElk_2
+  - FloorTitle4
+  - ChristmasMapBg
+  - SantaClaus_2
+  - ChristmasSnowman_1
+  - ChristmasElk_6
+  - ChristmasMealToolbox_1
+  - ChristmasTree_1
+  - ChristmasCrystalBall_3
+  - Line
+  - ChristmasDecorationTool_1
+  - ChristmasElk_5
+  - ChristmasMusicBox_2
+  - LevelFloor_Christmas2
+  - ChristmasTree_2
+  - ChristmasMeal_4
+  - LevelFloor_Christmas
+  - ChristmasCrystalBall_2
+  - ChristmasCard_2
+  - ChristmasSnowman_5
+  - ChristmasDecorationToolbox_1
+  - ChristmasBg
+  - ChristmasSnowman_2
+  - ChristmasDecoration_4
+  - Christmas_Bg2
+  - SantaClaus_4
+  - ChristmasTree_6
+  - ChristmasSnowman_3
+  - ChristmasTreeToolbox_1
+  - ChristmasTree_3
+  - ChristmasSnowman_4
+  - Christmas_TaskBg
+  - ChristmasDessert_1
+  - ChristmasMusicBox_3
+  - ChristmasMusicBox_1
+  - SantaClaus_1
+  - Box
+  - ChristmasMeal_3
+  - Icon11_Christmas
+  - ChristmasTree_5
+  - ChristmasIceSculpture_4
+  - ChristmasTree_4
+  - ChristmasDecorationTool_3
+  - ChristmasSock_2
+  - ChristmasCard_1
+  - ChristmasDessert_2
+  - ChristmasIceSculpture_2
+  - ChristmasBg_Star
+  - Food
+  - ChristmasCrystalBall_4
+  - Bulb
+  - ChristmasDecorationTool_2
+  - ChristmasDessert_3
+  - ChristmasDecoration_2
+  - ChristmasIceSculpture_3
+  - ChristmasBg1
+  - ChristmasElk_4
+  - ChristmasDecoration_3
+  - ChristmasCrystalBall_1
+  - ChristmasMeal_1
+  - ChristmasTree_7
+  - ChristmasCard_3
+  - ChristmasIceSculpture_1
+  - ChristmasElk_3
+  - ChristmasTableware_2
+  - ChristmasIceSculpture_5
+  - ChristmasCard_4
+  - ChristmasSnowman_6
+  - ChristmasMeal_2
+  - ChristmasSnowman_7
+  - ChristmasTableware_1
+  - ChristmasSock_1
+  - SantaClaus_3
+  - ChristmasDecoration_1
+  - ChristmasElk_1
+  m_Tag: RemoteAtlas_Christmas
+  m_IsVariant: 0

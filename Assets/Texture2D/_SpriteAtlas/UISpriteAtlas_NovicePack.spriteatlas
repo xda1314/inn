@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UISpriteAtlas_NovicePack
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: de360e49945e72349a886fdc41720d17, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8b007e509dc6b084ba86e73b7c07f7ad, type: 3}
+  - {fileID: 21300000, guid: ed77e690d28fa6c47a98bdce76ea2448, type: 3}
+  - {fileID: 21300000, guid: 3985aea11b9fe8c40a05f7b5e6005f59, type: 3}
+  - {fileID: 21300000, guid: 05b5c05210d9b624db41eef891167f80, type: 3}
+  - {fileID: 21300000, guid: dfb0d823b4cd8404eb969b11ae5cee56, type: 3}
+  - {fileID: 21300000, guid: 313e9685a3c7a7e4895bb86ca9f533b0, type: 3}
+  - {fileID: 21300000, guid: 6a188c8605273544c9f68f38f924157f, type: 3}
+  - {fileID: 21300000, guid: 1e65b217469bde14793da591095b479a, type: 3}
+  - {fileID: 21300000, guid: 0cfc1b17a65355049ac6a134cccc2d7e, type: 3}
+  - {fileID: 21300000, guid: bc805527f23e23f4d8069ba208432f58, type: 3}
+  - {fileID: 21300000, guid: 7490d977712de2c428eb36afea689fe7, type: 3}
+  - {fileID: 21300000, guid: 9698483857179794bb3c9fef0745fcee, type: 3}
+  - {fileID: 21300000, guid: e12d73390213b874dab558775fec2f2e, type: 3}
+  - {fileID: 21300000, guid: a15a2d9ba71b69e4795fea41465a3715, type: 3}
+  - {fileID: 21300000, guid: 298a95ab7a0e0dd4ba7490fa70e04a56, type: 3}
+  - {fileID: 21300000, guid: aa92f60cef0725848aed02dbcf461491, type: 3}
+  - {fileID: 21300000, guid: 6880c66e69ffb914ab0dae3347360271, type: 3}
+  - {fileID: 21300000, guid: 1f21690fa54738947b23041029fcaa5a, type: 3}
+  - {fileID: 21300000, guid: cb14981fb7bf09048883a59207ee080a, type: 3}
+  - {fileID: 21300000, guid: 3bb02bbfd1ecb1b409a537ebe01f8b4c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - origin_img_Floor
+  - GiftFloor6
+  - Gem2
+  - GiftTip
+  - Floor_Goods
+  - GiftFloor1
+  - Gift3
+  - GiftFloor3
+  - Gem1
+  - GiftTimeFloor
+  - GiftBagLine
+  - Gift5
+  - GiftFloor5
+  - Gem3
+  - GiftFloor4
+  - Gift4
+  - Gift2
+  - Push Box
+  - GiftBagBg
+  - GiftFloor2
+  m_Tag: UISpriteAtlas_NovicePack
+  m_IsVariant: 0

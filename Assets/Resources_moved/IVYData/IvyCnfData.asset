@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae8b600d66bd89c4393269eeb2f941f5, type: 3}
+  m_Name: IvyCnfData
+  m_EditorClassIdentifier: 
+  cnfShop:
+  - count: 1000
+    cost: 1.99
+    off: 100
+  - count: 3000
+    cost: 4.99
+    off: 83
+  - count: 7000
+    cost: 9.99
+    off: 73
+  - count: 16000
+    cost: 19.99
+    off: 63
+  - count: 50000
+    cost: 49.99
+    off: 50
+  - count: 150000
+    cost: 99.99
+    off: 33
+  cnfLevelAwards:
+  - level: 20
+    type: 1
+    propCount: 1
+    coinCount: 20
+  - level: 50
+    type: 2
+    propCount: 1
+    coinCount: 50
+  - level: 100
+    type: 3
+    propCount: 1
+    coinCount: 100
+  - level: 150
+    type: 4
+    propCount: 1
+    coinCount: 150
+  - level: 200
+    type: 1
+    propCount: 2
+    coinCount: 200
+  - level: 300
+    type: 2
+    propCount: 2
+    coinCount: 300
+  cnfLevelChapter: 960000002c010000

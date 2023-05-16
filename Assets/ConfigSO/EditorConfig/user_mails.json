@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1663739871000,
+            "type": "default",
+            "record_time": 1663739871000,
+            "expired_time": 1695448671000,
+            "is_read": false,
+            "is_delete": false,
+            "title": "aaaa aaaaaaa",
+            "content": "bbbbbb sfs xxx bbbvssvbbb bbbbbb",
+            "received": false,
+            "gift": [
+                {
+                    "name": "Candy_1",
+                    "num": 1
+                },
+                {
+                    "name": "gems",
+                    "num": 100
+                }
+            ]
+        }
+    ]
+}

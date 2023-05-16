@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: remote_atlas
+  m_EditorClassIdentifier: 
+  m_GroupName: remote_atlas
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3b8eb752329acb54e9595eeff5515217
+  m_SerializeEntries:
+  - m_GUID: 5667c0e50e7bb74408fdda53ae621e44
+    m_Address: RemoteAtlas_Christmas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1fbd88fc257fa9489f2db0314078572
+    m_Address: RemoteAtlas_Halloween
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1df88b26c2aae6447889c2b665fc8a72
+    m_Address: RemoteAtlas_Level
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1524bc4a7c4b7e64aa56eed9d9fbd8eb
+    m_Address: RemoteAtlas_Lover
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e44765286e5753e4cbe7b5dd4b161c54, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 93a677ff6e9ee7647b24963d8a899e5a, type: 2}
+    - {fileID: 11400000, guid: 48abeb38faa2fe147b61abe85b12a009, type: 2}

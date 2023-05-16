@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LocalAtlas
+  m_EditorClassIdentifier: 
+  m_GroupName: LocalAtlas
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 59f02cb52496aff41a821b6107a874b3
+  m_SerializeEntries:
+  - m_GUID: c15a1add1f00f7940ba7cee7befa9ce8
+    m_Address: UISpriteAtlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9bb0ecc2821e5f845ac6a5156ab6edb0
+    m_Address: UISpriteAtlas_pintu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a049a9ffb1c29946a5fb43ea134fff9
+    m_Address: UISpriteAtlas_Main
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50d04bd75148f4744ae5acdf16a19e44
+    m_Address: UISpriteAtlas_Merge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c3be5acf2521f2469803e5e3b5e9645
+    m_Address: UISpriteAtlas_NovicePack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a8822eaad0fde44984aee6226bea4fb
+    m_Address: UISpriteAtlas_page
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c314a730df971c4fb0dc6e3fe5ea400
+    m_Address: UISpriteAtlas_SpinWheel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9fa286361832a7442b25d1c6f4b533ee
+    m_Address: HeadIconAtlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7730bb3bb78a1649928e553d2977ec7
+    m_Address: ItemAtlas_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ec11e97dd4370e49a6a9cc3f560984a
+    m_Address: ItemAtlas_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b58a1f08b9d995e4195a9c61ff2e04fc
+    m_Address: ItemAtlas_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c4688a0cbb3213742822f121dd95e8f7
+    m_Address: UIAtlas_Loading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af2e2b366afba2845b7693bec73ad8f1
+    m_Address: UIAtlas_MoreGame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 282add0bdae2b0644aab16b7141404bf
+    m_Address: UIAtlas_Account
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4ceceeb0bd613a489f586b3bff740c4
+    m_Address: cj08_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb814058ea9ff404bb337595a455044e
+    m_Address: cj11_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e44765286e5753e4cbe7b5dd4b161c54, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c8505cb37b2512c4f9aad3885060048e, type: 2}
+    - {fileID: 11400000, guid: f12b62128924b0c40ad0327bbf312871, type: 2}

@@ -1,0 +1,544 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b4b8874714a39841a1e6167e1e6d824, type: 3}
+  m_Name: GameActions
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: m_Actions
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[IvyCore.GameAction, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: 1|IvyCore.GameAction, Assembly-CSharp
+    - Name: m_Name
+      Entry: 1
+      Data: UI_Common_Enter
+    - Name: m_Description
+      Entry: 1
+      Data: "\u6E10\u73B0\u8FDB\u573A"
+    - Name: m_Action
+      Entry: 7
+      Data: 2|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: false
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: false
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 3|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 4|IvyCore.Action_CanvasGroup_Fade, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: opacity_
+      Entry: 4
+      Data: 0
+    - Name: duration_
+      Entry: 4
+      Data: 0.5
+    - Name: relative_
+      Entry: 5
+      Data: false
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|IvyCore.GameAction, Assembly-CSharp
+    - Name: m_Name
+      Entry: 1
+      Data: UI_Common_Exit
+    - Name: m_Description
+      Entry: 1
+      Data: "\u6E10\u9690\u51FA\u573A"
+    - Name: m_Action
+      Entry: 7
+      Data: 6|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: false
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: false
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 7|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 8|IvyCore.Action_CanvasGroup_Fade, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: opacity_
+      Entry: 4
+      Data: 0
+    - Name: duration_
+      Entry: 4
+      Data: 0.3
+    - Name: relative_
+      Entry: 5
+      Data: false
+    - Name: from_
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|IvyCore.GameAction, Assembly-CSharp
+    - Name: m_Name
+      Entry: 1
+      Data: vertical_EnterAction
+    - Name: m_Description
+      Entry: 1
+      Data: "\u7AD6\u5411\u8FDB\u573A"
+    - Name: m_Action
+      Entry: 7
+      Data: 10|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: false
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: false
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 11|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 12|IvyCore.Action_Transform_Move, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 27
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: useWorldCoordinate
+      Entry: 5
+      Data: false
+    - Name: position_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 800
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: separateAxisValue_
+      Entry: 4
+      Data: 0
+    - Name: duration_
+      Entry: 4
+      Data: 0.4
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: true
+    - Name: separateCoordinateAxis_
+      Entry: 5
+      Data: false
+    - Name: axisType_
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 13|IvyCore.GameAction, Assembly-CSharp
+    - Name: m_Name
+      Entry: 1
+      Data: vertical_OutAction
+    - Name: m_Description
+      Entry: 1
+      Data: "\u7AD6\u5411\u51FA\u573A"
+    - Name: m_Action
+      Entry: 7
+      Data: 14|IvyCore.ActionSequence, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: false
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: false
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 0
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: loopTime_
+      Entry: 3
+      Data: 1
+    - Name: loopType_
+      Entry: 3
+      Data: 0
+    - Name: tweenList_
+      Entry: 7
+      Data: 15|System.Collections.Generic.List`1[[IvyCore.ActionBase, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 16|IvyCore.Action_Transform_Move, Assembly-CSharp
+    - Name: showParallelProperty_
+      Entry: 5
+      Data: true
+    - Name: showEaseType_
+      Entry: 5
+      Data: true
+    - Name: showDelayTime_
+      Entry: 5
+      Data: true
+    - Name: splitStr_
+      Entry: 1
+      Data: 
+    - Name: isParallel_
+      Entry: 5
+      Data: false
+    - Name: parallelTime_
+      Entry: 4
+      Data: 0
+    - Name: actionEaseType_
+      Entry: 3
+      Data: 0
+    - Name: easeType_
+      Entry: 3
+      Data: 26
+    - Name: easeAnimationCurve_
+      Entry: 6
+      Data: 
+    - Name: delayTime_
+      Entry: 4
+      Data: 0
+    - Name: useWorldCoordinate
+      Entry: 5
+      Data: false
+    - Name: position_
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 800
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: separateAxisValue_
+      Entry: 4
+      Data: 0
+    - Name: duration_
+      Entry: 4
+      Data: 0.4
+    - Name: relative_
+      Entry: 5
+      Data: true
+    - Name: from_
+      Entry: 5
+      Data: false
+    - Name: separateCoordinateAxis_
+      Entry: 5
+      Data: false
+    - Name: axisType_
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

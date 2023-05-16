@@ -1,0 +1,23 @@
+{
+	"all": {
+		"7_1": {
+			"TargetPrefab_1": "Candy_8,6",
+			"TargetPrefab_2": "null",
+			"Rewards_1": "exp,100",
+			"Rewards_2": "null",
+			"Rewards_3": "null",
+			"Rewards_4": "Blender_4,1"
+		},
+		"7_3": {
+			"Rewards_2": "GardeningToolBox_1,6"
+		},
+		"7_final": {
+			"Rewards_1": "CandyBoxed,1",
+			"Rewards_2": "CandyBoxed,1",
+			"Rewards_3": "CandyBoxed,1"
+		},
+		"15_final": {
+			"ChapterRewards": "EnergyChest,1;Coins_4,1;BrownChest_1,2;FancyChest_1,1"
+		}
+	}
+}

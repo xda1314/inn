@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: remote_lv_121_135
+  m_EditorClassIdentifier: 
+  m_GroupName: remote_lv_121_135
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cf5f0749d553b9d40828af612a7d0c25
+  m_SerializeEntries:
+  - m_GUID: d2f8931db759bc749b5272258d5fd8b9
+    m_Address: cj10_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e44765286e5753e4cbe7b5dd4b161c54, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e2af73522ece3454a8b384b57354e7eb, type: 2}
+    - {fileID: 11400000, guid: b6b6ec3413a455d468baff7700164e2b, type: 2}

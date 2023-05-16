@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas_Account
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a61cc898113000d40859c5c63621cdd6, type: 3}
+    - {fileID: 102900000, guid: d3df2bc5c9946864da00daf0f49a50d0, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 64e66d50a131a4abaa8d4ebe129b2b72, type: 3}
+  - {fileID: 21300000, guid: b179a3a0032f04e4abb2d6b706843df3, type: 3}
+  - {fileID: 21300000, guid: 959c72e1a886a4eb698e1b0a231466e6, type: 3}
+  - {fileID: 21300000, guid: 056ca322379b30e4fa39f69bac9e9b3f, type: 3}
+  - {fileID: 21300000, guid: 0c062e42d889741338b543b7665c205f, type: 3}
+  - {fileID: 21300000, guid: f93c15927a5f3f24d9d1c09335ca3f4f, type: 3}
+  - {fileID: 21300000, guid: 7ee93eb2780b2f54d986073d9c5853a6, type: 3}
+  - {fileID: 21300000, guid: 1d8bebf2c78f443af95a3268e5f48dc9, type: 3}
+  - {fileID: 21300000, guid: efb6c9334e498404883cd7150d537d74, type: 3}
+  - {fileID: 21300000, guid: 76169e24606494834938daea79498f37, type: 3}
+  - {fileID: 21300000, guid: ce6a8e5576737044c8358aada7469c9f, type: 3}
+  - {fileID: 21300000, guid: 5d18d83640df34f4eaa5a92e4c99c650, type: 3}
+  - {fileID: 21300000, guid: 8650a4b6a8c9dbe4fb031679354c5b78, type: 3}
+  - {fileID: 21300000, guid: 211fbaf7fa0004e158870d1ecb769fd2, type: 3}
+  - {fileID: 21300000, guid: 791c526937096414e963087cf56599d7, type: 3}
+  - {fileID: 21300000, guid: 19f84389193584d7ab2d7846ae4c8ede, type: 3}
+  - {fileID: 21300000, guid: 5b0cd9cb9ed7484469890e990602f78e, type: 3}
+  - {fileID: 21300000, guid: 7bbada9ddcd31495c947963907e58cdf, type: 3}
+  - {fileID: 21300000, guid: 2589b6dd05a264f39ba7ff5e245bcb60, type: 3}
+  - {fileID: 21300000, guid: f9f1b64e6369b46c485fca9431befb71, type: 3}
+  - {fileID: 21300000, guid: 2d67980f715d24c6cb42a3744ea3806e, type: 3}
+  - {fileID: 21300000, guid: d08f60ef09739438ca3ab0cde6f4720f, type: 3}
+  - {fileID: 21300000, guid: 84c8cfffe57c68d4a83f387294ba3a5c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Btn_Rectangle00_n_Yellow
+  - InputField_Frame_Inner
+  - Icon_WhiteIcon_Close
+  - Icon_Account_Recovery
+  - InputField_Icon_Password
+  - Icon_Account_Google
+  - Icon_Account_Copy
+  - Btn_IconButton_Circle_90
+  - Btn_Rectangle00_n_Orange
+  - InputField_Icon_mail
+  - Icon_Account_GameCenter
+  - Btn_IconButton_Circle_90_White1
+  - Icon_Account_Apple
+  - Btn_Rectangle00_n_Purple
+  - Btn_Rectangle00_n_Red
+  - Btn_Rectangle00_n_Blue
+  - Icon_Account_Facebook
+  - Popup00_Frame1
+  - Popup00_Frame2
+  - Btn_Rectangle00_n_Pink
+  - InputField_Frame
+  - Btn_Rectangle00_n_Green
+  - Icon_Account_Upload
+  m_Tag: UIAtlas_Account
+  m_IsVariant: 0

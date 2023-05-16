@@ -1,0 +1,11 @@
+{
+  "all": {
+    "SeedBag_4": {
+      "Categories": "finiteContainer"
+    },
+    "Wood_5": {
+      "Pond": "1097",
+      "DieCreate": "Wood_3"
+    }
+  }
+}

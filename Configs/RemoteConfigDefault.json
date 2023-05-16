@@ -1,0 +1,34 @@
+{
+ "starter_package":{
+  "payid": 28,
+  "items": [
+    {
+      "Reward1": "gems",
+      "count": 1400
+    },
+    {
+      "Reward2": "EnergyChest",
+      "count": 1
+    },
+    {
+      "Reward3": "Blender_6",
+      "count": 1
+    },
+    {
+      "Reward4": "Drawer_5",
+      "count": 1
+    },
+    {
+      "Reward5": "GardeningToolBox_4",
+      "count": 1
+    },
+    {
+      "Reward6": "CoffeeCup_4",
+      "count": 1
+    },
+    {
+      "Reward7": "PiggyBank_1",
+      "count": 1
+    }
+  ]
+}

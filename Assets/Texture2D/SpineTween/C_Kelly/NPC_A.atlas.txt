@@ -1,0 +1,34 @@
+NPC_A.png
+size:1024,1024
+filter:Linear,Linear
+图层 1
+bounds:2,2,257,227
+图层 11
+bounds:429,598,109,39
+offsets:1,1,111,41
+图层 12
+bounds:429,639,118,43
+rotate:90
+图层 13
+bounds:429,759,120,43
+rotate:90
+图层 15
+bounds:261,4,176,225
+offsets:1,1,177,226
+图层 3
+bounds:327,232,32,79
+offsets:1,0,33,79
+rotate:90
+图层 4
+bounds:429,881,139,119
+rotate:90
+图层 8
+bounds:2,231,323,359
+offsets:0,0,323,364
+对话框_1
+bounds:2,592,425,428
+offsets:1,1,427,430
+对话框_2
+bounds:327,266,324,110
+offsets:1,1,326,112
+rotate:90

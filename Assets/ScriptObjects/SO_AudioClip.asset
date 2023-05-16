@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fc77240eb58cdd4797b2996b1f92fa1, type: 3}
+  m_Name: SO_AudioClip
+  m_EditorClassIdentifier: 
+  homeBgm:
+    volumn: 0.5
+    audioClip: {fileID: 8300000, guid: c7ad4c6fd30d3854891bd662ee4fe554, type: 3}
+  levelBgms:
+  - volumn: 0.121
+    audioClip: {fileID: 8300000, guid: 55f107b777a622349b2b125197ef597d, type: 3}
+  Tap_Eliminate:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 8c977f96a9efbaa47ad4e7519e4cf025, type: 3}
+  Composites:
+  - volumn: 1
+    audioClip: {fileID: 8300000, guid: dc96e02a666caeb46a4d4989c2ce406e, type: 3}
+  - volumn: 1
+    audioClip: {fileID: 8300000, guid: f8164de306b3f494285fc670cfd311a2, type: 3}
+  - volumn: 1
+    audioClip: {fileID: 8300000, guid: 3692204d5dd656641b61839580f212a3, type: 3}
+  - volumn: 1
+    audioClip: {fileID: 8300000, guid: 540d644cfe24f454c9cd50e03f75927f, type: 3}
+  - volumn: 1
+    audioClip: {fileID: 8300000, guid: fbd812e271aaf4c4a8ceb1701dce8132, type: 3}
+  - volumn: 1
+    audioClip: {fileID: 8300000, guid: b0cecedd670cad34c9431a7321682fa9, type: 3}
+  - volumn: 1
+    audioClip: {fileID: 8300000, guid: d0d74044adea5e249b4daa8136c1cf0f, type: 3}
+  - volumn: 1
+    audioClip: {fileID: 8300000, guid: 381ea32af2ed1f44d8f01bebf6e856c0, type: 3}
+  Produce:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 9ff1ad2c856f81a49b6de739164a6022, type: 3}
+  Produce_EXP:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 6b99c3d29e89414499c8a30f81ad2d57, type: 3}
+  Produce_Bubble:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 5ca0163bf655d2f4bb936c12217211a7, type: 3}
+  Break_Initial:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 5b20825c431b64c4abcf3d3cf9361dc8, type: 3}
+  Break_Cobweb:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: e8a6d1db72b8fa344ad95041c243b14c, type: 3}
+  Break_Bubble:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: b7e9c0e0a60c644488c4a0d75353bc02, type: 3}
+  Break_Box:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 9318e092574b9954ba835c2193abb8cf, type: 3}
+  Use_Coins:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: b4fcf47d8c16fed4c868b7f37358c5dc, type: 3}
+  merge_tips:
+    volumn: 0.5
+    audioClip: {fileID: 8300000, guid: 6cc8c0ee3066c454c825056f28939b76, type: 3}
+  put_down:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 5481369ee7d762c459f04a8ceb1976fa, type: 3}
+  Get_EXP:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: bad575113ea497943879e93faa3c17f9, type: 3}
+  Get_Coins:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 0fd0ef996473c32459be33469df05f4d, type: 3}
+  Get_Gems:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 471a7846f9cb6f94fbfbbce537dd8bc4, type: 3}
+  Get_Energy:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: e5dc39ec5e5c8f14596717c831668ad8, type: 3}
+  Get_Reward:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 175cc56dbc0170246830e1e0824f1280, type: 3}
+  Get_Good:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: c5bf74b484e534044b641622b437651a, type: 3}
+  Button:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: b2078494fde4eb04a910c555e8261a15, type: 3}
+  Window_Open:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 0bdff85a3e153c4428cabd04b48d1c37, type: 3}
+  Window_Close:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 28f4dd6bed0cb624eb9b074a3d1f85a2, type: 3}
+  Get_EXPReward:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 193185e0732db6d419c3fd1af3dd3e50, type: 3}
+  Recharge:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: b1fc61789eafde4449b9abd566e592f9, type: 3}
+  Shop_Buy:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 5ee1e0ffc14ba3d46b7d804844a1ff06, type: 3}
+  moveHomePage:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 80147ea94b53b534a93e9b49fa48c8cc, type: 3}
+  getNewMergeItem:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 705253e1c9589e644aee5cc2f282ab57, type: 3}
+  unlockSellReturnBtn:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 04d0276ed3c301444ab4df7d6092251f, type: 3}
+  unlockStorePackOne:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: a4908607fe1e78c4d85b94115a3081e9, type: 3}
+  taskFinishFlyNear:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 67ec8e38ba31e0046997f9d2e16f7dd5, type: 3}
+  taskFinishFlyFar:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 86b899fd957ae5446af2f478ac067f2b, type: 3}
+  finishTaskAndGetStar:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: b337352c4dcae7a46aa0651078fb2ee3, type: 3}
+  chainBookOpen:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 720f8cdf14f4b704ca6d6a6118f2e563, type: 3}
+  boxGetReward:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: f86999bc891f7a44cac672053c70807d, type: 3}
+  btn_Receive:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 129d85ee70cabfe4290a1502f29628d4, type: 3}
+  spinReward:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 957ae7469f342734ea86859bc593bdbb, type: 3}
+  chest_open:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 1b2e5df87d550e3459fd6e5daa726915, type: 3}
+  chest_reward_show:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: df064cc0020d7f34da0bfd123ef38463, type: 3}
+  complete:
+    volumn: 1
+    audioClip: {fileID: 8300000, guid: 315d1f2027b42854487b4c68d2e2d641, type: 3}

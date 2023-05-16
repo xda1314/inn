@@ -1,0 +1,557 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1358550696991392}
+  m_IsPrefabParent: 1
+--- !u!1 &1358550696991392
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4905717001734732}
+  - component: {fileID: 114257506783928692}
+  m_Layer: 0
+  m_Name: GameObjectPool
+  m_TagString: 
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4905717001734732
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1358550696991392}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114257506783928692
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1358550696991392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7f31f915cdf6eec46f8c49e68e9377, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  configArray:
+  - array:
+    - path: CurveTemplate/Bird_Jump
+      countConfig: 5
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/Bird_Glide_2d
+      countConfig: 5
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/Bird_Glide_2d_8
+      countConfig: 5
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/Bird_Glide_2d_c
+      countConfig: 5
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/Bird_Glide_2d_o
+      countConfig: 5
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/Butterfly_Glide_2d
+      countConfig: 5
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/Dialog_in
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/Dialog_out
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+  - array:
+    - path: Level/Elements/SpineElements
+      countConfig: 20
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Level/Elements/SpineNewBomb
+      countConfig: 10
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Level/Elements/SpineBrick
+      countConfig: 30
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/brick_eliminate/brick1_eliminate
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/brick_eliminate/brick2_eliminate
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/brick_eliminate/brick3_eliminate
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/brick_eliminate/brick4_eliminate
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/brick_eliminate/brick5_eliminate
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/brick_eliminate/brick6_eliminate
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/brick_eliminate/brick7_eliminate
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/bomb/bomb
+      countConfig: 3
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/Color_ColorBomb_hop/ColorBomb_yuansu_2
+      countConfig: 15
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/Color_ColorBomb_hop/ColorBomb_yuansu_4
+      countConfig: 2
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/Color_ColorBomb_hop/ColorBomb_zhadan_4
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/Color_ColorBomb_hop/ColorBomb_zhadan_1_a
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/Color_ColorBomb_hop/ColorBomb_zhadan_1_b
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/Color_ColorBomb_hop/ColorBomb_yuansu_1_a
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/Color_ColorBomb_hop/ColorBomb_yuansu_1_b
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Spine/SpecialEffect/ColorBomb_yuansu
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Spine/SpecialEffect/ColorBomb_zha
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Spine/SpecialEffect/SpineColorLaser
+      countConfig: 15
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/explode_striped_hop/zha_heng
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/explode_striped_hop/zha_shu
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/explode_striped_hop/zha_heng_cai
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/explode_striped_hop/zha_shu_cai
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Spine/Bomb/SpineZhaShizi
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Spine/Bomb/SpineZhaSquare
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/target/target_flying
+      countConfig: 10
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/target/target_flying2
+      countConfig: 10
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/brick_change/brick_move
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/brick_change/brick_move_0
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/Gold/Gold_flying
+      countConfig: 10
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Spine/Gold
+      countConfig: 10
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/Gold/Gold_arrived
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/target/arrived_target
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/move_combination/move_combination_1
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/item0/item0
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/progressUI/progress_hua
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/progressUI/progress_flying_hua
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: Effects/Particle/target/target_flying2_xin
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 70
+    - path: Effects/Particle/target/target_flying_xin
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 70
+    - path: Effects/Particle/MiceBox_broken/MiceBox_broken
+      countConfig: 10
+      countReal: 0
+      resource: 0
+      pGroup: 10
+    - path: Effects/Particle/MiceBox_broken/MiceBox_broken_1
+      countConfig: 10
+      countReal: 0
+      resource: 0
+      pGroup: 10
+    - path: Effects/Particle/MiceBox_broken/MiceBox_broken_2
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 10
+    - path: Effects/Particle/MiceBox_broken/MiceBox_broken_3
+      countConfig: 6
+      countReal: 0
+      resource: 0
+      pGroup: 10
+    - path: Effects/Particle/MiceBox_broken/MiceBox_broken_4
+      countConfig: 4
+      countReal: 0
+      resource: 0
+      pGroup: 10
+    - path: Effects/Particle/ice_layer/ice_layer_break
+      countConfig: 10
+      countReal: 0
+      resource: 0
+      pGroup: 40
+    - path: Effects/Particle/cake/cake_break
+      countConfig: 10
+      countReal: 0
+      resource: 0
+      pGroup: 60
+    - path: Level/Elements/SpineWaffle
+      countConfig: 20
+      countReal: 0
+      resource: 0
+      pGroup: 20
+    - path: Effects/Particle/Waffle/Waffle1_break
+      countConfig: 10
+      countReal: 0
+      resource: 0
+      pGroup: 20
+    - path: Effects/Particle/Waffle/Waffle4_2_break
+      countConfig: 6
+      countReal: 0
+      resource: 0
+      pGroup: 20
+    - path: Effects/Particle/Waffle/waffle5_break
+      countConfig: 4
+      countReal: 0
+      resource: 0
+      pGroup: 20
+    - path: Effects/Particle/Waffle/waffle6_break
+      countConfig: 4
+      countReal: 0
+      resource: 0
+      pGroup: 20
+    - path: Effects/Particle/antiquebox/antiquebox_break1
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 80
+    - path: Effects/Particle/antiquebox/antiquebox_break2_has
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 80
+    - path: Effects/Particle/antiquebox/antiquebox_break4_3
+      countConfig: 4
+      countReal: 0
+      resource: 0
+      pGroup: 80
+    - path: Effects/Particle/antiquebox/antiquebox_break5
+      countConfig: 4
+      countReal: 0
+      resource: 0
+      pGroup: 80
+    - path: Effects/Particle/stone/stone_eliminate_0
+      countConfig: 4
+      countReal: 0
+      resource: 0
+      pGroup: 90
+    - path: Effects/Particle/stone/stone_eliminate_1
+      countConfig: 4
+      countReal: 0
+      resource: 0
+      pGroup: 90
+    - path: Effects/Particle/Pretzel/pretzel_break
+      countConfig: 4
+      countReal: 0
+      resource: 0
+      pGroup: 30
+    - path: Effects/Particle/CottonCandy/CottonCandy_eliminate
+      countConfig: 4
+      countReal: 0
+      resource: 0
+      pGroup: 100
+    - path: Effects/Particle/Mirror/Mirror_1
+      countConfig: 4
+      countReal: 0
+      resource: 0
+      pGroup: 110
+    - path: Effects/Particle/Mirror/Mirror_2
+      countConfig: 4
+      countReal: 0
+      resource: 0
+      pGroup: 110
+    - path: Effects/Particle/FireworkPillows/FireworkPillows_eliminate
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 130
+    - path: Effects/Particle/FireworkPillows/FireworkPillows_heng
+      countConfig: 6
+      countReal: 0
+      resource: 0
+      pGroup: 130
+    - path: Effects/Particle/FireworkPillows/FireworkPillows_shu
+      countConfig: 6
+      countReal: 0
+      resource: 0
+      pGroup: 130
+    - path: Effects/Particle/Candlelabra/candlelabra_break
+      countConfig: 4
+      countReal: 0
+      resource: 0
+      pGroup: 120
+    - path: Effects/Particle/Candlelabra/candlelabra_arrived
+      countConfig: 9
+      countReal: 0
+      resource: 0
+      pGroup: 120
+    - path: Effects/Particle/Candlelabra/candlelabra_flying
+      countConfig: 9
+      countReal: 0
+      resource: 0
+      pGroup: 120
+    - path: Effects/Particle/Table/Table_eliminate
+      countConfig: 3
+      countReal: 0
+      resource: 0
+      pGroup: 140
+    - path: Effects/Particle/Lamp/Lamp_eliminate
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 150
+    - path: Effects/Particle/Lamp/Lamp_flying
+      countConfig: 8
+      countReal: 0
+      resource: 0
+      pGroup: 150
+    - path: Effects/Particle/Floor/Floor_eliminate
+      countConfig: 2
+      countReal: 0
+      resource: 0
+      pGroup: 160
+    - path: Effects/Particle/CuckooClock/CuckooClock_eliminate
+      countConfig: 3
+      countReal: 0
+      resource: 0
+      pGroup: 170
+    - path: Effects/Particle/Door/door_break_1
+      countConfig: 3
+      countReal: 0
+      resource: 0
+      pGroup: 180
+    - path: Effects/Particle/Door/key_flying
+      countConfig: 6
+      countReal: 0
+      resource: 0
+      pGroup: 180
+    - path: Effects/Particle/statue/statue_1
+      countConfig: 3
+      countReal: 0
+      resource: 0
+      pGroup: 190
+    - path: Effects/Particle/statue/statue_2
+      countConfig: 3
+      countReal: 0
+      resource: 0
+      pGroup: 190
+    - path: Effects/Particle/Telephone/Telephone_eliminate
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 200
+    - path: Level/Additions/RedCarpetAddition
+      countConfig: 30
+      countReal: 0
+      resource: 0
+      pGroup: 220
+    - path: Level/RedCarpetSmooth/RedCarpetMoveLeft
+      countConfig: 5
+      countReal: 0
+      resource: 0
+      pGroup: 220
+    - path: Level/RedCarpetSmooth/RedCarpetMoveRight
+      countConfig: 5
+      countReal: 0
+      resource: 0
+      pGroup: 220
+    - path: Effects/Particle/brick_eliminate/PillowTags_eliminate
+      countConfig: 20
+      countReal: 0
+      resource: 0
+      pGroup: 230
+  - array:
+    - path: CurveTemplate/window1_in
+      countConfig: 10
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/window1_out
+      countConfig: 5
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/window2_in
+      countConfig: 3
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/window2_out
+      countConfig: 3
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/window3_out
+      countConfig: 5
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/YunSlideDown
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/YunSlideUp
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/popupJellyCurve_in
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0
+    - path: CurveTemplate/popupJellyCurve_out
+      countConfig: 1
+      countReal: 0
+      resource: 0
+      pGroup: 0

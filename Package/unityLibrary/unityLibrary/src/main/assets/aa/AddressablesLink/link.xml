@@ -1,0 +1,254 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AudioClipSO" preserve="all" />
+    <type fullname="AutoRectScale" preserve="all" />
+    <type fullname="AutoScreenScale" preserve="all" />
+    <type fullname="AutoTweenScale" preserve="all" />
+    <type fullname="BattlePassRankRewardItem" preserve="all" />
+    <type fullname="Branch_Slider" preserve="all" />
+    <type fullname="BranchItem" preserve="all" />
+    <type fullname="BranchRedeemCell" preserve="all" />
+    <type fullname="BranchRedeemRewardItem" preserve="all" />
+    <type fullname="BranchRedeemScrollController" preserve="all" />
+    <type fullname="BtnOutlineFX" preserve="all" />
+    <type fullname="BubbleItem" preserve="all" />
+    <type fullname="Coffee.UIExtensions.UIEffect" preserve="all" />
+    <type fullname="Coffee.UIExtensions.UIShadow" preserve="all" />
+    <type fullname="Coffee.UIExtensions.UIShiny" preserve="all" />
+    <type fullname="CollectionItems" preserve="all" />
+    <type fullname="CollectionsFrame" preserve="all" />
+    <type fullname="ConfigSO" preserve="all" />
+    <type fullname="DailyGoItem" preserve="all" />
+    <type fullname="DailyItem" preserve="all" />
+    <type fullname="DelayAutoTweenScale" preserve="all" />
+    <type fullname="DungeonItem" preserve="all" />
+    <type fullname="EnhancedUI.EnhancedScroller.EnhancedScroller" preserve="all" />
+    <type fullname="HVPageView" preserve="all" />
+    <type fullname="I2.Loc.LanguageSourceAsset" preserve="all" />
+    <type fullname="I2.Loc.Localize" preserve="all" />
+    <type fullname="ImageSpritesContainer" preserve="all" />
+    <type fullname="Item_ChooseSkin" preserve="all" />
+    <type fullname="Item_GiftBag" preserve="all" />
+    <type fullname="Item_Mail" preserve="all" />
+    <type fullname="Item_Reward" preserve="all" />
+    <type fullname="Item_Show" preserve="all" />
+    <type fullname="Item_Storage" preserve="all" />
+    <type fullname="Item_Task" preserve="all" />
+    <type fullname="ItemBg_Storage" preserve="all" />
+    <type fullname="IvyCore.GameActions" preserve="all" />
+    <type fullname="IvyCore.IvyCnfData" preserve="all" />
+    <type fullname="IvyCore.UI_Base" preserve="all" />
+    <type fullname="IvyCore.UI_LayerRegisterData" preserve="all" />
+    <type fullname="IvyCore.UI_SceneRegisterData" preserve="all" />
+    <type fullname="IvyCore.UI_TutorData" preserve="all" />
+    <type fullname="IvyCore.UI_TutorLayer" preserve="all" />
+    <type fullname="IvyCore.UI_Window" preserve="all" />
+    <type fullname="IvyCore.UI_WindowRegisterData" preserve="all" />
+    <type fullname="LightingAnimation" preserve="all" />
+    <type fullname="MergeController" preserve="all" />
+    <type fullname="MergeGrid" preserve="all" />
+    <type fullname="Page_Dungeon" preserve="all" />
+    <type fullname="Page_Play" preserve="all" />
+    <type fullname="Page_Setting" preserve="all" />
+    <type fullname="Page_Shop" preserve="all" />
+    <type fullname="PlayerMaxLevelSO" preserve="all" />
+    <type fullname="RedPointAnimation" preserve="all" />
+    <type fullname="ShowItemInfo" preserve="all" />
+    <type fullname="SpinWheelTimeline" preserve="all" />
+    <type fullname="StoreItem" preserve="all" />
+    <type fullname="SwallowItem" preserve="all" />
+    <type fullname="TextMeshProExtend" preserve="all" />
+    <type fullname="TMPFontDynamicSet" preserve="all" />
+    <type fullname="TopPopup" preserve="all" />
+    <type fullname="TopResourceBar" preserve="all" />
+    <type fullname="TopResourceManager" preserve="all" />
+    <type fullname="UI_BannerItem" preserve="all" />
+    <type fullname="UI_Currency_Item" preserve="all" />
+    <type fullname="UI_DailyTaskItem" preserve="all" />
+    <type fullname="UI_Energy_AD" preserve="all" />
+    <type fullname="UI_InAppMessageReward" preserve="all" />
+    <type fullname="UI_InternalShop" preserve="all" />
+    <type fullname="UI_ItemDiscovered" preserve="all" />
+    <type fullname="UI_Main_Experience" preserve="all" />
+    <type fullname="UI_MainMenu" preserve="all" />
+    <type fullname="UI_NewFiling" preserve="all" />
+    <type fullname="UI_Nosignal" preserve="all" />
+    <type fullname="UI_NotchAdapter" preserve="all" />
+    <type fullname="UI_PagePlay_Slider" preserve="all" />
+    <type fullname="UI_Panel_Daily" preserve="all" />
+    <type fullname="UI_RayIgnore" preserve="all" />
+    <type fullname="UI_Shop_AD" preserve="all" />
+    <type fullname="UI_Shop_Daily" preserve="all" />
+    <type fullname="UI_Shop_Discount" preserve="all" />
+    <type fullname="UI_Shop_GemsOrCoins" preserve="all" />
+    <type fullname="UI_Shop_MonthlyCard" preserve="all" />
+    <type fullname="UI_Shop_NormalItem" preserve="all" />
+    <type fullname="UI_Shop_Offer" preserve="all" />
+    <type fullname="UI_Shop_OfferItem" preserve="all" />
+    <type fullname="UI_Shop_Packages" preserve="all" />
+    <type fullname="UI_Shop_Personal" preserve="all" />
+    <type fullname="UI_ShopContainer" preserve="all" />
+    <type fullname="UI_ShowTip_Item" preserve="all" />
+    <type fullname="UI_Spin_Item" preserve="all" />
+    <type fullname="UI_TaskItem" preserve="all" />
+    <type fullname="UI_TextTip" preserve="all" />
+    <type fullname="UIButtonScale" preserve="all" />
+    <type fullname="UIDrag_Collection" preserve="all" />
+    <type fullname="UIDrag_GoldReward" preserve="all" />
+    <type fullname="UIImageMirror" preserve="all" />
+    <type fullname="UINovicePackageItem" preserve="all" />
+    <type fullname="UIPanel_AccountLogin" preserve="all" />
+    <type fullname="UIPanel_ActiveReward" preserve="all" />
+    <type fullname="UIPanel_ADGift" preserve="all" />
+    <type fullname="UIPanel_BattlePass" preserve="all" />
+    <type fullname="UIPanel_BlackBoard" preserve="all" />
+    <type fullname="UIPanel_BranchRedeem" preserve="all" />
+    <type fullname="UIPanel_BranchTask" preserve="all" />
+    <type fullname="UIPanel_BuyBattlePass" preserve="all" />
+    <type fullname="UIPanel_ChangeName" preserve="all" />
+    <type fullname="UIPanel_ChooseLanguage" preserve="all" />
+    <type fullname="UIPanel_ChooseSkin" preserve="all" />
+    <type fullname="UIPanel_Collection" preserve="all" />
+    <type fullname="UIPanel_CompleteLevel" preserve="all" />
+    <type fullname="UIPanel_CrossPromotion" preserve="all" />
+    <type fullname="UIPanel_DailyTask" preserve="all" />
+    <type fullname="UIPanel_Download" preserve="all" />
+    <type fullname="UIPanel_DownloadFail" preserve="all" />
+    <type fullname="UIPanel_DressUpPackage" preserve="all" />
+    <type fullname="UIPanel_DungeonTask" preserve="all" />
+    <type fullname="UIPanel_EmailLogin" preserve="all" />
+    <type fullname="UIPanel_Evaluate" preserve="all" />
+    <type fullname="UIPanel_ExitGame" preserve="all" />
+    <type fullname="UIPanel_FixSell" preserve="all" />
+    <type fullname="UIPanel_General1Package" preserve="all" />
+    <type fullname="UIPanel_General2Package" preserve="all" />
+    <type fullname="UIPanel_General3Package" preserve="all" />
+    <type fullname="UIPanel_General4Package" preserve="all" />
+    <type fullname="UIPanel_GourmetPackage" preserve="all" />
+    <type fullname="UIPanel_InAppMessage" preserve="all" />
+    <type fullname="UIPanel_Jigsaw" preserve="all" />
+    <type fullname="UIPanel_LevelRewards" preserve="all" />
+    <type fullname="UIPanel_Loading" preserve="all" />
+    <type fullname="UIPanel_LoadingAD" preserve="all" />
+    <type fullname="UIPanel_LoginTip" preserve="all" />
+    <type fullname="UIPanel_Mail" preserve="all" />
+    <type fullname="UIPanel_Merge" preserve="all" />
+    <type fullname="UIPanel_MoreGame" preserve="all" />
+    <type fullname="UIPanel_NovicePackage" preserve="all" />
+    <type fullname="UIPanel_NovicePackage2" preserve="all" />
+    <type fullname="UIPanel_push1Package" preserve="all" />
+    <type fullname="UIPanel_RewardCode" preserve="all" />
+    <type fullname="UIPanel_ShowCountTip" preserve="all" />
+    <type fullname="UIPanel_ShowOutputTip" preserve="all" />
+    <type fullname="UIPanel_ShowRareTip" preserve="all" />
+    <type fullname="UIPanel_ShowRewards" preserve="all" />
+    <type fullname="UIPanel_ShowSpecialTip" preserve="all" />
+    <type fullname="UIPanel_ShowTip" preserve="all" />
+    <type fullname="UIPanel_Spin" preserve="all" />
+    <type fullname="UIPanel_StarRewards" preserve="all" />
+    <type fullname="UIPanel_Store" preserve="all" />
+    <type fullname="UIPanel_Suggest" preserve="all" />
+    <type fullname="UIPanel_Task" preserve="all" />
+    <type fullname="UIPanel_TopNoticeBar" preserve="all" />
+    <type fullname="UIPanel_TransitionAnimation" preserve="all" />
+    <type fullname="UIPanel_TutorBattlepass" preserve="all" />
+    <type fullname="UIPanel_Tutorial_Merge" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DG.Tweening.DOTweenAnimation" preserve="all" />
+  </assembly>
+  <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
+  </assembly>
+  <assembly fullname="spine-unity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Spine.Unity.BlendModeMaterialsAsset" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonDataAsset" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonGraphic" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonSubmeshGraphic" preserve="all" />
+    <type fullname="Spine.Unity.SpineAtlasAsset" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.Initialization.CacheInitialization" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.Initialization.CacheInitializationData" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AtlasSpriteProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Rendering.SortingGroup" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.PhysicsMaterial2D" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+</linker>

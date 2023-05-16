@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LevelButton
+  - IEscape
+  - UIRoot
+  - Collider
+  - EnvCollider
+  - Duck
+  - Item
+  - Grid
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - MapZone
+  - Board
+  - Animation
+  - Effect
+  - Tutor
+  - Cheat
+  - Helper
+  - EditorLock
+  - EnvCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 997048477
+    locked: 0
+  - name: EffectBelowUI
+    uniqueID: 1186104981
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grid
+    uniqueID: 3072047875
+    locked: 0
+  - name: AboveGrid
+    uniqueID: 3556106323
+    locked: 0
+  - name: UI
+    uniqueID: 2832077843
+    locked: 0
+  - name: EffectAboveUI
+    uniqueID: 2756564435
+    locked: 0
+  - name: Tutor
+    uniqueID: 3891378533
+    locked: 0
+  - name: UILoading
+    uniqueID: 4199327255
+    locked: 0

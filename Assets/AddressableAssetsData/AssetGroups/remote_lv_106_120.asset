@@ -1,0 +1,373 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: remote_lv_106_120
+  m_EditorClassIdentifier: 
+  m_GroupName: remote_lv_106_120
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8a595629d2f63994f9fa2026fc061bd8
+  m_SerializeEntries:
+  - m_GUID: 52bfd27b56a16544e9108c44641e2f41
+    m_Address: cj09_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6051c56650be77d4eb9b9d52b0f887f6
+    m_Address: TablewareBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be68e9a4d25dc6b44a825f9e6e57acda
+    m_Address: Tableware_10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf59b380acf37234c8ed154d85041a02
+    m_Address: Tableware_9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d78678f130a5dba44badc8847b84af60
+    m_Address: Tableware_8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbfd8a8ef802cec408c1abc8b491621e
+    m_Address: Tableware_7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73b4e3067e3ad1449bd7f04c0153be41
+    m_Address: Tableware_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9b8f4b53a4d0704485af4c0f7f3f125
+    m_Address: Tableware_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3397ced225dfb9144b99a6c5309171c0
+    m_Address: Tableware_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93f805d1d05012442a2e301709026997
+    m_Address: Tableware_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c72374311a29094680be1b85174c7dd
+    m_Address: Tableware_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34c0e709e0837544f8935c1adfa0bad0
+    m_Address: Tableware_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 775ef7edd83673848bbd85433162053b
+    m_Address: SoupsBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0a47e11b91f0f543a99bb600b537284
+    m_Address: Soups_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe80f8900b561864bad99fee1f319b70
+    m_Address: Soups_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a2473a179d7d0a4284672dd2889e1a5
+    m_Address: Soups_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ec982e10fee96748acfa391f63652f1
+    m_Address: Soups_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d97bf9a3719bc974f96bafbf08baa84f
+    m_Address: Soups_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 354e6f107e1fcae459fdc44a1e1ecb10
+    m_Address: Soups_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea6b870e098b72343b323fcfee9c48dd
+    m_Address: RewardTablewareChest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1bf3bd120c163e4aaafdf7a65044eaf
+    m_Address: RewardTablewareBox
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab4f7d0faf0183d45b3eaca8aa6b63db
+    m_Address: RewardSoupsChest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f17fdc4f6f1a7f140898f5ba289b8ec8
+    m_Address: RewardSoupsBox
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aad93abcabc08184d83dcb56f0212026
+    m_Address: RewardKitchenwareChest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab76229cbcd11e64d859dff22e1d9c2c
+    m_Address: RewardKitchenwareBox
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab2092be9a7bf0c43a794d6de0b37194
+    m_Address: RewardDrinksChest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca91d00764137c8479583e9299434004
+    m_Address: RewardDrinksBox
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b5e1308ad84e6b4fa9e05b7752962cb
+    m_Address: KitchenwareBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e2aebf15a9578b46abf80b8bb78b528
+    m_Address: Kitchenware_9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd5ace702c762a7418ef110e8a644dd3
+    m_Address: Kitchenware_8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e15f680fb8f838b40960d720d9dbb3a8
+    m_Address: Kitchenware_7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8a38add8d6701349a718303152bd869
+    m_Address: Kitchenware_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e574bcd3cc006d143a1eef759839954f
+    m_Address: Kitchenware_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 177406855ec1a65459498e6a9c0ae337
+    m_Address: Kitchenware_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1790e7412e40c8479b266c3aa1bade8
+    m_Address: Kitchenware_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff832944c01ae264e9d509f9a3e6b803
+    m_Address: Kitchenware_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cdf8ead03ea7134cb0003f56a9b6acc
+    m_Address: Kitchenware_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df98abe985767ed429eb9f56c6258cce
+    m_Address: DrinksBoxed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06319bd223d9661428a9100c0cc2e675
+    m_Address: Drinks_10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2442e140394f78e4f9b4874ac2a0ee5e
+    m_Address: Drinks_9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff3da632c0425b249acf598bfc07569f
+    m_Address: Drinks_8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9deb3f0d3686b5c4f8097a827d084a2c
+    m_Address: Drinks_7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08512e05dae45b248bea34558b4f316e
+    m_Address: Drinks_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a9b613d050253c4cb8ee926ac0f9828
+    m_Address: Drinks_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8eff477c191fea1419a8e21e9a87aed3
+    m_Address: Drinks_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40d40e6dfc3a46145a7088c48745fab9
+    m_Address: Drinks_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa4a266f935c0a24682a996b96972d9e
+    m_Address: Drinks_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f271db96422d1240a20328f679523bc
+    m_Address: Drinks_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51c5cf0a22fa9cc48ad3e6efe256fe87
+    m_Address: Cupboard_10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d847f074e462174d84b26b8912de299
+    m_Address: Cupboard_9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7606387e2a888d84d8ffc9d23d08b699
+    m_Address: Cupboard_8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd2515077d4155c48954bc9daabf9cc4
+    m_Address: Cupboard_7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aae82101629c0024a9ce866655cb5ca9
+    m_Address: Cupboard_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9705588a8a6e9ba4b9d60ed01ae48af6
+    m_Address: Cupboard_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9aba252ddb0d615489d28ff78ca783af
+    m_Address: Cupboard_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f902d555e3a2f184aaba07036ac7ecc9
+    m_Address: Cupboard_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d514005f2e5412a4f8c909f6be38c555
+    m_Address: Cupboard_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c74229eba8ddef448c7c9dd460c8497
+    m_Address: Cupboard_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e44765286e5753e4cbe7b5dd4b161c54, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 49d8182a96154184eb3d6949b5a04f9e, type: 2}
+    - {fileID: 11400000, guid: 29e7efac1a2c4254fb82eaf3dee3515c, type: 2}

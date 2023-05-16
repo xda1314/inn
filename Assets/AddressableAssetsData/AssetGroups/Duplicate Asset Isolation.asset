@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Duplicate Asset Isolation
+  m_EditorClassIdentifier: 
+  m_GroupName: Duplicate Asset Isolation
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 078e69810893ec149a2bfd00d81906db
+  m_SerializeEntries:
+  - m_GUID: 91d3d754c3f2ed742b805399cbbbe0e9
+    m_Address: Assets/Effect/Textures/CFX3_T_GlowStar.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23794b75ed2194bc68866806484e9b7e
+    m_Address: Assets/UIParticles/Shaders/Ui Particle Add.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebb23d468a2053a4399dbc9b6a6676b7
+    m_Address: Assets/Materials/Item_GlowStar.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70223ab3c3fca8b45aba5cd12519524c
+    m_Address: Assets/Effects/Textures/BubbleTag.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a2ebd75e727240498be684ac78b7e74
+    m_Address: Assets/Effects/Materials/BubbleTag_blend.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cccd6ef1d0db28f4883a35ba8d801dfc
+    m_Address: Assets/Effects/Textures/light0040.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31a471e41a364614b9ce05c97422b217
+    m_Address: Assets/Effects/Materials/light0040_blend.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56c10b430a899a640a34e766e011804e
+    m_Address: Assets/Effects/Materials/light0042.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f22ee6f71b2cf24469cca461e0c562b5
+    m_Address: Assets/Effects/Textures/light0042.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 657ac870938aead4e86202f81085dd96
+    m_Address: Assets/Effects/Textures/light0089.tga
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db5d74e2f19d2d942907be8b712e7a3c
+    m_Address: Assets/Effects/Materials/light0135.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d55bf8544ac2bd54f8132cc6cd28c880
+    m_Address: Assets/Effects/Textures/ani0076.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25d82b791b91ffb48ae35e2bce9dd0f7
+    m_Address: Assets/Effects/Textures/glow01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1955a7a9282a30448976a6d3375053a4
+    m_Address: Assets/Effects/Textures/light0135.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3fdafc4b8602f064098cd9ba80990642
+    m_Address: Assets/Effects/Materials/Glow01_fate_m.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1df1fbdc58a263c408278ab580d51b9e
+    m_Address: Assets/Effects/Materials/light0089.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b33577ed548dfc42a19695889507ce6
+    m_Address: Assets/Effects/Materials/ani0076_ma.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68e6db2ebdc24f95958faec2be5558d6
+    m_Address: Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe393ace9b354375a9cb14cdbbc28be4
+    m_Address: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8206bbd0a3637ab4baf23a7681f65783
+    m_Address: Assets/Texture2D/UISprites/Tutorial/hand.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39ac2ac7853a94fbc9d9e3d1151b9dfe
+    m_Address: Assets/Addons/Coffee/UIExtensions/UIEffect/Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e44765286e5753e4cbe7b5dd4b161c54, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d28709cc153ad4e4f8251a1e4d195303, type: 2}
+    - {fileID: 11400000, guid: c5a2e88981848d84ca4c754bf7f3b92a, type: 2}

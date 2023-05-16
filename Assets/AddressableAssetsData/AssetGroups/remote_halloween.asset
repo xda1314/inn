@@ -1,0 +1,325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: remote_halloween
+  m_EditorClassIdentifier: 
+  m_GroupName: remote_halloween
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8cf9dfb6d503c73449176448c9d1a5c0
+  m_SerializeEntries:
+  - m_GUID: 4dc417a6dbd84184392381bddfb66fa3
+    m_Address: Candle_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec3646ebeea2dc447b632e30ca820293
+    m_Address: CandyBag_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c89138afd83be2b4caa91ff8821adc30
+    m_Address: CandyBag_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21af7a9bff0a0694394df4f1588de9b2
+    m_Address: CandyBag_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83549cd30525bc44798ee3106fa4aa6c
+    m_Address: Cellar_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff8d12b70f7bdff4f86621263f3dcf1a
+    m_Address: Cosplay_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 645bb1cc4087e8f4bbe3efa9ef846653
+    m_Address: Cosplay_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bbaad1dab4c73849bd9334320996e8f
+    m_Address: Cosplay_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e19f996f3a4de434890b001f8b2f19c3
+    m_Address: Cosplay_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edd4ab96ec83e124ca38268cc4739b11
+    m_Address: Cosplay_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70c0d78374d1664498d3dc13140a29c1
+    m_Address: Cosplay_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 540dab8e10fafdf4d8995057fadec6bb
+    m_Address: HalloweenCandy_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2f0f172ee0031c44aee6487315dbb67
+    m_Address: HalloweenCandy_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f6bd062afaae704896228de76717203
+    m_Address: HalloweenCandy_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50062399fd3f7b24f94cbf4eaed11245
+    m_Address: HalloweenCandy_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 032e2163e1a98e0428508aa42774d054
+    m_Address: HalloweenCandy_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ded42b5e2b95e9d4181119116f6a8e43
+    m_Address: HalloweenDoll_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f706d7f0d3763ac4b9a3838a8d1d0568
+    m_Address: HalloweenDoll_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7808fd1a4433c874a8eba90da74cf481
+    m_Address: HalloweenDoll_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c0ff1401d324fb48b168e701edbcc48
+    m_Address: HalloweenDoll_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 057e96485216f3e448facc0262678559
+    m_Address: HalloweenDoll_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08835ff731e5aaf4f9fef14e018187b1
+    m_Address: HalloweenParty_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d46019fac13910449f9e2b07ef64e22
+    m_Address: HalloweenParty_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 747d41f09e7fd8940a0fc94bcbca3e3d
+    m_Address: HalloweenParty_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8f33e00d6029f1448c3dfd99a5e9f5e
+    m_Address: HalloweenParty_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5284cda956f36648b936605d578eeac
+    m_Address: HalloweenParty_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 586b7c1a5279bb544b7f5a5290b80aed
+    m_Address: HalloweenSign_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a67945e108df9fa4da11175d1ab95915
+    m_Address: HalloweenSign_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2337d4b3a53f2f488a66940b44b3fb0
+    m_Address: HalloweenSign_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dfc4f5fbaf535f4a8b4bc9113fb9e2b
+    m_Address: HalloweenSign_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c99dd0de197fc3840a63a5d72e7d993c
+    m_Address: HalloweenSign_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68f2068c882f2c8488ec7df9b581343d
+    m_Address: HalloweenSign_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1027e83e64f62040a0f427a1fcd8147
+    m_Address: PumpkinCarriage_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c79465fa93656ac459768929d79a2f2a
+    m_Address: PumpkinLantern_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98a9603f647b5df40ad59b9565b0b5bf
+    m_Address: PumpkinLantern_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc1a075f8829e804083a07b145b24fa2
+    m_Address: PumpkinLantern_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f653276579f6df943bb9ed2ac0f0e7c1
+    m_Address: PumpkinLantern_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56ddb81f0e0e45247bb5b3db64900e5d
+    m_Address: PumpkinLantern_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d96565a4e798aa409b0628e6c4cb5e1
+    m_Address: PumpkinLantern_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acdc8ae3caa516143b6db7ca14ff8b87
+    m_Address: Skeleton_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9617be1e22ebcb04eb743aabd717ede3
+    m_Address: Skeleton_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1343c7c61aba06243a370f1161ee67ee
+    m_Address: Skeleton_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac070badeb8c0fd44b5ed42b457f8ccf
+    m_Address: Tombstone_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bde0aee36e05e9449227ee4571055bf
+    m_Address: Tombstone_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93d2da32b8886554091fd74fd1e70b4a
+    m_Address: Tombstone_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9dae0af1b7933b4d82987b487875cfc
+    m_Address: Tombstone_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee914f35f8f6963488ff5fcd6809e87e
+    m_Address: Tombstone_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7166070c3665b1a47a98be3d1ffca672
+    m_Address: RemoteTaskBG_Halloween
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb21c8628ded8af4aaf5888bfcdf5907
+    m_Address: MainBG_F01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38f4962583c20e842921ec9deb739a66
+    m_Address: halloween_Spine
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e44765286e5753e4cbe7b5dd4b161c54, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 680cc2001c21c01489d33efcbf8362cb, type: 2}
+    - {fileID: 11400000, guid: 79ef3eb2f3ca5ec4e9d8f0d236a4bf0a, type: 2}
